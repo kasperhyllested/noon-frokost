@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Noon Frokost Oversigt</title>
+    <style>
+        body { font-family: sans-serif; padding: 20px; line-height: 1.6; background: #f4f4f4; }
+        .card { background: white; padding: 15px; margin-bottom: 10px; border-radius: 8px; shadow: 0 2px 4px rgba(0,0,0,0.1); }
+        h2 { color: #2c3e50; margin-top: 0; }
+        .date { color: #7f8c8d; font-size: 0.9em; }
+        a { display: inline-block; margin-top: 20px; background: #3498db; color: white; padding: 10px; text-decoration: none; border-radius: 5px; }
+    </style>
+</head>
+<body>
+    <h1>Ugens Noon Menu</h1>
+    <div id="menu-container">Henter menu...</div>
+    <a href="frokost.ics">Abonner på Kalender (.ics)</a>
+
+    <script>
+        // Denne lille kode henter kalenderfilen og prøver at vise den simpelt
+        fetch('frokost.ics')
+            .then(r => r.text())
+            .then(data => {
+                const container = document.getElementById('menu-container');
+                if (data.includes('BEGIN:VCALENDAR')) {
+                    container.innerHTML = "<p>Kalenderen er genereret! Prøv at åbne linket herunder i din kalender-app.</p>";
+                } else {
+                    container.innerHTML = "<p>Ingen menu fundet endnu. Robotten skal køre først.</p>";
+                }
+            });
+    </script>
+</body>
+</html>
