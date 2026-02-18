@@ -4,69 +4,61 @@ const fs = require('fs');
 const { startOfISOWeek, addWeeks, addDays } = require('date-fns');
 
 async function run() {
-    console.log("Starter browser...");
+    console.log("Starter robotten...");
     const browser = await puppeteer.launch({ 
         headless: "new",
         args: ['--no-sandbox', '--disable-setuid-sandbox'] 
     });
     const page = await browser.newPage();
     
-    // Vi sætter en "User Agent" så siden tror vi er en normal browser
     await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36');
-
+    
+    console.log("Besøger Noon...");
     await page.goto('https://www.nooncph.dk/ugens-menuer', { waitUntil: 'networkidle2' });
 
-    const menuData = await page.evaluate(async () => {
+    const menuData = await page.evaluate(() => {
         const results = [];
+        const days = ['mandag', 'tirsdag', 'onsdag', 'torsdag', 'fredag'];
         
-        // Find alle sektioner der ligner en uge-overskrift (f.eks. "Uge 7")
-        const sections = Array.from(document.querySelectorAll('h2, h3, span, div')).filter(el => el.innerText.includes('Uge '));
+        // Find alle overskrifter (h2, h3) og tekststykker
+        const allElements = Array.from(document.querySelectorAll('h1, h2, h3, p, span, div'));
+        let currentWeek = null;
 
-        for (const section of sections) {
-            const ugeMatch = section.innerText.match(/Uge\s+(\d+)/i);
-            if (!ugeMatch) continue;
-            const weekNum = parseInt(ugeMatch[1]);
-
-            // Find forældre-containeren for denne uge
-            const parent = section.closest('section') || section.parentElement.parentElement;
+        allElements.forEach((el, index) => {
+            const text = el.innerText.trim().toLowerCase();
             
-            // Find alle ugedage i denne sektion
-            const dayHeaders = Array.from(parent.querySelectorAll('h3, button, span')).filter(el => 
-                ['mandag', 'tirsdag', 'onsdag', 'torsdag', 'fredag'].includes(el.innerText.toLowerCase().trim())
-            );
+            // Find ugenummer
+            if (text.includes('uge ')) {
+                const match = text.match(/uge\s+(\d+)/);
+                if (match) currentWeek = parseInt(match[1]);
+            }
 
-            for (const header of dayHeaders) {
-                const dayName = header.innerText.toLowerCase().trim();
-                
-                // Vi prøver at finde mad-teksten. Ofte ligger den i det næste element.
-                // Vi leder specifikt efter tekstblokke
-                let contentElement = header.nextElementSibling;
+            // Hvis vi har fundet en uge, så led efter dage
+            if (currentWeek && days.includes(text)) {
+                // Vi tager teksten fra de næste par elementer for at være sikre på at få maden med
                 let foodText = "";
-                
-                if (contentElement) {
-                    foodText = contentElement.innerText.trim();
+                for (let i = 1; i <= 3; i++) {
+                    const nextEl = allElements[index + i];
+                    if (nextEl && nextEl.innerText.length > 10 && !days.includes(nextEl.innerText.toLowerCase())) {
+                        foodText = nextEl.innerText.split('\n')[0]; // Tag første linje
+                        break;
+                    }
                 }
-
-                if (foodText.length > 5) {
-                    results.push({
-                        week: weekNum,
-                        day: dayName,
-                        menu: foodText.split('\n')[0], // Hovedret
-                        description: foodText // Hele beskrivelsen
-                    });
+                
+                if (foodText) {
+                    results.push({ week: currentWeek, day: text, menu: foodText });
                 }
             }
-        }
+        });
         return results;
     });
 
-    console.log(`Fundet ${menuData.length} menupunkter.`);
+    console.log("Fundet data:", menuData);
 
     const events = [];
-    const currentYear = new Date().getFullYear();
+    const currentYear = 2026; // Vi tvinger den til 2026 som du bad om
 
     menuData.forEach(item => {
-        // Find mandag i den pågældende uge
         let monday = startOfISOWeek(new Date(currentYear, 0, 4));
         monday = addWeeks(monday, item.week - 1);
         
@@ -74,11 +66,10 @@ async function run() {
         const dayDate = addDays(monday, dayMap[item.day]);
 
         events.push({
-            title: `Noon: ${item.menu}`,
-            description: item.description,
+            title: `Lunch: ${item.menu}`,
+            description: `Menu: ${item.menu} (Uge ${item.week})`,
             start: [dayDate.getFullYear(), dayDate.getMonth() + 1, dayDate.getDate(), 11, 30],
-            duration: { hours: 1 },
-            location: 'Noon Frokost'
+            duration: { hours: 1 }
         });
     });
 
@@ -86,16 +77,12 @@ async function run() {
         const { error, value } = ics.createEvents(events);
         if (!error) {
             fs.writeFileSync('frokost.ics', value);
-            console.log("frokost.ics fil er skrevet.");
+            console.log("SUCCESS: frokost.ics er oprettet!");
         }
     } else {
-        console.log("Kunne ikke udtrække menu-tekst. Tjek sidens struktur.");
+        console.log("FEJL: Ingen menu fundet på siden.");
     }
-    
     await browser.close();
 }
 
-run().catch(err => {
-    console.error("FEJL:", err);
-    process.exit(1);
-});
+run();
