@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:INZxnHD7WobYOFHNexJZD
+UID:IKUtLQOh_Jyunlt8_fbQu
 SUMMARY:Noon: Menu / Dagens inspiration:Danske hyggema...
-DTSTAMP:20260218T201232Z
+DTSTAMP:20260218T205845Z
 DTSTART:20260216T113000Z
 DESCRIPTION:UGE 8 - MANDAG:\n\nMenu / Dagens inspiration:Danske hyggemad Fu
 	ll noon:Stegte bøffer af økologisk\, græsfodret\, fritgående kødkvæg fra F
@@ -53,9 +53,9 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/698b3a7497b
 DURATION:PT1H
 END:VEVENT
 BEGIN:VEVENT
-UID:hNM6jyc-VeLJ7nyB2_AyT
+UID:0h3UJO2r4VeslysH4yqNO
 SUMMARY:Noon: Menu / Dagens inspiration:Dansk hyggemad...
-DTSTAMP:20260218T201232Z
+DTSTAMP:20260218T205845Z
 DTSTART:20260216T113000Z
 DESCRIPTION:UGE 8 - MANDAG:\n\nMenu / Dagens inspiration:Dansk hyggemad Ful
 	l noon:Frikadeller af gris og grøntsager fra Aarstiderne\, serveret med br
@@ -104,9 +104,9 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/6995aaca1f5
 DURATION:PT1H
 END:VEVENT
 BEGIN:VEVENT
-UID:uiVYe-2jV_VOV_LH5X0YA
+UID:apgsTSNaN2NiO3XKrf-nc
 SUMMARY:Noon: Menu / Dagens inspiration:Tikka Masala F...
-DTSTAMP:20260218T201232Z
+DTSTAMP:20260218T205845Z
 DTSTART:20260217T113000Z
 DESCRIPTION:UGE 8 - TIRSDAG:\n\nMenu / Dagens inspiration:Tikka Masala Full
 	 noon:Øko-kylling tikka masala med kikærter og varme krydderier (7\,B\,T) 
@@ -151,9 +151,9 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/698b3a74781
 DURATION:PT1H
 END:VEVENT
 BEGIN:VEVENT
-UID:vwy1XmMQwkPh2QsbhUox7
+UID:yy3OfdBYnt7KXv1Og1Rma
 SUMMARY:Noon: Menu / Dagens inspiration:Italienske kla...
-DTSTAMP:20260218T201232Z
+DTSTAMP:20260218T205845Z
 DTSTART:20260217T113000Z
 DESCRIPTION:UGE 8 - TIRSDAG:\n\nMenu / Dagens inspiration:Italienske klassi
 	ker Full noon:Hvid ragu med øko-oksekød fra Farmers Circle\, hjemmerørt sa
@@ -203,9 +203,9 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/6995aacaaca
 DURATION:PT1H
 END:VEVENT
 BEGIN:VEVENT
-UID:vJjDl2FFOABY5DDM0Su8P
+UID:NAgF9gzYVSmQ6gICKnZY7
 SUMMARY:Noon: Menu / Dagens inspiration:Sibirisk simre...
-DTSTAMP:20260218T201232Z
+DTSTAMP:20260218T205845Z
 DTSTART:20260218T113000Z
 DESCRIPTION:UGE 8 - ONSDAG:\n\nMenu / Dagens inspiration:Sibirisk simreret 
 	Full noon:Stroganoff af øko-okse fra Farmers Circle med øko-bacon og stegt
@@ -255,9 +255,9 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/698b3a74566
 DURATION:PT1H
 END:VEVENT
 BEGIN:VEVENT
-UID:RF-hZBpcDESbqb-Ub4eZz
+UID:fS_0Duf_ODzmIQj70onlO
 SUMMARY:Noon: Menu / Dagens inspiration:Japaniseret hv...
-DTSTAMP:20260218T201232Z
+DTSTAMP:20260218T205845Z
 DTSTART:20260218T113000Z
 DESCRIPTION:UGE 8 - ONSDAG:\n\nMenu / Dagens inspiration:Japaniseret hverda
 	gsmad Full noon:Miso-glasserede øko-kødboller af grisekød og grøntsager fr
@@ -305,9 +305,9 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/6995aacae5b
 DURATION:PT1H
 END:VEVENT
 BEGIN:VEVENT
-UID:uUP_cU_b604aGXth5Xw-T
+UID:9m8R61NZ2npm5jbWfCLZW
 SUMMARY:Noon: Menu / Dagens inspiration:Gæstekok Jowet...
-DTSTAMP:20260218T201232Z
+DTSTAMP:20260218T205845Z
 DTSTART:20260219T113000Z
 DESCRIPTION:UGE 8 - TORSDAG:\n\nMenu / Dagens inspiration:Gæstekok Jowett Y
 	u Full noon:Øko-gris og selleri i Hong Kong chili sauce (1\,6\,9\,11\,12) 
@@ -358,9 +358,9 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/698b3a74d62
 DURATION:PT1H
 END:VEVENT
 BEGIN:VEVENT
-UID:Am81N4N1YvQ9D_VOPdL2g
+UID:SiPd_ptsBUl1mJmnIRsq5
 SUMMARY:Noon: Menu / Dagens inspiration:Ungarsk simrem...
-DTSTAMP:20260218T201232Z
+DTSTAMP:20260218T205845Z
 DTSTART:20260219T113000Z
 DESCRIPTION:UGE 8 - TORSDAG:\n\nMenu / Dagens inspiration:Ungarsk simremad 
 	Full noon:Gullash af økologisk græsfodret\, fritgående kødkvæg fra Farmers
@@ -405,9 +405,9 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/6995aacad5a
 DURATION:PT1H
 END:VEVENT
 BEGIN:VEVENT
-UID:5KkMrpcraJApCnEdB8_Ur
+UID:uITF297YSMJt4wa_FAiDC
 SUMMARY:Noon: Menu / Dagens inspiration:BBQ Full noon:...
-DTSTAMP:20260218T201232Z
+DTSTAMP:20260218T205845Z
 DTSTART:20260220T113000Z
 DESCRIPTION:UGE 8 - FREDAG:\n\nMenu / Dagens inspiration:BBQ Full noon:Steg
 	te øko-kalkuncuvetter og rødløg med barbecue- og ananasglasering (1\,6\,10
@@ -450,9 +450,9 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/698b3a746c1
 DURATION:PT1H
 END:VEVENT
 BEGIN:VEVENT
-UID:YTnwGNgxr-ShGsatSbIRG
+UID:hvvQYfYZAzMMR7FKuv7VW
 SUMMARY:Noon: Menu / Dagens inspiration:Gæstekok Jo Ba...
-DTSTAMP:20260218T201232Z
+DTSTAMP:20260218T205845Z
 DTSTART:20260220T113000Z
 DESCRIPTION:UGE 8 - FREDAG:\n\nMenu / Dagens inspiration:Gæstekok Jo Barret
 	 Full noon:Stegte øko-kyllingeoverlår med macadamianøddecreme og ristede g
