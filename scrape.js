@@ -6,7 +6,7 @@ const pdf = require('pdf-parse');
 const { startOfISOWeek, addWeeks, addDays } = require('date-fns');
 
 async function run() {
-    console.log("🚀 Version 14: Sorterer uger baseret på URL...");
+    console.log("🚀 Version 15: URL-Dekodning & Fleksibel RegEx...");
     const browser = await puppeteer.launch({ 
         headless: "new",
         args: ['--no-sandbox', '--disable-setuid-sandbox', '--disable-dev-shm-usage'] 
@@ -26,71 +26,73 @@ async function run() {
             }));
     });
 
-    console.log(`🔎 Analyserer ${pdfLinks.length} links for ugedage og ugenumre...`);
-
     const events = [];
-    const days = ['MANDAG', 'TIRSDAG', 'ONSDAG', 'TORSDAG', 'FREDAG'];
+    const daysMap = {
+        'MAN': 0, 'TIR': 1, 'ONS': 2, 'TOR': 3, 'FRE': 4,
+        'MANDAG': 0, 'TIRSDAG': 1, 'ONSDAG': 2, 'TORSDAG': 3, 'FREDAG': 4
+    };
     const currentYear = 2026;
 
     for (const link of pdfLinks) {
-        // 1. Find ugedag fra link-tekst eller URL
-        const foundDay = days.find(d => link.text.includes(d) || link.url.toUpperCase().includes(d));
-        if (!foundDay) continue;
+        // Dekod URL'en så "%20" bliver til mellemrum " "
+        const decodedUrl = decodeURIComponent(link.url).toUpperCase();
+        
+        // 1. Find ugedag (vi tjekker både forkortelser som 'MAN' og fulde navne)
+        let dayIdx = -1;
+        for (const [dayStr, idx] of Object.entries(daysMap)) {
+            if (decodedUrl.includes(dayStr) || link.text.includes(dayStr)) {
+                dayIdx = idx;
+                break;
+            }
+        }
+        if (dayIdx === -1) continue;
 
-        // 2. Find ugenummer fra URL (vi leder efter tallet efter 'uge')
-        // Matcher f.eks. "uge-8", "uge8", "uge_8"
-        const urlMatch = link.url.match(/uge[_-]?(\d+)/i);
-        let weekNum = urlMatch ? parseInt(urlMatch[1]) : null;
+        // 2. Find ugenummer med forbedret RegEx
+        // Denne leder efter 'UGE' efterfulgt af valgfrit mellemrum/tegn og så et tal
+        const weekMatch = decodedUrl.match(/UGE\s*(\d+)/i) || link.text.match(/UGE\s*(\d+)/i);
+        let weekNum = weekMatch ? parseInt(weekMatch[1]) : null;
 
-        // Hvis URL'en ikke har ugenummer, kigger vi i teksten inde i PDF'en (backup)
         try {
-            console.log(`📄 Henter: ${foundDay} (Uge: ${weekNum || 'søger...'})`);
+            console.log(`📄 Behandler: ${decodedUrl.split('/').pop()} (Uge: ${weekNum})`);
             const response = await axios.get(link.url, { responseType: 'arraybuffer' });
             const data = await pdf(response.data);
             
+            // Hvis vi stadig ikke har ugenummeret, prøver vi at læse indeni PDF'en
             if (!weekNum) {
-                const textMatch = data.text.match(/uge\s*(\d+)/i);
-                weekNum = textMatch ? parseInt(textMatch[1]) : 8; // Fallback til uge 8 hvis alt fejler
+                const innerMatch = data.text.match(/uge\s*(\d+)/i);
+                weekNum = innerMatch ? parseInt(innerMatch[1]) : 8; 
             }
 
             let menuText = data.text
-                .replace(new RegExp(foundDay, 'gi'), '')
-                .replace(/UGE\s*\d+/gi, '')
                 .replace(/\n+/g, ' ')
                 .replace(/\s+/g, ' ')
                 .trim();
 
-            if (menuText.length > 5) {
-                const dayIdx = days.indexOf(foundDay);
-                let date = startOfISOWeek(new Date(currentYear, 0, 4));
-                date = addWeeks(date, weekNum - 1);
-                date = addDays(date, dayIdx);
+            const mondayOfSelectedWeek = startOfISOWeek(new Date(currentYear, 0, 4));
+            const targetDate = addDays(addWeeks(mondayOfSelectedWeek, weekNum - 1), dayIdx);
 
-                events.push({
-                    title: `Noon: ${menuText.substring(0, 40)}...`,
-                    start: [date.getFullYear(), date.getMonth() + 1, date.getDate(), 11, 30],
-                    duration: { hours: 1 },
-                    description: `UGE ${weekNum} - ${foundDay}:\n\n${menuText}\n\nLink: ${link.url}`,
-                    url: link.url
-                });
-                console.log(`✅ Tilføjet ${foundDay} til uge ${weekNum}`);
-            }
+            events.push({
+                title: `Noon: ${menuText.substring(0, 40)}...`,
+                start: [targetDate.getFullYear(), targetDate.getMonth() + 1, targetDate.getDate(), 11, 30],
+                duration: { hours: 1 },
+                description: `UGE ${weekNum}\n\n${menuText}\n\nKilde: ${link.url}`,
+                url: link.url
+            });
+            console.log(`✅ Tilføjet til ${targetDate.toDateString()} (Uge ${weekNum})`);
+
         } catch (err) {
-            console.log(`❌ Fejl ved ${foundDay}: ${err.message}`);
+            console.log(`❌ Fejl ved analyse af ${link.url}: ${err.message}`);
         }
     }
 
     if (events.length > 0) {
-        // Sorterer events så de ligger kronologisk i filen
         events.sort((a, b) => {
-            const d1 = new Date(a.start[0], a.start[1]-1, a.start[2]);
-            const d2 = new Date(b.start[0], b.start[1]-1, b.start[2]);
-            return d1 - d2;
+            return new Date(a.start[0], a.start[1]-1, a.start[2]) - new Date(b.start[0], b.start[1]-1, b.start[2]);
         });
 
         const { value } = ics.createEvents(events);
         fs.writeFileSync('frokost.ics', value);
-        console.log(`🎉 Færdig! ${events.length} menuer fordelt på de rigtige uger.`);
+        console.log(`🎉 Færdig! ${events.length} unikke menuer gemt.`);
     }
     await browser.close();
 }
