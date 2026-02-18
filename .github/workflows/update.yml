@@ -8,13 +8,14 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # Giver eksplicit lov til at skrive filer
+      contents: write
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-node@v3
         with:
           node-version: 18
       - run: npm install
+      - run: npx puppeteer browsers install chrome # INSTALLERER BROWSEREN HER
       - run: node scrape.js
       - name: Commit og Push
         env:
