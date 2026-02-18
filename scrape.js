@@ -3,10 +3,10 @@ const ics = require('ics');
 const fs = require('fs');
 const axios = require('axios');
 const pdf = require('pdf-parse');
-const { startOfISOWeek, addWeeks, addDays } = require('date-fns');
+const { startOfISOWeek, addWeeks, addDays, getISOWeek } = require('date-fns');
 
 async function run() {
-    console.log("🚀 Starter Version 12 (Squarespace/Noon Special)...");
+    console.log("🚀 Version 13: Noon Special Fix...");
     const browser = await puppeteer.launch({ 
         headless: "new",
         args: ['--no-sandbox', '--disable-setuid-sandbox', '--disable-dev-shm-usage'] 
@@ -15,71 +15,70 @@ async function run() {
     await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36');
 
     await page.goto('https://www.nooncph.dk/ugens-menuer', { waitUntil: 'networkidle2' });
-    await new Promise(r => setTimeout(r, 5000));
+    await new Promise(r => setTimeout(r, 4000));
 
     const pdfLinks = await page.evaluate(() => {
         return Array.from(document.querySelectorAll('a'))
-            .filter(a => a.href.includes('.pdf') || a.href.includes('/s/'))
-            .map(a => ({ url: a.href, text: a.innerText.trim() }));
+            .filter(a => a.href.includes('.pdf') || a.getAttribute('href')?.startsWith('/s/'))
+            .map(a => ({ 
+                url: a.href.startsWith('http') ? a.href : 'https://www.nooncph.dk' + a.getAttribute('href'), 
+                text: a.innerText.trim().toUpperCase() 
+            }));
     });
 
-    console.log(`🔎 Fandt ${pdfLinks.length} mulige links.`);
+    console.log(`🔎 Fandt ${pdfLinks.length} links.`);
 
     const events = [];
-    const days = ['mandag', 'tirsdag', 'onsdag', 'torsdag', 'fredag'];
+    const days = ['MANDAG', 'TIRSDAG', 'ONSDAG', 'TORSDAG', 'FREDAG'];
+    
+    // Vi bruger den aktuelle uge som standard
+    const currentWeek = getISOWeek(new Date());
     const currentYear = 2026;
 
     for (const link of pdfLinks) {
-        if (link.text.toLowerCase().includes('morgenmad')) continue;
+        // Find ud af hvilken dag det er baseret på linkets tekst
+        const foundDay = days.find(d => link.text.includes(d));
+        if (!foundDay) continue;
 
         try {
-            console.log(`📄 Analyserer: ${link.text}...`);
+            console.log(`📄 Henter indhold for ${foundDay}...`);
             const response = await axios.get(link.url, { responseType: 'arraybuffer' });
             const data = await pdf(response.data);
-            const text = data.text;
-            const lowerText = text.toLowerCase();
-
-            // Find uge (leder efter "Uge 8", "Uge 08" osv)
-            const weekMatch = lowerText.match(/uge\s*(\d+)/i) || link.text.match(/uge\s*(\d+)/i);
-            const weekNum = weekMatch ? parseInt(weekMatch[1]) : null;
             
-            // Find dag
-            const foundDay = days.find(d => lowerText.includes(d));
+            // Rens teksten - fjern overskriften (dagen) så kun menuen er tilbage
+            let menuText = data.text
+                .replace(new RegExp(foundDay, 'gi'), '')
+                .replace(/UGE\s*\d+/gi, '')
+                .replace(/\n+/g, ' ')
+                .replace(/\s+/g, ' ')
+                .trim();
 
-            if (weekNum && foundDay) {
+            if (menuText.length > 5) {
                 const dayIdx = days.indexOf(foundDay);
                 let date = startOfISOWeek(new Date(currentYear, 0, 4));
-                date = addWeeks(date, weekNum - 1);
+                date = addWeeks(date, currentWeek - 1);
                 date = addDays(date, dayIdx);
 
-                // Rens teksten - vi tager alt efter ugedagen
-                let cleanMenu = text.split(new RegExp(foundDay, 'i'))[1] || text;
-                cleanMenu = cleanMenu.replace(/Uge\s*\d+/gi, '')
-                                     .replace(/\n+/g, ' ')
-                                     .replace(/\s+/g, ' ')
-                                     .trim();
-
                 events.push({
-                    title: `Noon: ${cleanMenu.substring(0, 40)}...`,
+                    title: `Noon: ${menuText.substring(0, 40)}...`,
                     start: [date.getFullYear(), date.getMonth() + 1, date.getDate(), 11, 30],
                     duration: { hours: 1 },
-                    description: `MENU: ${cleanMenu}\n\nKilde: ${link.url}`,
+                    description: `${foundDay}: ${menuText}\n\nLink: ${link.url}`,
                     url: link.url
                 });
-                console.log(`✅ Succes: ${foundDay} uge ${weekNum}`);
+                console.log(`✅ Tilføjet ${foundDay} (Uge ${currentWeek})`);
             }
         } catch (err) {
-            console.log(`❌ Fejl ved ${link.text}: ${err.message}`);
+            console.log(`❌ Kunne ikke læse ${foundDay}: ${err.message}`);
         }
     }
 
     if (events.length > 0) {
         const { value } = ics.createEvents(events);
         fs.writeFileSync('frokost.ics', value);
-        console.log(`\n🎉 FÆRDIG! ${events.length} dage tilføjet til kalenderen.`);
+        console.log(`🎉 Succes! ${events.length} dage klar i kalenderen.`);
     } else {
-        console.log("\n⚠️ Ingen frokost-menuer fundet.");
-        fs.writeFileSync('frokost.ics', 'BEGIN:VCALENDAR\nVERSION:2.0\nEND:VCALENDAR');
+        console.log("⚠️ Fandt ingen menuer i PDF-filerne.");
     }
     await browser.close();
 }
