@@ -6,7 +6,7 @@ const pdf = require('pdf-parse');
 const { startOfISOWeek, addWeeks, addDays } = require('date-fns');
 
 async function run() {
-    console.log("🚀 Version 17: Justerer tidspunkt og titel-format...");
+    console.log("🚀 Version 17.1: Retter titler og tidsplan...");
     const browser = await puppeteer.launch({ 
         headless: "new",
         args: ['--no-sandbox', '--disable-setuid-sandbox', '--disable-dev-shm-usage'] 
@@ -35,9 +35,11 @@ async function run() {
         const linkText = link.text.toUpperCase();
         
         let dayIdx = -1;
+        let dayName = "";
         for (const [dayStr, idx] of Object.entries(daysMap)) {
             if (decodedUrl.includes(dayStr) || linkText.includes(dayStr)) {
                 dayIdx = idx;
+                dayName = dayStr;
                 break;
             }
         }
@@ -55,16 +57,13 @@ async function run() {
             
             let fullText = data.text.replace(/\n+/g, ' ').replace(/\s+/g, ' ').trim();
 
-            // LOGIK FOR NY TITEL: Vi leder efter tekst efter "Full noon:"
-            let eventTitle = `Frokost: ${foundDay || ''}`; // Fallback
-            const fullNoonMatch = fullText.match(/Full noon:\s*(.*?)(?=Dagens inspiration:|Green noon:|Lun ret:|$/i);
+            // Rigtig RegEx til at finde maden efter "Full noon:"
+            let eventTitle = `Frokost: ${dayName}`; 
+            const fullNoonMatch = fullText.match(/Full noon:\s*(.*?)(?=Dagens inspiration|Green noon|Lun ret|$)/i);
             
             if (fullNoonMatch && fullNoonMatch[1]) {
-                let dish = fullNoonMatch[1].trim();
-                // Fjern eventuelle efterladte kolonner eller mærkelige tegn i starten
-                dish = dish.replace(/^[:\s-]+/, '');
-                // Gør titlen kort nok til kalender-oversigten (maks 60 tegn)
-                eventTitle = `Frokost: ${dish.substring(0, 60)}${dish.length > 60 ? '...' : ''}`;
+                let dish = fullNoonMatch[1].trim().replace(/^[:\s-]+/, '');
+                eventTitle = `Frokost: ${dish.substring(0, 65)}`;
             }
 
             const mondayOfSelectedWeek = startOfISOWeek(new Date(currentYear, 0, 4));
@@ -72,37 +71,34 @@ async function run() {
 
             events.push({
                 title: eventTitle,
-                // TIDSPUNKT: Sættes til 11:30
                 start: [targetDate.getFullYear(), targetDate.getMonth() + 1, targetDate.getDate(), 11, 30],
-                // VARIGHED: 30 minutter (så det slutter 12:00)
                 duration: { minutes: 30 },
                 description: `UGE ${weekNum}\n\n${fullText}\n\nKilde: ${link.url}`,
                 url: link.url
             });
-            console.log(`✅ ${eventTitle} lagt ind d. ${targetDate.toISOString().split('T')[0]}`);
+            console.log(`✅ OK: ${eventTitle} (${targetDate.toISOString().split('T')[0]})`);
 
         } catch (err) {
-            console.log(`❌ Fejl ved ${link.url}: ${err.message}`);
+            console.log(`❌ Fejl: ${err.message}`);
         }
     }
 
     if (events.length > 0) {
-        // Deduplikering
         const uniqueEvents = [];
         const seenDates = new Set();
         events.sort((a,b) => b.description.length - a.description.length);
         
         for (const e of events) {
-            const dateStr = e.start.join('-');
-            if (!seenDates.has(dateStr)) {
+            const dateKey = e.start.join('-');
+            if (!seenDates.has(dateKey)) {
                 uniqueEvents.push(e);
-                seenDates.add(dateStr);
+                seenDates.add(dateKey);
             }
         }
 
         const { value } = ics.createEvents(uniqueEvents);
         fs.writeFileSync('frokost.ics', value);
-        console.log(`🎉 Færdig! ${uniqueEvents.length} dage opdateret.`);
+        console.log(`🎉 Færdig! Kalender opdateret.`);
     }
     await browser.close();
 }
