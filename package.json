@@ -1,0 +1,8 @@
+{
+  "name": "noon-scraper",
+  "dependencies": {
+    "puppeteer": "^21.0.0",
+    "ics": "^3.1.0",
+    "date-fns": "^2.30.0"
+  }
+}
