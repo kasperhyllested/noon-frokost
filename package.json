@@ -1,8 +1,9 @@
 {
-  "name": "noon-scraper",
   "dependencies": {
-    "puppeteer": "^21.0.0",
+    "axios": "^1.6.0",
+    "date-fns": "^2.30.0",
     "ics": "^3.1.0",
-    "date-fns": "^2.30.0"
+    "pdf-parse": "^1.1.1",
+    "puppeteer": "^21.5.0"
   }
 }
