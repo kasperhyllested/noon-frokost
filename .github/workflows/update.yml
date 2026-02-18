@@ -14,9 +14,13 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 18
-      - run: npm install
-      - run: npx puppeteer browsers install chrome # INSTALLERER BROWSEREN HER
+      
+      # Her installerer vi de 5 værktøjer, robotten skal bruge
+      - run: npm install puppeteer ics date-fns axios pdf-parse
+      
+      - run: npx puppeteer browsers install chrome
       - run: node scrape.js
+      
       - name: Commit og Push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
