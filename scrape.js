@@ -6,7 +6,7 @@ const pdf = require('pdf-parse');
 const { startOfISOWeek, addWeeks, addDays } = require('date-fns');
 
 async function run() {
-    console.log("🚀 Version 16: Deep-scanning URL for week numbers...");
+    console.log("🚀 Version 17: Justerer tidspunkt og titel-format...");
     const browser = await puppeteer.launch({ 
         headless: "new",
         args: ['--no-sandbox', '--disable-setuid-sandbox', '--disable-dev-shm-usage'] 
@@ -34,7 +34,6 @@ async function run() {
         const decodedUrl = decodeURIComponent(link.url).toUpperCase();
         const linkText = link.text.toUpperCase();
         
-        // 1. Find ugedag (Søger i URL først, så i knap-tekst)
         let dayIdx = -1;
         for (const [dayStr, idx] of Object.entries(daysMap)) {
             if (decodedUrl.includes(dayStr) || linkText.includes(dayStr)) {
@@ -44,52 +43,54 @@ async function run() {
         }
         if (dayIdx === -1) continue;
 
-        // 2. Find ugenummer (Vi leder efter tallet der står lige ved siden af "UGE")
-        // Vi fjerner alt støj og kigger kun på filnavnet til sidst
         const fileName = decodedUrl.split('/').pop();
         const weekMatch = fileName.match(/UGE\s*(\d+)/i) || fileName.match(/(\d+)\s*UGE/i) || linkText.match(/UGE\s*(\d+)/i);
-        
         let weekNum = weekMatch ? parseInt(weekMatch[1]) : null;
 
-        // Hvis vi stadig mangler uge, så gæt ud fra om linket ligger øverst eller nederst på siden
-        // Men her tvinger vi den til at fejle hvis ingen uge findes, så vi ikke får dubletter
-        if (!weekNum) {
-            console.log(`⚠️ Kunne ikke finde uge for: ${fileName}. Springer over.`);
-            continue;
-        }
+        if (!weekNum) continue;
 
         try {
-            console.log(`📄 Henter uge ${weekNum}, dag ${dayIdx}: ${fileName}`);
             const response = await axios.get(link.url, { responseType: 'arraybuffer' });
             const data = await pdf(response.data);
             
-            let menuText = data.text
-                .replace(/\n+/g, ' ')
-                .replace(/\s+/g, ' ')
-                .trim();
+            let fullText = data.text.replace(/\n+/g, ' ').replace(/\s+/g, ' ').trim();
+
+            // LOGIK FOR NY TITEL: Vi leder efter tekst efter "Full noon:"
+            let eventTitle = `Frokost: ${foundDay || ''}`; // Fallback
+            const fullNoonMatch = fullText.match(/Full noon:\s*(.*?)(?=Dagens inspiration:|Green noon:|Lun ret:|$/i);
+            
+            if (fullNoonMatch && fullNoonMatch[1]) {
+                let dish = fullNoonMatch[1].trim();
+                // Fjern eventuelle efterladte kolonner eller mærkelige tegn i starten
+                dish = dish.replace(/^[:\s-]+/, '');
+                // Gør titlen kort nok til kalender-oversigten (maks 60 tegn)
+                eventTitle = `Frokost: ${dish.substring(0, 60)}${dish.length > 60 ? '...' : ''}`;
+            }
 
             const mondayOfSelectedWeek = startOfISOWeek(new Date(currentYear, 0, 4));
             const targetDate = addDays(addWeeks(mondayOfSelectedWeek, weekNum - 1), dayIdx);
 
             events.push({
-                title: `Noon: ${menuText.substring(0, 40)}...`,
+                title: eventTitle,
+                // TIDSPUNKT: Sættes til 11:30
                 start: [targetDate.getFullYear(), targetDate.getMonth() + 1, targetDate.getDate(), 11, 30],
-                duration: { hours: 1 },
-                description: `UGE ${weekNum} - ${targetDate.toLocaleDateString('da-DK')}\n\n${menuText}\n\nKilde: ${link.url}`,
+                // VARIGHED: 30 minutter (så det slutter 12:00)
+                duration: { minutes: 30 },
+                description: `UGE ${weekNum}\n\n${fullText}\n\nKilde: ${link.url}`,
                 url: link.url
             });
-            console.log(`✅ Succes: Placeret på ${targetDate.toISOString().split('T')[0]}`);
+            console.log(`✅ ${eventTitle} lagt ind d. ${targetDate.toISOString().split('T')[0]}`);
 
         } catch (err) {
-            console.log(`❌ Fejl: ${err.message}`);
+            console.log(`❌ Fejl ved ${link.url}: ${err.message}`);
         }
     }
 
     if (events.length > 0) {
-        // Fjern eventuelle dubletter hvis to links peger på samme dag
+        // Deduplikering
         const uniqueEvents = [];
         const seenDates = new Set();
-        events.sort((a,b) => b.description.length - a.description.length); // Tag den med mest tekst først
+        events.sort((a,b) => b.description.length - a.description.length);
         
         for (const e of events) {
             const dateStr = e.start.join('-');
@@ -101,7 +102,7 @@ async function run() {
 
         const { value } = ics.createEvents(uniqueEvents);
         fs.writeFileSync('frokost.ics', value);
-        console.log(`🎉 Færdig! ${uniqueEvents.length} unikke dage gemt.`);
+        console.log(`🎉 Færdig! ${uniqueEvents.length} dage opdateret.`);
     }
     await browser.close();
 }
