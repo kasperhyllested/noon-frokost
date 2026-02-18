@@ -5,11 +5,13 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:xVapHszzpmTTsnGZP-ooI
-SUMMARY:Noon: Tjek hjemmesiden (Ingen menu fundet)
-DTSTAMP:20260218T164847Z
+UID:F2fYYvmT86O5YYaJbBVV1
+SUMMARY:Noon Menu: Frokostmenuer
+DTSTAMP:20260218T170755Z
 DTSTART:20260218T113000Z
-DESCRIPTION:Robotten kunne ikke udtrække menuen automatisk i dag.
+DESCRIPTION:Robotten fandt dette link\, som sandsynligvis er menuen: https:
+	//www.nooncph.dk/ugens-menuer
+URL:https://www.nooncph.dk/ugens-menuer
 DURATION:PT1H
 END:VEVENT
 END:VCALENDAR
