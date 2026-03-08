@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:xEoGTl1_j_o8SA1Z89bt1
+UID:mngDkSMA1bZUq2e0wrzOb
 SUMMARY:Frokost: Møre tern af økologisk\, græsfodret\, fritgående oksekød f
 	ra Farmer
-DTSTAMP:20260306T065704Z
+DTSTAMP:20260308T065147Z
 DTSTART:20260306T113000Z
 DESCRIPTION:UGE 10\n\nMenu / fredag Dagens inspiration:Gæstekok Per Thøstes
 	en Full noon:Møre tern af økologisk\, græsfodret\, fritgående oksekød fra 
@@ -68,10 +68,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69a572e0344
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:p5h9AV7k9L8lxI688zxg7
+UID:lCtgKKAj5X8Sdly-2T38-
 SUMMARY:Frokost: Byg selv-burritos med stegt hakkede øko-kylliing og tomate
 	r (6\,B\,
-DTSTAMP:20260306T065704Z
+DTSTAMP:20260308T065147Z
 DTSTART:20260313T113000Z
 DESCRIPTION:UGE 11\n\nMenu / fredag Dagens inspiration:Street food Full noo
 	n:Byg selv-burritos med stegt hakkede øko-kylliing og tomater (6\,B\,T)\, 
@@ -92,41 +92,40 @@ DESCRIPTION:UGE 11\n\nMenu / fredag Dagens inspiration:Street food Full noo
 	 serveret med stærk sennep (1\,10) Til brød - Green:Salatostcreme med solt
 	ørede tomater og bladselleri (7\,9\,T) Til brød - Green vegansk:Vegansk os
 	tecreme med soltørede tomater og bladselleri (6\,9\,T) Til brød - Alle:Gua
-	camole (12\,T) Til brød - Alle vegansk:Guacamole (12\,T) Brød:Surdejsbrød 
-	(1) og rugbrød (1) Menu / fredag Today's inspiration:Street food Hot dishe
-	s - Full noon:Build-your-own burritos with roasted chopped organic chicken
-	 and tomatoes (6\,B\,T)\, served with chili-flavored buttermilk (7)\, whea
-	t tortillas (1) and steamed rice with tomato\, sofrito and corn kernels (9
-	\,T) Hot dishes - Green noon:Build-your-own burritos with kidney beans\, k
-	ing oyster mushrooms and tomatoes (6\,B\,T)\, served with chili-flavored b
-	uttermilk (7)\, wheat tortillas\, and steamed rice with tomato\, sofrito a
-	nd corn kernels (9\,T) Hot dishes - Vegan Green noon:Build-your-own burrit
-	os with kidney beans\, king oyster mushroom and tomatoes (6\,B\,T)\, serve
-	d with chili-flavored soy yoghurt (6)\, wheat tortillas\, and steamed rice
-	 with tomato\, sofrito and corn kernels (9\,T) Heavy salad:Chili-roasted b
-	lack beans with purple pointed cabbage and lime dressing (10\,12\,B\,K) He
-	avy salad vegan:Chili-roasted black beans with purple pointed cabbage and 
-	lime dressing (10\,12\,B\,K) Light salad:Filling for burritos: iceberg let
-	tuce\, pickled red onions\, and cherry tomatoes Light salad vegan:Filling 
-	for burritos: iceberg lettuce\, pickled red onions\, and cherry tomatoes G
-	reen piece:Zucchini with tomatillo salsa verde Green piece vegan:Zucchini 
-	with tomatillo salsa verde For bread - Full:Beef patties with vegetables f
-	rom Aarstiderne\, served with spicy mustard (1\,10) For bread - Green:Sala
-	d cheese cream with sun-dried tomatoes and celery (7\,9\,T) For bread - Gr
-	een vegan:Vegan cheese spread with sun-dried tomatoes and celery (6\,9\,T)
-	 For bread - All:Guacamole (12\,T) For bread - All vegan:Guacamole (12\,T)
-	 Bread:Sourdough bread (1) and rye bread (1)\n\nKilde: https://cdn.prod.we
-	bsite-files.com/6020356278b4438fe8a59224/69a9616621eaec6c3807971c_fre%20ug
-	e%2011.pdf
-URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69a9616621e
-	aec6c3807971c_fre%20uge%2011.pdf
+	camole (12\,T) Til brød - Alle vegansk:Guacamole (12\,T) Brød:Rugbrød (1) 
+	Menu / fredag Today's inspiration:Street food Hot dishes - Full noon:Build
+	-your-own burritos with roasted chopped organic chicken and tomatoes (6\,B
+	\,T)\, served with chili-flavored buttermilk (7)\, wheat tortillas (1) and
+	 steamed rice with tomato\, sofrito and corn kernels (9\,T) Hot dishes - G
+	reen noon:Build-your-own burritos with kidney beans\, king oyster mushroom
+	s and tomatoes (6\,B\,T)\, served with chili-flavored buttermilk (7)\, whe
+	at tortillas\, and steamed rice with tomato\, sofrito and corn kernels (9\
+	,T) Hot dishes - Vegan Green noon:Build-your-own burritos with kidney bean
+	s\, king oyster mushroom and tomatoes (6\,B\,T)\, served with chili-flavor
+	ed soy yoghurt (6)\, wheat tortillas\, and steamed rice with tomato\, sofr
+	ito and corn kernels (9\,T) Heavy salad:Chili-roasted black beans with pur
+	ple pointed cabbage and lime dressing (10\,12\,B\,K) Heavy salad vegan:Chi
+	li-roasted black beans with purple pointed cabbage and lime dressing (10\,
+	12\,B\,K) Light salad:Filling for burritos: iceberg lettuce\, pickled red 
+	onions\, and cherry tomatoes Light salad vegan:Filling for burritos: icebe
+	rg lettuce\, pickled red onions\, and cherry tomatoes Green piece:Zucchini
+	 with tomatillo salsa verde Green piece vegan:Zucchini with tomatillo sals
+	a verde For bread - Full:Beef patties with vegetables from Aarstiderne\, s
+	erved with spicy mustard (1\,10) For bread - Green:Salad cheese cream with
+	 sun-dried tomatoes and celery (7\,9\,T) For bread - Green vegan:Vegan che
+	ese spread with sun-dried tomatoes and celery (6\,9\,T) For bread - All:Gu
+	acamole (12\,T) For bread - All vegan:Guacamole (12\,T) Bread:Rye bread (1
+	)\n\nKilde: https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69
+	aab06c856ce65457a143c7_fre%20uge%2011%20R.pdf
+URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69aab06c856
+	ce65457a143c7_fre%20uge%2011%20R.pdf
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:zc1jVSCtTJJBD7tLsfj2I
+UID:xiSSw2fkWYjhBzWX3WlZR
 SUMMARY:Frokost: Grøn karry med stegt øko-kalkun\, auberginer\, bambus\, pe
 	berfrugter
-DTSTAMP:20260306T065704Z
+DTSTAMP:20260308T065148Z
 DTSTART:20260304T113000Z
 DESCRIPTION:UGE 10\n\nMenu / onsdag Dagens inspiration:Thai karry Full noon
 	:Grøn karry med stegt øko-kalkun\, auberginer\, bambus\, peberfrugter og f
@@ -176,10 +175,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69a572df254
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:gbNXR6cEPZu8pNVAGlxt_
+UID:RNAZM4t9JRaoIFlSzmipY
 SUMMARY:Frokost: Øko-nakkekam af gris a la saltimbocca med ristede parmaski
 	nke og 
-DTSTAMP:20260306T065704Z
+DTSTAMP:20260308T065148Z
 DTSTART:20260310T113000Z
 DESCRIPTION:UGE 11\n\nMenu / tirsdag Dagens inspiration:Italiensk forår Ful
 	l noon:Øko-nakkekam af gris a la saltimbocca med ristede parmaskinke og sa
@@ -226,10 +225,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69a961666f8
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:vLtr5_nijLGglL54ABFGj
+UID:D1voTwa_dyhX0HdGV_lc9
 SUMMARY:Frokost: Panang-karry med stegt øko-kalkun og røde bønner (6\,12\,B
 	)\, hertil
-DTSTAMP:20260306T065704Z
+DTSTAMP:20260308T065148Z
 DTSTART:20260311T113000Z
 DESCRIPTION:UGE 11\n\nMenu / onsdag Dagens inspiration:Varme fra Østen Full
 	 noon:Panang-karry med stegt øko-kalkun og røde bønner (6\,12\,B)\, hertil
@@ -276,10 +275,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69a9616659e
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:2E4jvG9mKin6rsXVsUD8I
+UID:1yztTibl227FaYBC0DH7L
 SUMMARY:Frokost: Millionbøf af øko-okse med røde mungbønner og forårsgrønts
 	ager ( 
-DTSTAMP:20260306T065704Z
+DTSTAMP:20260308T065148Z
 DTSTART:20260309T113000Z
 DESCRIPTION:UGE 11\n\nMenu / mandag Dagens inspiration:En varm afsked med v
 	intermaden Full noon:Millionbøf af øko-okse med røde mungbønner og forårsg
@@ -324,10 +323,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69a96167d91
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:qdiLAuJ9hpxn0YFsmRmym
+UID:0Gc0Kg0TXPlpzlFg9YZS3
 SUMMARY:Frokost: Albóndigas af øko-oksekød\, toppet med mojo rojo (1\,6\,12
 	\,T)\, herti
-DTSTAMP:20260306T065704Z
+DTSTAMP:20260308T065148Z
 DTSTART:20260312T113000Z
 DESCRIPTION:UGE 11\n\nMenu / torsdag Dagens inspiration:Tapas del Sol Full 
 	noon:Albóndigas af øko-oksekød\, toppet med mojo rojo (1\,6\,12\,T)\, hert
@@ -372,10 +371,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69a961670b0
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:YpISzmQhIY2WWQFvmJoja
+UID:pse3oB6mG6x-WQerZA2P7
 SUMMARY:Frokost: Klassisk lasagne af økologisk\, græsfodret\, fritgående kø
 	dkvæg fra
-DTSTAMP:20260306T065704Z
+DTSTAMP:20260308T065148Z
 DTSTART:20260303T113000Z
 DESCRIPTION:UGE 10\n\nMenu / tirsdag Dagens inspiration:Italienske klassike
 	r Full noon:Klassisk lasagne af økologisk\, græsfodret\, fritgående kødkvæ
@@ -419,10 +418,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69a572dfc65
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:GLa3BK1CO9yNxdNSjU6BF
+UID:k2xqsNaJFihV6ENPfZVe5
 SUMMARY:Frokost: Koteletter af øko-gris i fad med flødepaprikasauce (7\,T)\
 	, hertil 
-DTSTAMP:20260306T065704Z
+DTSTAMP:20260308T065148Z
 DTSTART:20260302T113000Z
 DESCRIPTION:UGE 10\n\nMenu / mandag Dagens inspiration:Dansk Full noon:Kote
 	letter af øko-gris i fad med flødepaprikasauce (7\,T)\, hertil dampet lang
@@ -466,10 +465,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69a572e0d38
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:_Xl-xodNyQdyr6DZOcPmL
+UID:qgNvSNbAA8w9d99RabHcN
 SUMMARY:Frokost: Stegt øko-kylling i cremet hvidvinsvelouté med cherrytomat
 	er og g
-DTSTAMP:20260306T065704Z
+DTSTAMP:20260308T065148Z
 DTSTART:20260305T113000Z
 DESCRIPTION:UGE 10\n\nMenu / torsdag Dagens inspiration:Provençalske Full n
 	oon:Stegt øko-kylling i cremet hvidvinsvelouté med cherrytomater og gulerø
