@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:KaBzx1xNMzSSZK1hoedhk
+UID:F7Rg_Dffu9xafzJDkUSvK
 SUMMARY:Frokost: Byg selv-burritos med stegt hakkede øko-kylliing og tomate
 	r (6\,B\,
-DTSTAMP:20260312T070256Z
+DTSTAMP:20260313T070113Z
 DTSTART:20260313T113000Z
 DESCRIPTION:UGE 11\n\nMenu / fredag Dagens inspiration:Street food Full noo
 	n:Byg selv-burritos med stegt hakkede øko-kylliing og tomater (6\,B\,T)\, 
@@ -59,10 +59,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69aab06c856
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:fI0Ze_MKAB80YROJJN7-P
+UID:0dlM7rG4lQQl8KQf3QFMh
 SUMMARY:Frokost: Stroganoff af øko-okse\, øko-bacon og stegte svampe i crem
 	et sauce
-DTSTAMP:20260312T070256Z
+DTSTAMP:20260313T070113Z
 DTSTART:20260319T113000Z
 DESCRIPTION:UGE 12\n\nMenu / torsdag Dagens inspiration:Stroganoff Full noo
 	n:Stroganoff af øko-okse\, øko-bacon og stegte svampe i cremet sauce (7\,9
@@ -112,10 +112,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69b155018cf
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:2RDoQSgaptB5SvGFm9Wvh
+UID:PaXAUC2dUdeZiS1_PICJ3
 SUMMARY:Frokost: Panang-karry med stegt øko-kalkun\, røde bønner og stegt b
 	lomkål (
-DTSTAMP:20260312T070256Z
+DTSTAMP:20260313T070113Z
 DTSTART:20260311T113000Z
 DESCRIPTION:UGE 11\n\nMenu / onsdag Dagens inspiration:Varme fra Østen Full
 	 noon:Panang-karry med stegt øko-kalkun\, røde bønner og stegt blomkål (1\
@@ -164,10 +164,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69afe289c8c
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:176kmd9TFYGvmAmjuQrbC
+UID:5rut144uPXSmtsu6jUQw3
 SUMMARY:Frokost: Øko-nakkekam af gris a la saltimbocca med ristede parmaski
 	nke og 
-DTSTAMP:20260312T070256Z
+DTSTAMP:20260313T070113Z
 DTSTART:20260310T113000Z
 DESCRIPTION:UGE 11\n\nMenu / tirsdag Dagens inspiration:Italiensk forår Ful
 	l noon:Øko-nakkekam af gris a la saltimbocca med ristede parmaskinke og sa
@@ -214,15 +214,15 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69a961666f8
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:JjCziIFbrGQwfZfjSZBv6
+UID:WGjhcA_Uc7eUH3_hj-5ER
 SUMMARY:Frokost: Albóndigas af øko-oksekød\, toppet med mojo rojo (1\,8\,12
 	\,T)\, herti
-DTSTAMP:20260312T070256Z
+DTSTAMP:20260313T070113Z
 DTSTART:20260312T113000Z
 DESCRIPTION:UGE 11\n\nMenu / torsdag Dagens inspiration:Tapas del Sol Full 
 	noon:Albóndigas af øko-oksekød\, toppet med mojo rojo (1\,8\,12\,T)\, hert
 	il patatas bravas (6\,12\,T) Green noon:Grønne albóndigas\, toppet med moj
-	o rojo (1\,6\,12\,T)\, hertil patatas bravas (6\,8\,12\,T) Green noon vega
+	o rojo (1\,6\,8\,12\,T)\, hertil patatas bravas (6\,12\,T) Green noon vega
 	nsk:Grønne albóndigas\, toppet med mojo rojo (1\,6\,8\,12\,T)\, hertil pat
 	atas bravas (6\,12\,T) Fyldig salat:Castiliansk linsesalat med æg\, tomat 
 	og sherrydressing (3\,12\,B) Fyldig salat vegansk:Castiliansk linsesalat m
@@ -256,16 +256,16 @@ DESCRIPTION:UGE 11\n\nMenu / torsdag Dagens inspiration:Tapas del Sol Full
 	ead (1) Menu / torsdag Kage:Cookies med mørk chokolade og hasselnødder (1\
 	,3\,6\,7\,8) Cake:Cookies with dark chocolate and hazelnuts (1\,3\,6\,7\,8
 	)\n\nKilde: https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69
-	b1cde7a0b92d019520a181_tor%20uge%2011%20R.pdf
-URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69b1cde7a0b
-	92d019520a181_tor%20uge%2011%20R.pdf
+	b286663e9541f93d618bef_tor%20uge%2011%20igen!.pdf
+URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69b286663e9
+	541f93d618bef_tor%20uge%2011%20igen!.pdf
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:pvhw-XewPx2kaSspJRxA-
+UID:ujwHpdvh-JgISDXxhxj7G
 SUMMARY:Frokost: Øko-gris pisillo med nye løg\, karribiensk gul karry og ko
 	kosmælk 
-DTSTAMP:20260312T070256Z
+DTSTAMP:20260313T070113Z
 DTSTART:20260320T113000Z
 DESCRIPTION:UGE 12\n\nMenu / fredag Dagens inspiration:Gæstekok Frederico T
 	ischler Full noon:Øko-gris pisillo med nye løg\, karribiensk gul karry og 
@@ -310,10 +310,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69b155008b6
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:6yxb8i8QyjYVXCnI3TTdd
+UID:G_JTy9aJlPNWaLSkeh_Ya
 SUMMARY:Frokost: Millionbøf af øko-okse med røde mungbønner og forårsgrønts
 	ager ( 
-DTSTAMP:20260312T070256Z
+DTSTAMP:20260313T070113Z
 DTSTART:20260309T113000Z
 DESCRIPTION:UGE 11\n\nMenu / mandag Dagens inspiration:En varm afsked med v
 	intermaden Full noon:Millionbøf af øko-okse med røde mungbønner og forårsg
@@ -358,10 +358,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69a96167d91
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:znaJ1UCVUdMDN07fH-5_4
+UID:M5_nYaHvJOLXrHmjHt8UA
 SUMMARY:Frokost: Stegte øko-kyllingeoverlår med syltede æbler og skysauce (
 	1\,7\,12)
-DTSTAMP:20260312T070256Z
+DTSTAMP:20260313T070113Z
 DTSTART:20260316T113000Z
 DESCRIPTION:UGE 12\n\nMenu / mandag Dagens inspiration:Dansk Full noon:Steg
 	te øko-kyllingeoverlår med syltede æbler og skysauce (1\,7\,12)\, hertil s
@@ -403,10 +403,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69b15500edc
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:vPYw5eWW-phf2GxBf5Ky8
+UID:aSIJd_Ji3VmC--SAcQ9bd
 SUMMARY:Frokost: Øko-okse bolognese (9\,12\,T)\, hertil linguini toppet med
 	 grønne ol
-DTSTAMP:20260312T070256Z
+DTSTAMP:20260313T070113Z
 DTSTART:20260317T113000Z
 DESCRIPTION:UGE 12\n\nMenu / tirsdag Dagens inspiration:Italiensk Full noon
 	:Øko-okse bolognese (9\,12\,T)\, hertil linguini toppet med grønne oliven 
@@ -448,10 +448,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69b15500b77
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:-bWmEnZFXlzHSCK0_Ju1p
+UID:JzdguRFtWeoQZ-aZ-Detu
 SUMMARY:Frokost: Butter chicken af øko-kylling med ingrid ærter (7\,B\,T)\,
 	 hertil da
-DTSTAMP:20260312T070256Z
+DTSTAMP:20260313T070113Z
 DTSTART:20260318T113000Z
 DESCRIPTION:UGE 12\n\nMenu / onsdag Dagens inspiration:Indisk Full noon:But
 	ter chicken af øko-kylling med ingrid ærter (7\,B\,T)\, hertil dampet basm
