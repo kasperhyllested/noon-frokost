@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:tuleIT_4VIjGRxV8xfpWj
+UID:oQywXWryNTpo7m-GrDIj5
 SUMMARY:Frokost: Amatriciana af krydret tomatsauce\, øko-bacon og parmesano
 	st (3\,7\,
-DTSTAMP:20260329T071027Z
+DTSTAMP:20260330T074914Z
 DTSTART:20260408T113000Z
 DESCRIPTION:UGE 15\n\nMenu / onsdag Dagens inspiration:Italiensk Full noon:
 	Amatriciana af krydret tomatsauce\, øko-bacon og parmesanost (3\,7\,12\,T)
@@ -62,10 +62,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69c6751e4f9
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:E3PMWyzpLToVGxcUM2cmO
+UID:KgKv-97MFIspcbZYVtnLl
 SUMMARY:Frokost: Byg selv-burritos med øko-økse\, kdneybønner og tomater (6
 	\,12\,B\,T)
-DTSTAMP:20260329T071027Z
+DTSTAMP:20260330T074914Z
 DTSTART:20260410T113000Z
 DESCRIPTION:UGE 15\n\nMenu / fredag Dagens inspiration:Tex-Mex Full noon:By
 	g selv-burritos med øko-økse\, kdneybønner og tomater (6\,12\,B\,T)\, hert
@@ -114,10 +114,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69c6751e3da
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:e_Uia7Fr73GeAJj2DkCW9
+UID:j74oc1_dtpmjh5IMBCaYb
 SUMMARY:Frokost: Øko-kylling vindaloo med kartofler og kikærter (B\,T)\, he
 	rtil damp
-DTSTAMP:20260329T071027Z
+DTSTAMP:20260330T074914Z
 DTSTART:20260401T113000Z
 DESCRIPTION:UGE 14\n\nMenu / onsdag Dagens inspiration:Indisk Full noon:Øko
 	-kylling vindaloo med kartofler og kikærter (B\,T)\, hertil dampet basmati
@@ -165,10 +165,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69c4b734dd7
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:_SrcwpwBCkMqQ-mLbg45u
+UID:wkA45kb_9XcWS2lweCwrP
 SUMMARY:Frokost: Kødboller af øko-gris med sovs (1\,7\,9\,B\,S)\, hertil ka
 	rtoffelmos (
-DTSTAMP:20260329T071027Z
+DTSTAMP:20260330T074914Z
 DTSTART:20260409T113000Z
 DESCRIPTION:UGE 15\n\nMenu / torsdag Dagens inspiration:Svensk Full noon:Kø
 	dboller af øko-gris med sovs (1\,7\,9\,B\,S)\, hertil kartoffelmos (7) Gre
@@ -216,10 +216,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69c6751f15f
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:qcYa9RCs_fDV9CVnn-A1U
+UID:Q7Q-0dbugUnG45hO09Xoh
 SUMMARY:Frokost: Kyllingefrikassé af øko-kylling med forårsgrønt (1\,6\,7\,
 	9\,B)\, hert
-DTSTAMP:20260329T071027Z
+DTSTAMP:20260330T074914Z
 DTSTART:20260330T113000Z
 DESCRIPTION:UGE 14\n\nMenu / mandag Dagens inspiration:Dansk Full noon:Kyll
 	ingefrikassé af øko-kylling med forårsgrønt (1\,6\,7\,9\,B)\, hertil karto
@@ -261,10 +261,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69c4b734855
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:lWPx7LZH3ZQHoNKG3d31m
+UID:A3uydpDZgEJ_AqD9DN6OR
 SUMMARY:Frokost: Øko-kylling i karry med hvide bønner og æbler (1\,7\,B)\, 
 	hertil per
-DTSTAMP:20260329T071027Z
+DTSTAMP:20260330T074914Z
 DTSTART:20260407T113000Z
 DESCRIPTION:UGE 15\n\nMenu / tirsdag Dagens inspiration:Dansk Full noon:Øko
 	-kylling i karry med hvide bønner og æbler (1\,7\,B)\, hertil perlebyg (1)
@@ -306,9 +306,9 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69c6751e007
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:bjW4E2bPgWwGQkbfefe9H
+UID:RoC1WPgTBSeGKXdss-OqF
 SUMMARY:Frokost: Rigatoni al Forno alla Carbonara med øko-bacon (1\,3\,7)
-DTSTAMP:20260329T071027Z
+DTSTAMP:20260330T074914Z
 DTSTART:20260331T113000Z
 DESCRIPTION:UGE 14\n\nMenu / tirsdag Dagens inspiration:Italiensk Full noon
 	:Rigatoni al Forno alla Carbonara med øko-bacon (1\,3\,7) Green noon:Rigat
@@ -346,9 +346,9 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69c4b734ac8
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:YSRmwBuj1H-C0vdfJTHpE
+UID:qJWmuqPKXk5bT3z3tTQhu
 SUMMARY:Frokost: TOR
-DTSTAMP:20260329T071027Z
+DTSTAMP:20260330T074914Z
 DTSTART:20260402T113000Z
 DESCRIPTION:UGE 14\n\nMenu / torsdag Dagens inspiration:Lukket Skærtorsdag 
 	Menu / torsdag Today's inspiration:Closed Maundy Thursday\n\nKilde: https:
@@ -359,9 +359,9 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69c4b734622
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:H4ai8x4t8A-593ozl0qZ8
+UID:YHKz7yZfrri052FKPpy6J
 SUMMARY:Frokost: MAN
-DTSTAMP:20260329T071027Z
+DTSTAMP:20260330T074914Z
 DTSTART:20260406T113000Z
 DESCRIPTION:UGE 15\n\nMenu / mandag Dagens inspiration:Lukket 2. Påskedag M
 	enu / mandag Today's inspiration:Closed Easter Monday\n\nKilde: https://cd
@@ -372,9 +372,9 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69c6751ff33
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:J-5d17mq_mEqLi1XRtKG8
+UID:x7udfoHIdn8v1RHYxKMDJ
 SUMMARY:Frokost: FRE
-DTSTAMP:20260329T071027Z
+DTSTAMP:20260330T074914Z
 DTSTART:20260403T113000Z
 DESCRIPTION:UGE 14\n\nMenu / fredag Dagens inspiration:Lukket Langfredag Me
 	nu / fredag Today's inspiration:Closed Long Friday\n\nKilde: https://cdn.p
