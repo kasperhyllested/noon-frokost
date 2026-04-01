@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:oQywXWryNTpo7m-GrDIj5
+UID:i-bLaHw79b3L-VS-Ny1BL
 SUMMARY:Frokost: Amatriciana af krydret tomatsauce\, øko-bacon og parmesano
 	st (3\,7\,
-DTSTAMP:20260330T074914Z
+DTSTAMP:20260401T072840Z
 DTSTART:20260408T113000Z
 DESCRIPTION:UGE 15\n\nMenu / onsdag Dagens inspiration:Italiensk Full noon:
 	Amatriciana af krydret tomatsauce\, øko-bacon og parmesanost (3\,7\,12\,T)
@@ -62,10 +62,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69c6751e4f9
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:KgKv-97MFIspcbZYVtnLl
+UID:4nasVIWgEAnC0Zna2r3XM
 SUMMARY:Frokost: Byg selv-burritos med øko-økse\, kdneybønner og tomater (6
 	\,12\,B\,T)
-DTSTAMP:20260330T074914Z
+DTSTAMP:20260401T072840Z
 DTSTART:20260410T113000Z
 DESCRIPTION:UGE 15\n\nMenu / fredag Dagens inspiration:Tex-Mex Full noon:By
 	g selv-burritos med øko-økse\, kdneybønner og tomater (6\,12\,B\,T)\, hert
@@ -114,10 +114,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69c6751e3da
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:j74oc1_dtpmjh5IMBCaYb
+UID:r46OyIbFx3VCFJ5qS0Dwj
 SUMMARY:Frokost: Øko-kylling vindaloo med kartofler og kikærter (B\,T)\, he
 	rtil damp
-DTSTAMP:20260330T074914Z
+DTSTAMP:20260401T072840Z
 DTSTART:20260401T113000Z
 DESCRIPTION:UGE 14\n\nMenu / onsdag Dagens inspiration:Indisk Full noon:Øko
 	-kylling vindaloo med kartofler og kikærter (B\,T)\, hertil dampet basmati
@@ -165,10 +165,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69c4b734dd7
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:wkA45kb_9XcWS2lweCwrP
+UID:qOl2d6xcB2wuRxCkkYJ1z
 SUMMARY:Frokost: Kødboller af øko-gris med sovs (1\,7\,9\,B\,S)\, hertil ka
 	rtoffelmos (
-DTSTAMP:20260330T074914Z
+DTSTAMP:20260401T072840Z
 DTSTART:20260409T113000Z
 DESCRIPTION:UGE 15\n\nMenu / torsdag Dagens inspiration:Svensk Full noon:Kø
 	dboller af øko-gris med sovs (1\,7\,9\,B\,S)\, hertil kartoffelmos (7) Gre
@@ -216,10 +216,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69c6751f15f
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:Q7Q-0dbugUnG45hO09Xoh
+UID:hJ6zoeLn6o4uSc4M5UtbG
 SUMMARY:Frokost: Kyllingefrikassé af øko-kylling med forårsgrønt (1\,6\,7\,
 	9\,B)\, hert
-DTSTAMP:20260330T074914Z
+DTSTAMP:20260401T072840Z
 DTSTART:20260330T113000Z
 DESCRIPTION:UGE 14\n\nMenu / mandag Dagens inspiration:Dansk Full noon:Kyll
 	ingefrikassé af øko-kylling med forårsgrønt (1\,6\,7\,9\,B)\, hertil karto
@@ -261,12 +261,12 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69c4b734855
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:A3uydpDZgEJ_AqD9DN6OR
+UID:SR8Pq7stQ8IUuoSb-CTri
 SUMMARY:Frokost: Øko-kylling i karry med hvide bønner og æbler (1\,7\,B)\, 
 	hertil per
-DTSTAMP:20260330T074914Z
-DTSTART:20260407T113000Z
-DESCRIPTION:UGE 15\n\nMenu / tirsdag Dagens inspiration:Dansk Full noon:Øko
+DTSTAMP:20260401T072840Z
+DTSTART:20260331T113000Z
+DESCRIPTION:UGE 14\n\nMenu / tirsdag Dagens inspiration:Dansk Full noon:Øko
 	-kylling i karry med hvide bønner og æbler (1\,7\,B)\, hertil perlebyg (1)
 	 Green noon:Hvidebønner og auberginer i karry (1\,7\,B)\, hertil perlebyg 
 	(1) Green noon vegansk:Hvidebønner og auberginer i karry (B)\, hertil perl
@@ -279,76 +279,34 @@ DESCRIPTION:UGE 15\n\nMenu / tirsdag Dagens inspiration:Dansk Full noon:Øko
 	met ramsløgsdip (9\,12) Til brød - Full:Lakserillets (4\,7\,10\,12) Til br
 	ød - Green:Majroer\, porrer og perleløg vendt med misomayonnaise (3\,6\,10
 	\,12) Til brød - Green vegansk:Majroer\, porrer og perleløg vendt med miso
-	mayonnaise (6) Til brød - Alle:Hvide bønnespread med rosmarin (11\,12\,B) 
-	Til brød - Alle vegansk:Hvide bønnespread med rosmarin (11\,12\,B) Brød:Su
-	rdejsbrød (1) og rugbrød (1) Menu / tirsdag Today's inspiration:Danish Hot
-	 dishes - Full noon:Organic chicken curry with white beans and apples (1\,
-	7\,B)\, served with pearl barley (1) Hot dishes - Green noon:White beans a
-	nd egg plant in curry sauce (1\,7\,B)\, served with pearl barley (1) Hot d
-	ishes - Vegan Green noon:White beans and egg plant in curry sauce (B)\, se
-	rved with pearl barley (1) Heavy salad:Broccoli with Ingrid peas\, pickled
-	 apples\, and creamy horseradish dressing (7\,12) Heavy salad vegan:Brocco
-	li with Ingrid peas\, pickled apples\, and creamy horseradish dressing (6\
-	,12) Light salad:Pointed cabbage with beets\, watercress and pomegranate k
-	ernels (K) Light salad vegan:Pointed cabbage with beets\, watercress and p
-	omegranate kernels (K) Green piece:Vegetable sticks with creamy wild garli
-	c dip (7\,9\,12) Green piece vegan:Vegetable sticks with creamy wild garli
-	c dip (9\,12) For bread - Full:Salmon rillettes (4\,7\,10\,12) For bread -
-	 Green:Turnips\, leeks and pearl onions tossed with miso mayonnaise (3\,6\
-	,10\,12) For bread - Green vegan:Turnips\, leeks and pearl onions tossed w
-	ith miso mayonnaise (6) For bread - All:White bean and rosmary spread (11\
-	,12\,B) For bread - All vegan:White bean and rosmary spread (11\,12\,B) Br
-	ead:Sour dough bread (1) and ryebread (1)\n\nKilde: https://cdn.prod.websi
-	te-files.com/6020356278b4438fe8a59224/69c6751e0071e2cce604cd1e_tir%20uge%2
-	015.pdf
-URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69c6751e007
-	1e2cce604cd1e_tir%20uge%2015.pdf
+	mayonnaise (6) Til brød - Alle:Hummus (11\,12\,B) Til brød - Alle vegansk:
+	Hummus (11\,12\,B) Brød:Surdejsbrød (1) og rugbrød (1) Menu / tirsdag Toda
+	y's inspiration:Danish Hot dishes - Full noon:Organic chicken curry with w
+	hite beans and apples (1\,7\,B)\, served with pearl barley (1) Hot dishes 
+	- Green noon:White beans and egg plant in curry sauce (1\,7\,B)\, served w
+	ith pearl barley (1) Hot dishes - Vegan Green noon:White beans and egg pla
+	nt in curry sauce (B)\, served with pearl barley (1) Heavy salad:Broccoli 
+	with Ingrid peas\, pickled apples\, and creamy horseradish dressing (7\,12
+	) Heavy salad vegan:Broccoli with Ingrid peas\, pickled apples\, and cream
+	y horseradish dressing (6\,12) Light salad:Pointed cabbage with beets\, wa
+	tercress and pomegranate kernels (K) Light salad vegan:Pointed cabbage wit
+	h beets\, watercress and pomegranate kernels (K) Green piece:Vegetable sti
+	cks with creamy wild garlic dip (7\,9\,12) Green piece vegan:Vegetable sti
+	cks with creamy wild garlic dip (9\,12) For bread - Full:Salmon rillettes 
+	(4\,7\,10\,12) For bread - Green:Turnips\, leeks and pearl onions tossed w
+	ith miso mayonnaise (3\,6\,10\,12) For bread - Green vegan:Turnips\, leeks
+	 and pearl onions tossed with miso mayonnaise (6) For bread - All:Hummus (
+	11\,12\,B) For bread - All vegan:Hummus (11\,12\,B) Bread:Sour dough bread
+	 (1) and ryebread (1)\n\nKilde: https://cdn.prod.website-files.com/6020356
+	278b4438fe8a59224/69cca5fe207e0296d922cbca_tir%20uge%2014%20R.pdf
+URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69cca5fe207
+	e0296d922cbca_tir%20uge%2014%20R.pdf
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:RoC1WPgTBSeGKXdss-OqF
-SUMMARY:Frokost: Rigatoni al Forno alla Carbonara med øko-bacon (1\,3\,7)
-DTSTAMP:20260330T074914Z
-DTSTART:20260331T113000Z
-DESCRIPTION:UGE 14\n\nMenu / tirsdag Dagens inspiration:Italiensk Full noon
-	:Rigatoni al Forno alla Carbonara med øko-bacon (1\,3\,7) Green noon:Rigat
-	oni al Forno alla Carbonara med kantareller (1\,3\,7) Green noon vegansk:R
-	igatoni al Forno alla Carbonara med kantareller (1\,B) Fyldig salat:Tomate
-	r med frisk mozzarella\, basilikum-vinaigrette og boghvede (7\,12\,T) Fyld
-	ig salat vegansk:Tomater med basilikum-vinaigrette og boghvede (12\,T) Let
-	 salat:Radicchio og rucola med balsamico glaze (12) Let salat vegansk:Radi
-	cchio og rucola med balsamico glaze (12) Grønt stykke:Artiskokker med kara
-	melliseret løg og balsamicodressing (12) Grønt stykke vegansk:Artiskokker 
-	med karamelliseret løg og balsamicodressing (12) Til brød - Full:Hønsesala
-	t med svampe og hvide asparges (3\,7\,10\,12) Til brød - Green:Persillerod
-	ssalat med svampe og hvide asparges (3\,7\,10\,12) Til brød - Green vegans
-	k:Persillerodssalat med svampe og hvide asparges (10) Til brød - Alle:Grøn
-	 pesto (3\,7) Til brød - Alle vegansk:Grøn pesto Brød:Surdejsbrød (1) og r
-	ugbrød (1) Menu / tirsdag Today's inspiration:Italian Hot dishes - Full no
-	on:Baked pasta carbonara with organic Bacon (1\,3\,7) Hot dishes - Green n
-	oon:Baked pasta carbonara with chantarelle mushrooms (1\,3\,7) Hot dishes 
-	- Vegan Green noon:Baked pasta carbonara with chantarelle mushrooms (1\,B)
-	 Heavy salad:Tomatoes with fresh mozzarella\, basil vinaigrette and buckwh
-	eat (7\,12\,T) Heavy salad vegan:Tomatoes with basil vinaigrette and buckw
-	heat (12\,T) Light salad:Radicchio and arugula with balsamic glaze (12) Li
-	ght salad vegan:Radicchio and arugula with balsamic glaze (12) Green piece
-	:Artichokes with caramelized onions and balsamic dressing (12) Green piece
-	 vegan:Artichokes with caramelized onions and balsamic dressing (12) For b
-	read - Full:Creamy chicken salad with mushrooms and white asparagus (3\,7\
-	,10\,12) For bread - Green:Creamy parsley root salad with mushrooms and wh
-	ite asparagus (3\,7\,10\,12) For bread - Green vegan:Creamy parsley root s
-	alad with mushrooms and white asparagus (10) For bread - All:Green pesto (
-	3\,7) For bread - All vegan:Green pesto Bread:Sour dough bread (1) and rye
-	 bread (1)\n\nKilde: https://cdn.prod.website-files.com/6020356278b4438fe8
-	a59224/69c4b734ac8138b8babb8a63_tir%20uge%2014.pdf
-URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69c4b734ac8
-	138b8babb8a63_tir%20uge%2014.pdf
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:qJWmuqPKXk5bT3z3tTQhu
+UID:n4P1wTouMPAIAaMezTGDe
 SUMMARY:Frokost: TOR
-DTSTAMP:20260330T074914Z
+DTSTAMP:20260401T072840Z
 DTSTART:20260402T113000Z
 DESCRIPTION:UGE 14\n\nMenu / torsdag Dagens inspiration:Lukket Skærtorsdag 
 	Menu / torsdag Today's inspiration:Closed Maundy Thursday\n\nKilde: https:
@@ -359,9 +317,9 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69c4b734622
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:YHKz7yZfrri052FKPpy6J
+UID:Q_xbf2KP9UzAm1jjiLVuJ
 SUMMARY:Frokost: MAN
-DTSTAMP:20260330T074914Z
+DTSTAMP:20260401T072840Z
 DTSTART:20260406T113000Z
 DESCRIPTION:UGE 15\n\nMenu / mandag Dagens inspiration:Lukket 2. Påskedag M
 	enu / mandag Today's inspiration:Closed Easter Monday\n\nKilde: https://cd
@@ -372,9 +330,9 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69c6751ff33
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:x7udfoHIdn8v1RHYxKMDJ
+UID:WE0xlR72GhhOsF-1Q5A7f
 SUMMARY:Frokost: FRE
-DTSTAMP:20260330T074914Z
+DTSTAMP:20260401T072840Z
 DTSTART:20260403T113000Z
 DESCRIPTION:UGE 14\n\nMenu / fredag Dagens inspiration:Lukket Langfredag Me
 	nu / fredag Today's inspiration:Closed Long Friday\n\nKilde: https://cdn.p
