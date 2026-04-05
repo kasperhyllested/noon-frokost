@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:iI7-y0TAbXcENGYIeiJfk
+UID:mweMRvrY6wdl_s0DLaa5B
 SUMMARY:Frokost: Amatriciana af krydret tomatsauce\, øko-bacon og parmesano
 	st (3\,7\,
-DTSTAMP:20260403T071630Z
+DTSTAMP:20260405T071407Z
 DTSTART:20260408T113000Z
 DESCRIPTION:UGE 15\n\nMenu / onsdag Dagens inspiration:Italiensk Full noon:
 	Amatriciana af krydret tomatsauce\, øko-bacon og parmesanost (3\,7\,12\,T)
@@ -62,10 +62,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69c6751e4f9
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:EDCJbsahj9R3YQ9Q31otM
+UID:1m1vYOmMDAtkidEiu47Hm
 SUMMARY:Frokost: Byg selv-burritos med øko-økse\, kdneybønner og tomater (6
 	\,12\,B\,T)
-DTSTAMP:20260403T071630Z
+DTSTAMP:20260405T071407Z
 DTSTART:20260410T113000Z
 DESCRIPTION:UGE 15\n\nMenu / fredag Dagens inspiration:Tex-Mex Full noon:By
 	g selv-burritos med øko-økse\, kdneybønner og tomater (6\,12\,B\,T)\, hert
@@ -114,10 +114,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69c6751e3da
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:-swxj220WgQ2QaRMgjwsR
+UID:CHvH_t0l5RfcsaOqgmYYB
 SUMMARY:Frokost: Øko-kylling vindaloo med kartofler og kikærter (B\,T)\, he
 	rtil damp
-DTSTAMP:20260403T071630Z
+DTSTAMP:20260405T071407Z
 DTSTART:20260401T113000Z
 DESCRIPTION:UGE 14\n\nMenu / onsdag Dagens inspiration:Indisk Full noon:Øko
 	-kylling vindaloo med kartofler og kikærter (B\,T)\, hertil dampet basmati
@@ -165,10 +165,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69c4b734dd7
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:drAUFoVEC0b54yplU6Sim
+UID:UxgDyjdfnNvEeVElzae9a
 SUMMARY:Frokost: Kødboller af øko-gris med sovs (1\,7\,9\,B\,S)\, hertil ka
 	rtoffelmos (
-DTSTAMP:20260403T071630Z
+DTSTAMP:20260405T071407Z
 DTSTART:20260409T113000Z
 DESCRIPTION:UGE 15\n\nMenu / torsdag Dagens inspiration:Svensk Full noon:Kø
 	dboller af øko-gris med sovs (1\,7\,9\,B\,S)\, hertil kartoffelmos (7) Gre
@@ -216,10 +216,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69c6751f15f
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:TBa5lm28bHr9E2smQxUk8
+UID:y2fom0umUKhxb_Cw7quqE
 SUMMARY:Frokost: Kyllingefrikassé af øko-kylling med forårsgrønt (1\,6\,7\,
 	9\,B)\, hert
-DTSTAMP:20260403T071630Z
+DTSTAMP:20260405T071407Z
 DTSTART:20260330T113000Z
 DESCRIPTION:UGE 14\n\nMenu / mandag Dagens inspiration:Dansk Full noon:Kyll
 	ingefrikassé af øko-kylling med forårsgrønt (1\,6\,7\,9\,B)\, hertil karto
@@ -261,10 +261,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69c4b734855
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:M4C5JG7UvwC8ONYOsG2TM
+UID:YO3QikMqbqm_dwb8gCVK5
 SUMMARY:Frokost: Øko-kylling i karry med hvide bønner og æbler (1\,7\,B)\, 
 	hertil per
-DTSTAMP:20260403T071630Z
+DTSTAMP:20260405T071407Z
 DTSTART:20260331T113000Z
 DESCRIPTION:UGE 14\n\nMenu / tirsdag Dagens inspiration:Dansk Full noon:Øko
 	-kylling i karry med hvide bønner og æbler (1\,7\,B)\, hertil perlebyg (1)
@@ -304,9 +304,9 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69cca5fe207
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:4bEoVjAhmkxNykiMDQkkh
+UID:fzwIma2RNvfrlfwsMgvOK
 SUMMARY:Frokost: TOR
-DTSTAMP:20260403T071630Z
+DTSTAMP:20260405T071407Z
 DTSTART:20260402T113000Z
 DESCRIPTION:UGE 14\n\nMenu / torsdag Dagens inspiration:Lukket Skærtorsdag 
 	Menu / torsdag Today's inspiration:Closed Maundy Thursday\n\nKilde: https:
@@ -317,9 +317,9 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69c4b734622
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:n0YofYvioyuZIGjEknH68
+UID:5vitZSPSIR7W-3hYpJLub
 SUMMARY:Frokost: MAN
-DTSTAMP:20260403T071630Z
+DTSTAMP:20260405T071407Z
 DTSTART:20260406T113000Z
 DESCRIPTION:UGE 15\n\nMenu / mandag Dagens inspiration:Lukket 2. Påskedag M
 	enu / mandag Today's inspiration:Closed Easter Monday\n\nKilde: https://cd
@@ -330,9 +330,9 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69c6751ff33
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:wvxuTYXPzj_hgTU0w8R0H
+UID:rspKV2Gz4eXNKTbMhcIK8
 SUMMARY:Frokost: FRE
-DTSTAMP:20260403T071630Z
+DTSTAMP:20260405T071407Z
 DTSTART:20260403T113000Z
 DESCRIPTION:UGE 14\n\nMenu / fredag Dagens inspiration:Lukket Langfredag Me
 	nu / fredag Today's inspiration:Closed Long Friday\n\nKilde: https://cdn.p
