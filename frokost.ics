@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:8i3uYf3PZk3OZ6qgYSqMK
+UID:N-hreKGfhiZlVyNk8WzGm
 SUMMARY:Frokost: Amatriciana af krydret tomatsauce\, øko-bacon og parmesano
 	st (3\,7\,
-DTSTAMP:20260412T072132Z
+DTSTAMP:20260413T081100Z
 DTSTART:20260408T113000Z
 DESCRIPTION:UGE 15\n\nMenu / onsdag Dagens inspiration:Italiensk Full noon:
 	Amatriciana af krydret tomatsauce\, øko-bacon og parmesanost (3\,7\,12\,T)
@@ -62,10 +62,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69c6751e4f9
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:qulqQe0LMVByg959GC5uN
+UID:Xh_WTfCD68a0iA66fHpoo
 SUMMARY:Frokost: Øko-kylling braiseret i soja og cider med glaserede søde k
 	artofle
-DTSTAMP:20260412T072132Z
+DTSTAMP:20260413T081100Z
 DTSTART:20260414T113000Z
 DESCRIPTION:UGE 16\n\nMenu / tirsdag Dagens inspiration:Momofoku Full noon:
 	Øko-kylling braiseret i soja og cider med glaserede søde kartofler (6\,12)
@@ -117,10 +117,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69d6404590b
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:dKJd_tMftdMeBedjG0hry
+UID:yzAkr5L2PbDzLDf0Hi6a7
 SUMMARY:Frokost: Pulled pork med løg og svampe i central-texansk kaffe-BBQ-
 	 sauce 
-DTSTAMP:20260412T072132Z
+DTSTAMP:20260413T081100Z
 DTSTART:20260416T113000Z
 DESCRIPTION:UGE 16\n\nMenu / torsdag Dagens inspiration:Texas BBQ Full noon
 	:Pulled pork med løg og svampe i central-texansk kaffe-BBQ- sauce (6\,10\,
@@ -169,10 +169,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69d64045fc9
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:KBs-zOq7qmTG7xcCnsucT
+UID:etTVTsKTq8TBc9WVDXivJ
 SUMMARY:Frokost: Byg selv-burritos med øko-økse\, kdneybønner og tomater (6
 	\,12\,B\,T)
-DTSTAMP:20260412T072132Z
+DTSTAMP:20260413T081100Z
 DTSTART:20260410T113000Z
 DESCRIPTION:UGE 15\n\nMenu / fredag Dagens inspiration:Tex-Mex Full noon:By
 	g selv-burritos med øko-økse\, kdneybønner og tomater (6\,12\,B\,T)\, hert
@@ -221,10 +221,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69c6751e3da
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:SMEenpW7Z9MtDuVLccHB8
+UID:r0HiLEkJKu_tCf1ixcKdL
 SUMMARY:Frokost: Kødboller af øko-gris med sovs (1\,7\,9\,B\,S)\, hertil ka
 	rtoffelmos (
-DTSTAMP:20260412T072132Z
+DTSTAMP:20260413T081100Z
 DTSTART:20260409T113000Z
 DESCRIPTION:UGE 15\n\nMenu / torsdag Dagens inspiration:Svensk Full noon:Kø
 	dboller af øko-gris med sovs (1\,7\,9\,B\,S)\, hertil kartoffelmos (7) Gre
@@ -272,10 +272,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69c6751f15f
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:rr_X62vNzAXlCCEKC0dk0
+UID:-szH2cFqkzK-YnS8R5JET
 SUMMARY:Frokost: Braiseret øko-okse med grillede padroner i en sovs af kart
 	ofler\, 
-DTSTAMP:20260412T072132Z
+DTSTAMP:20260413T081100Z
 DTSTART:20260417T113000Z
 DESCRIPTION:UGE 16\n\nMenu / fredag Dagens inspiration:Gæstekok Paco Morale
 	s Full noon:Braiseret øko-okse med grillede padroner i en sovs af kartofle
@@ -322,10 +322,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69d64046791
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:zfgBymG7gCKCSwAMV1Bbr
+UID:bIoCpcRiQ7ub98LZtapLG
 SUMMARY:Frokost: Græsk farsbrød af øko-oksekød med oliven\, soltørrede toma
 	ter og s
-DTSTAMP:20260412T072132Z
+DTSTAMP:20260413T081100Z
 DTSTART:20260413T113000Z
 DESCRIPTION:UGE 16\n\nMenu / mandag Dagens inspiration:Græsk Full noon:Græs
 	k farsbrød af øko-oksekød med oliven\, soltørrede tomater og salatost (3\,
@@ -372,10 +372,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69d64045bcd
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:Xj1iVI9G_UsEkKpr-XktE
+UID:KwTHTkgS5UVNiXEdC4dXd
 SUMMARY:Frokost: Øko-kylling tikka masala med kikærter og varme krydderier 
 	(7\,B\,T)
-DTSTAMP:20260412T072132Z
+DTSTAMP:20260413T081100Z
 DTSTART:20260415T113000Z
 DESCRIPTION:UGE 16\n\nMenu / onsdag Dagens inspiration:Indisk Full noon:Øko
 	-kylling tikka masala med kikærter og varme krydderier (7\,B\,T)\, hertil 
@@ -420,10 +420,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69d640455fd
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:SN4T1jeoxURLnbXbiAiOt
+UID:Nltm01HXTpK1cA8389hHF
 SUMMARY:Frokost: Øko-kylling i karry med hvide bønner og æbler (1\,7\,B)\, 
 	hertil per
-DTSTAMP:20260412T072132Z
+DTSTAMP:20260413T081100Z
 DTSTART:20260331T113000Z
 DESCRIPTION:UGE 14\n\nMenu / tirsdag Dagens inspiration:Dansk Full noon:Øko
 	-kylling i karry med hvide bønner og æbler (1\,7\,B)\, hertil perlebyg (1)
@@ -463,9 +463,9 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69cca5fe207
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:XbvQM2aWR2tzZx06mtFL-
+UID:nq-gbwWeADLXvStn5ItYZ
 SUMMARY:Frokost: MAN
-DTSTAMP:20260412T072132Z
+DTSTAMP:20260413T081100Z
 DTSTART:20260406T113000Z
 DESCRIPTION:UGE 15\n\nMenu / mandag Dagens inspiration:Lukket 2. Påskedag M
 	enu / mandag Today's inspiration:Closed Easter Monday\n\nKilde: https://cd
