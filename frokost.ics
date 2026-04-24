@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:U1ohBigJruZHT07nmmAtN
+UID:FwkFX3JKVt27SmKPz0M1-
 SUMMARY:Frokost: Stegte øko-kyllingeoverlår med macadamianøddecreme og rist
 	ede græ
-DTSTAMP:20260423T080056Z
+DTSTAMP:20260424T081033Z
 DTSTART:20260501T113000Z
 DESCRIPTION:UGE 18\n\nMenu / fredag Dagens inspiration:Gæstekok Jo Barret F
 	ull noon:Stegte øko-kyllingeoverlår med macadamianøddecreme og ristede græ
@@ -62,10 +62,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69e86001fd2
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:lgKSQc1lvFXqBQbLKnxHn
+UID:1wh_UhlH8ZqnE7dsh3idp
 SUMMARY:Frokost: Tandoorimarineret øko-kalkun med kikærter\, løg og knoldse
 	lleri (7
-DTSTAMP:20260423T080056Z
+DTSTAMP:20260424T081033Z
 DTSTART:20260422T113000Z
 DESCRIPTION:UGE 17\n\nMenu / onsdag Dagens inspiration:Indisk Full noon:Tan
 	doorimarineret øko-kalkun med kikærter\, løg og knoldselleri (7\,9\,12)\, 
@@ -118,10 +118,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69de366ccde
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:q-_9QPQeVgJFB3KPEhen9
+UID:NxTmJhDWhfMFB1Fg8uhFd
 SUMMARY:Frokost: Øko-kylling med limabønner\, saltede citroner og grapefrug
 	tsauce (
-DTSTAMP:20260423T080056Z
+DTSTAMP:20260424T081034Z
 DTSTART:20260424T113000Z
 DESCRIPTION:UGE 17\n\nMenu / fredag Dagens inspiration:Gæstekok Odd Veggies
 	 Full noon:Øko-kylling med limabønner\, saltede citroner og grapefrugtsauc
@@ -141,41 +141,42 @@ DESCRIPTION:UGE 17\n\nMenu / fredag Dagens inspiration:Gæstekok Odd Veggies
 	ikelfrø (12) Til brød - Full:Oksefrikadeller med kapers- og urtemayonnaise
 	 (1\,3\,10\,12) Til brød - Green:Avocado- og ærtespread (7) Til brød - Gre
 	en vegansk:Avocado- og ærtespread (6) Til brød - Alle:Romesco på gule pebe
-	rfrugter\, kikærter og solsikkekerner (12\,B) Til brød - Alle vegansk:Rome
-	sco på gule peberfrugter\, kikærter og solsikkekerner (12\,B) Brød:Surdejs
-	brød (1) og rugbrød (1) Menu / fredag Today's inspiration:Guest Chef Odd V
-	eggies Hot dishes - Full noon:Organic chicken with lima beans\, salted lem
-	ons\, and grapefruit sauce (1\,7\,10\,12\,B)\, served with creamy baked gn
-	occhi with herbs\, peas\, and parmesan breadcrumbs (1\,3\,7\,12) Hot dishe
-	s - Green noon:Lima beans\, cauliflower\, and padrón peppers with grapefru
-	it sauce (1\,7\,10\,12\,B)\, served with creamy baked gnocchi with herbs\,
-	 peas\, and parmesan breadcrumbs (1\,3\,7\,12) Hot dishes - Vegan Green no
-	on:Lima beans\, cauliflower\, and padrón peppers with grapefruit sauce (1\
-	,10\,12\,B)\, served with creamy baked gnocchi with herbs\, peas\, and veg
-	an cheese (1\,12\,B) Heavy salad:Grilled zucchini and black-eyed beans wit
-	h herb dressing and toasted quinoa (7\,B) Heavy salad vegan:Grilled zucchi
-	ni and black-eyed beans with herb dressing and toasted quinoa (B) Light sa
-	lad:Tomatoes\, aubergines\, and pointed cabbage with chimichurri (12\,K\,T
-	) Light salad vegan:Tomatoes\, aubergines\, and pointed cabbage with chimi
-	churri (12\,K\,T) Green piece:Fennel and apricots with fresh mozzarella\, 
-	dill\, and fennel seeds (7\,12) Green piece vegan:Fennel and apricots with
-	 vegan cream cheese\, dill\, and fennel seeds (12) For bread - Full:Beef p
-	atties with caper and herb mayonnaise (1\,3\,10\,12) For bread - Green:Avo
-	cado and pea spread (7) For bread - Green vegan:Avocado and pea spread (6)
-	 For bread - All:Romesco made with yellow bell peppers\, chickpeas\, and s
-	unflower seeds (12\,B) For bread - All vegan:Romesco made with yellow bell
-	 peppers\, chickpeas\, and sunflower seeds (12\,B) Bread:Sour dough bread 
-	(1) and rye bread (1)\n\nKilde: https://cdn.prod.website-files.com/6020356
-	278b4438fe8a59224/69de366c5c07efaa111f4f6d_fre%20uge%2017.pdf
-URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69de366c5c0
-	7efaa111f4f6d_fre%20uge%2017.pdf
+	rfrugter\, kikærter og solsikkekerner (1\,12\,B) Til brød - Alle vegansk:R
+	omesco på gule peberfrugter\, kikærter og solsikkekerner (1\,12\,B) Brød:S
+	urdejsbrød (1) og rugbrød (1) Menu / fredag Today's inspiration:Guest Chef
+	 Odd Veggies Hot dishes - Full noon:Organic chicken with lima beans\, salt
+	ed lemons\, and grapefruit sauce (1\,7\,10\,12\,B)\, served with creamy ba
+	ked gnocchi with herbs\, peas\, and parmesan breadcrumbs (1\,3\,7\,12) Hot
+	 dishes - Green noon:Lima beans\, cauliflower\, and padrón peppers with gr
+	apefruit sauce (1\,7\,10\,12\,B)\, served with creamy baked gnocchi with h
+	erbs\, peas\, and parmesan breadcrumbs (1\,3\,7\,12) Hot dishes - Vegan Gr
+	een noon:Lima beans\, cauliflower\, and padrón peppers with grapefruit sau
+	ce (1\,10\,12\,B)\, served with creamy baked gnocchi with herbs\, peas\, a
+	nd vegan cheese (1\,12\,B) Heavy salad:Grilled zucchini and black-eyed bea
+	ns with herb dressing and toasted quinoa (7\,B) Heavy salad vegan:Grilled 
+	zucchini and black-eyed beans with herb dressing and toasted quinoa (B) Li
+	ght salad:Tomatoes\, aubergines\, and pointed cabbage with chimichurri (12
+	\,K\,T) Light salad vegan:Tomatoes\, aubergines\, and pointed cabbage with
+	 chimichurri (12\,K\,T) Green piece:Fennel and apricots with fresh mozzare
+	lla\, dill\, and fennel seeds (7\,12) Green piece vegan:Fennel and apricot
+	s with vegan cream cheese\, dill\, and fennel seeds (12) For bread - Full:
+	Beef patties with caper and herb mayonnaise (1\,3\,10\,12) For bread - Gre
+	en:Avocado and pea spread (7) For bread - Green vegan:Avocado and pea spre
+	ad (6) For bread - All:Romesco made with yellow bell peppers\, chickpeas\,
+	 and sunflower seeds (1\,12\,B) For bread - All vegan:Romesco made with ye
+	llow bell peppers\, chickpeas\, and sunflower seeds (1\,12\,B) Bread:Sour 
+	dough bread (1) and rye bread (1)\n\nKilde: https://cdn.prod.website-files
+	.com/6020356278b4438fe8a59224/69ea1de02c72cf7e193bbcc3_fre%20uge%2017%20R.
+	pdf
+URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69ea1de02c7
+	2cf7e193bbcc3_fre%20uge%2017%20R.pdf
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:M9F9LXu5MxnXma0u-BOWF
+UID:TOqkwgl3G_iwjPQTSbHuc
 SUMMARY:Frokost: Frikadeller af øko-kylling\, serveret med brun sovs (1\,7\
 	,9) samt l
-DTSTAMP:20260423T080056Z
+DTSTAMP:20260424T081034Z
 DTSTART:20260427T113000Z
 DESCRIPTION:UGE 18\n\nMenu / mandag Dagens inspiration:Dansk Full noon:Frik
 	adeller af øko-kylling\, serveret med brun sovs (1\,7\,9) samt lun kartoff
@@ -223,10 +224,60 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69e86001272
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:StkjUuYmHaW0pqdcOsuiC
+UID:kZ3SETwoIECmzFJwPDwFE
+SUMMARY:Frokost: Porc à la crème et moutarde - Øko-gris á la creme med senn
+	ep (1\,7
+DTSTAMP:20260424T081034Z
+DTSTART:20260423T113000Z
+DESCRIPTION:UGE 17\n\nMenu / torsdag Dagens inspiration:Europæiske klassike
+	re Full noon:Porc à la crème et moutarde - Øko-gris á la creme med sennep 
+	(1\,7\,10\,12)\, hertil casarecce og porrer med brunet smør og salvie (1) 
+	Green noon:Quiche med øko æg\, asparges\, forårsløg\, tomater\, ramsløg og
+	 emmentalerost (1\,3\,7)\, hertil casarecce og porrer med brunet smør og s
+	alvie (1) Green noon vegansk:Quiche med asparges\, forårsløg\, tomater\, r
+	amsløg og vegansk ost (1\,B)\, hertil casarecce og porrer med olivenolie o
+	g salvie (1) Fyldig salat:Tysk kartoffelsalat (10) Fyldig salat vegansk:Ty
+	sk kartoffelsalat (10) Let salat:Østrigsk agurkesalat med spidskål (12\,K)
+	 Let salat vegansk:Østrigsk agurkesalat med spidskål (12\,K) Grønt stykke:
+	Pisto Manchego - Stegte squash med grøntsagssalsa (12\,T) Grønt stykke veg
+	ansk:Pisto Manchego - Stegte squash med grøntsagssalsa (12\,T) Til brød - 
+	Full:Stærk salami med cornichoner (7\,10) Til brød - Green:Cervelle de can
+	ut - Lyonaise ostecreme med krydderurter (7\,12) Til brød - Green vegansk:
+	Cervelle de canut - Lyonaise ostecreme med krydderurter (6\,12) Til brød -
+	 Alle:Svampe-escabeche – spansk marinerede svampe (12\,S) Til brød - Alle 
+	vegansk:Svampe-escabeche – spansk marinerede svampe (12\,S) Brød:Surdejsbr
+	ød med solsikkekerner og birkes (1) og rugbrød (1) Menu / torsdag Today's 
+	inspiration:European classics Hot dishes - Full noon:Porc à la crème et mo
+	utarde - Oragnic pork á la cream with mustard (1\,7\,10\,12)\, served with
+	 casarecce and leeks with brown butter and sage (1) Hot dishes - Green noo
+	n:Quiche with organic eggs\, asparagus\, spring onions\, tomatoes\, wild g
+	arlic\, and emmentaler cheese (1\,3\,7)\, served with casarecce and leeks 
+	with brown butter and sage (1) Hot dishes - Vegan Green noon:Quiche with a
+	sparagus\, spring onions\, tomatoes\, wild garlic\, and vegan cheese (1\,B
+	)\, served with casarecce and leeks with olive oil and sage (1) Heavy sala
+	d:German potato salad (10) Heavy salad vegan:German potato salad (10) Ligh
+	t salad:Austrian cucumber salad with pointed cabbage (12\,K) Light salad v
+	egan:Austrian cucumber salad with pointed cabbage (12\,K) Green piece:Pist
+	o Manchego - Roasted squash with vegetable salsa (12\,T) Green piece vegan
+	:Pisto Manchego - Roasted squash with vegetable salsa (12\,T) For bread - 
+	Full:Spicy salami with cornichons (7\,10) For bread - Green:Cervelle de ca
+	nut – Lyonnaise cheese cream with herbs (7\,12) For bread - Green vegan:Ce
+	rvelle de canut – Lyonnaise cheese cream with herbs (6\,12) For bread - Al
+	l:Mushroom escabeche – Spanish marinated mushrooms (12\,S) For bread - All
+	 vegan:Svampe-escabeche – spansk marinerede svampe (12\,S) Bread:Sour doug
+	h bread with sunflower and poppy seeds (1) and rye bread (1) Menu / torsda
+	g Kage:Æblekage med marcipan (1\,3\,7\,8) Cake:Apple and marzipan cake (1\
+	,3\,7\,8)\n\nKilde: https://cdn.prod.website-files.com/6020356278b4438fe8a
+	59224/69e9dd3c4960bb4d74d25871_tor%20uge%2017%20R%2023-4.pdf
+URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69e9dd3c496
+	0bb4d74d25871_tor%20uge%2017%20R%2023-4.pdf
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:LFbQmRMNNJ8QOzODBI6jZ
 SUMMARY:Frokost: Braiseret øko-gris i rødvins-tomatsauce (9\,12\,T)\, herti
 	l tagliate
-DTSTAMP:20260423T080057Z
+DTSTAMP:20260424T081034Z
 DTSTART:20260420T113000Z
 DESCRIPTION:UGE 17\n\nMenu / mandag Dagens inspiration:Italiensk Full noon:
 	Braiseret øko-gris i rødvins-tomatsauce (9\,12\,T)\, hertil tagliatelle ve
@@ -273,10 +324,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69e228fe8ca
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:tf0juw2fnOaP0cIPewfYh
+UID:P2oemxBEwmp-F_d5bCjrI
 SUMMARY:Frokost: Bimbimbap med øko-kylling og azukibønner toppet med stegte
 	 shitak
-DTSTAMP:20260423T080057Z
+DTSTAMP:20260424T081034Z
 DTSTART:20260421T113000Z
 DESCRIPTION:UGE 17\n\nMenu / tirsdag Dagens inspiration:Koreansk Full noon:
 	Bimbimbap med øko-kylling og azukibønner toppet med stegte shitake\, chili
@@ -323,59 +374,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69de366c4f4
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:-rupJcgxNvJgxkxcgsdGl
-SUMMARY:Frokost: Porc à la crème et moutarde - Øko-gris á la creme med senn
-	ep (1\,7
-DTSTAMP:20260423T080057Z
-DTSTART:20260423T113000Z
-DESCRIPTION:UGE 17\n\nMenu / torsdag Dagens inspiration:Europæiske klassike
-	re Full noon:Porc à la crème et moutarde - Øko-gris á la creme med sennep 
-	(1\,7\,10\,12)\, hertil casarecce og porrer med brunet smør og salvie (1) 
-	Green noon:Quiche med øko æg\, asparges\, forårsløg\, tomater\, ramsløg og
-	 emmentalerost (1\,3\,7)\, hertil casarecce og porrer med brunet smør og s
-	alvie (1) Green noon vegansk:Quiche med asparges\, forårsløg\, tomater\, r
-	amsløg og vegansk ost (1\,B)\, hertil casarecce og porrer med olivenolie o
-	g salvie (1) Fyldig salat:Tysk kartoffelsalat (10) Fyldig salat vegansk:Ty
-	sk kartoffelsalat (10) Let salat:Østrigsk agurkesalat med spidskål (12\,K)
-	 Let salat vegansk:Østrigsk agurkesalat med spidskål (12\,K) Grønt stykke:
-	Pisto Manchego - Stegte squash med grøntsagssalsa (12\,T) Grønt stykke veg
-	ansk:Pisto Manchego - Stegte squash med grøntsagssalsa (12\,T) Til brød - 
-	Full:Stærk salami med cornichoner (7\,10) Til brød - Green:Cervelle de can
-	ut - Lyonaise ostecreme med krydderurter (7\,12) Til brød - Green vegansk:
-	Cervelle de canut - Lyonaise ostecreme med krydderurter (6\,12) Til brød -
-	 Alle:Svampe-escabeche – spansk marinerede svampe (12\,S) Til brød - Alle 
-	vegansk:Svampe-escabeche – spansk marinerede svampe (12\,S) Brød:Surdejsbr
-	ød med solsikkekerner og birkes (1) og rugbrød (1) Menu / torsdag Today's 
-	inspiration:European classics Hot dishes - Full noon:Porc à la crème et mo
-	utarde - Oragnic pork á la cream with mustard (1\,7\,10\,12)\, served with
-	 casarecce and leeks with brown butter and sage (1) Hot dishes - Green noo
-	n:Quiche with organic eggs\, asparagus\, spring onions\, tomatoes\, wild g
-	arlic\, and emmentaler cheese (1\,3\,7)\, served with casarecce and leeks 
-	with brown butter and sage (1) Hot dishes - Vegan Green noon:Quiche with a
-	sparagus\, spring onions\, tomatoes\, wild garlic\, and vegan cheese (1\,3
-	\,7)\, served with casarecce and leeks with olive oil and sage (1) Heavy s
-	alad:German potato salad (10) Heavy salad vegan:German potato salad (10) L
-	ight salad:Austrian cucumber salad with pointed cabbage (12\,K) Light sala
-	d vegan:Austrian cucumber salad with pointed cabbage (12\,K) Green piece:P
-	isto Manchego - Roasted squash with vegetable salsa (12\,T) Green piece ve
-	gan:Pisto Manchego - Roasted squash with vegetable salsa (12\,T) For bread
-	 - Full:Spicy salami with cornichons (7\,10) For bread - Green:Cervelle de
-	 canut – Lyonnaise cheese cream with herbs (7\,12) For bread - Green vegan
-	:Cervelle de canut – Lyonnaise cheese cream with herbs (6\,12) For bread -
-	 All:Mushroom escabeche – Spanish marinated mushrooms (12\,S) For bread - 
-	All vegan:Svampe-escabeche – spansk marinerede svampe (12\,S) Bread:Sour d
-	ough bread with sunflower and poppy seeds (1) and rye bread (1)\n\nKilde: 
-	https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69e750b7260717
-	09d6d53bd6_tor%20uge%2017%20R.pdf
-URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69e750b7260
-	71709d6d53bd6_tor%20uge%2017%20R.pdf
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:SHQExJZRfG_RII9xAipGI
+UID:PuvCH67Sdyfr685ZiVhqt
 SUMMARY:Frokost: Miso-glasserede kødboller af øko-gris med kinakål\, gulerø
 	dder og 
-DTSTAMP:20260423T080057Z
+DTSTAMP:20260424T081034Z
 DTSTART:20260429T113000Z
 DESCRIPTION:UGE 18\n\nMenu / onsdag Dagens inspiration:Japansk Full noon:Mi
 	so-glasserede kødboller af øko-gris med kinakål\, gulerødder og forårsløg 
@@ -421,10 +423,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69e86001c46
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:ikuoxNLmTbTRoe5cRzUGA
+UID:vebQpb4IBNdGVStx1J4fH
 SUMMARY:Frokost: Moussaka på øko-okse\, auberginer og kartofler med mornais
 	esauce (
-DTSTAMP:20260423T080057Z
+DTSTAMP:20260424T081034Z
 DTSTART:20260428T113000Z
 DESCRIPTION:UGE 18\n\nMenu / tirsdag Dagens inspiration:Middelhavsk Full no
 	on:Moussaka på øko-okse\, auberginer og kartofler med mornaisesauce (1\,7\
@@ -469,9 +471,9 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69e86000645
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:cdJmdsTktdKwS7ii4lC1S
+UID:VPU8ostZWd-wStcQkPcqj
 SUMMARY:Frokost: Gullash af øko-okse (12\,T)\, hertil kartoffelmos (7)
-DTSTAMP:20260423T080057Z
+DTSTAMP:20260424T081034Z
 DTSTART:20260430T113000Z
 DESCRIPTION:UGE 18\n\nMenu / torsdag Dagens inspiration:Ungarsk Full noon:G
 	ullash af øko-okse (12\,T)\, hertil kartoffelmos (7) Green noon:Grøn gulla
