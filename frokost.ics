@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:6dCHrnIsJL_QncZrmWAi_
+UID:n3Jzfk_3n_3WAB6V3i2qg
 SUMMARY:Frokost: Stegte øko-kyllingeoverlår med macadamianøddecreme og rist
 	ede græ
-DTSTAMP:20260426T074634Z
+DTSTAMP:20260427T083442Z
 DTSTART:20260501T113000Z
 DESCRIPTION:UGE 18\n\nMenu / fredag Dagens inspiration:Gæstekok Jo Barret F
 	ull noon:Stegte øko-kyllingeoverlår med macadamianøddecreme og ristede græ
@@ -62,10 +62,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69eb55af759
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:VJ5YcOcp2sQYsCuavaXih
+UID:HEJcdPcl3Qd-r5wjIU2A9
 SUMMARY:Frokost: Tandoorimarineret øko-kalkun med kikærter\, løg og knoldse
 	lleri (7
-DTSTAMP:20260426T074634Z
+DTSTAMP:20260427T083442Z
 DTSTART:20260422T113000Z
 DESCRIPTION:UGE 17\n\nMenu / onsdag Dagens inspiration:Indisk Full noon:Tan
 	doorimarineret øko-kalkun med kikærter\, løg og knoldselleri (7\,9\,12)\, 
@@ -118,10 +118,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69de366ccde
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:zibBGhgx2OSZW9kzNyCR5
+UID:F8yYFwJCzTg7MmHWFuD62
 SUMMARY:Frokost: Øko-kylling med limabønner\, saltede citroner og grapefrug
 	tsauce (
-DTSTAMP:20260426T074634Z
+DTSTAMP:20260427T083442Z
 DTSTART:20260424T113000Z
 DESCRIPTION:UGE 17\n\nMenu / fredag Dagens inspiration:Gæstekok Odd Veggies
 	 Full noon:Øko-kylling med limabønner\, saltede citroner og grapefrugtsauc
@@ -173,10 +173,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69ea1de02c7
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:tmX_ZJjQC454c0IyIXumS
+UID:Img-AF1bwxd3NMZTJj5ot
 SUMMARY:Frokost: Frikadeller af øko-kylling\, serveret med brun sovs (1\,7\
 	,9) samt l
-DTSTAMP:20260426T074634Z
+DTSTAMP:20260427T083442Z
 DTSTART:20260427T113000Z
 DESCRIPTION:UGE 18\n\nMenu / mandag Dagens inspiration:Dansk Full noon:Frik
 	adeller af øko-kylling\, serveret med brun sovs (1\,7\,9) samt lun kartoff
@@ -224,10 +224,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69e86001272
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:iIx8UwLMn7_MlpuDTxp_h
+UID:cOPdTFK2Jf9LO0Y3K9T_k
 SUMMARY:Frokost: Porc à la crème et moutarde - Øko-gris á la creme med senn
 	ep (1\,7
-DTSTAMP:20260426T074634Z
+DTSTAMP:20260427T083442Z
 DTSTART:20260423T113000Z
 DESCRIPTION:UGE 17\n\nMenu / torsdag Dagens inspiration:Europæiske klassike
 	re Full noon:Porc à la crème et moutarde - Øko-gris á la creme med sennep 
@@ -274,10 +274,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69e9dd3c496
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:AlYCPvHRCYRVOp5vivJOx
+UID:_cotbeNFAKJzVwRH_kRQc
 SUMMARY:Frokost: Braiseret øko-gris i rødvins-tomatsauce (9\,12\,T)\, herti
 	l tagliate
-DTSTAMP:20260426T074634Z
+DTSTAMP:20260427T083443Z
 DTSTART:20260420T113000Z
 DESCRIPTION:UGE 17\n\nMenu / mandag Dagens inspiration:Italiensk Full noon:
 	Braiseret øko-gris i rødvins-tomatsauce (9\,12\,T)\, hertil tagliatelle ve
@@ -324,10 +324,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69e228fe8ca
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:MsHesLZDA0RPRzJVNG-53
+UID:aSo-8YLyCrs7qxfQQwjVO
 SUMMARY:Frokost: Bimbimbap med øko-kylling og azukibønner toppet med stegte
 	 shitak
-DTSTAMP:20260426T074634Z
+DTSTAMP:20260427T083443Z
 DTSTART:20260421T113000Z
 DESCRIPTION:UGE 17\n\nMenu / tirsdag Dagens inspiration:Koreansk Full noon:
 	Bimbimbap med øko-kylling og azukibønner toppet med stegte shitake\, chili
@@ -374,10 +374,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69de366c4f4
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:bNkb9ZkAggSgpR2xwBEG_
+UID:iVxSyPxqQbsh9UtAC3BVi
 SUMMARY:Frokost: Miso-glasserede kødboller af øko-gris med kinakål\, gulerø
 	dder og 
-DTSTAMP:20260426T074634Z
+DTSTAMP:20260427T083443Z
 DTSTART:20260429T113000Z
 DESCRIPTION:UGE 18\n\nMenu / onsdag Dagens inspiration:Japansk Full noon:Mi
 	so-glasserede kødboller af øko-gris med kinakål\, gulerødder og forårsløg 
@@ -423,10 +423,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69e86001c46
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:jBkfBtuwIQ_Xj3d3t4qTs
+UID:KRcYZOaNmUXH-Ug7ogap4
 SUMMARY:Frokost: Moussaka på øko-okse\, auberginer og kartofler med mornais
 	esauce (
-DTSTAMP:20260426T074634Z
+DTSTAMP:20260427T083443Z
 DTSTART:20260428T113000Z
 DESCRIPTION:UGE 18\n\nMenu / tirsdag Dagens inspiration:Middelhavsk Full no
 	on:Moussaka på øko-okse\, auberginer og kartofler med mornaisesauce (1\,7\
@@ -439,41 +439,41 @@ DESCRIPTION:UGE 18\n\nMenu / tirsdag Dagens inspiration:Middelhavsk Full no
 	rte- og citronvinaigrette (10\,12\,B\,K\,T) Let salat:Hjertesalat og radic
 	chio med æbler og purløg toppet med hvidvinsvinaigrette (10\,12) Let salat
 	 vegansk:Hjertesalat og radicchio med æbler og purløg toppet med hvidvinsv
-	inaigrette (10\,12) Grønt stykke:Brocoli med hvidløgscreme\, rosiner\, kap
-	ers og ristede mandler (7\,8\,12) Grønt stykke vegansk:Brocoli med hvidløg
-	screme\, rosiner\, kapers og ristede mandler (6\,8\,12) Til brød - Full:Mø
-	rkogt skinke med italiensk salat (3\,7\,10\,12) Til brød - Green:Marineret
-	 glaskål med italiensk salat (3\,7\,10\,12) Til brød - Green vegansk:Marin
-	eret glaskål med italiensk salat (10) Til brød - Alle:Grøn pesto (3\,7) Ti
-	l brød - Alle vegansk:Grøn pesto Brød:Surdejsbrød (1) og rugbrød (1) Menu 
-	/ tirsdag Today's inspiration:Mediterranean Hot dishes - Full noon:Moussak
-	a with organic beef\, aubergines\, potatoes and Mornay sauce (1\,7\,9\,12\
-	,T) Hot dishes - Green noon:Moussaka with soy meat\, eggplant\, potatoes a
-	nd Mornay sauce (1\,6\,7\,9\,12\,T) Hot dishes - Vegan Green noon:Moussaka
-	 with soy meat\, eggplant\, potatoes and Mornay sauce (6\,9\,12\,B\,T) Hea
-	vy salad:Cannellini beans with kale\, sundried tomatoes\, and red onions t
-	ossed in a herb and lemon vinaigrette (10\,12\,B\,K\,T) Heavy salad vegan:
-	Cannellini beans with kale\, sundried tomatoes\, and red onions tossed in 
-	a herb and lemon vinaigrette (10\,12\,B\,K\,T) Light salad:Baby gem and ra
-	dicchio with apples and chives\, topped with white wine vinaigrette (10\,1
-	2) Light salad vegan:Baby gem and radicchio with apples and chives\, toppe
-	d with white wine vinaigrette (10\,12) Green piece:Brocoli with garlic cre
-	am\, raisins\, capers and roasted almonds (7\,8\,12) Green piece vegan:Bro
-	coli with garlic cream\, raisins\, capers and roasted almonds (6\,8\,12) F
-	or bread - Full:Boiled ham with Italian salad (3\,7\,10\,12) For bread - G
-	reen:Marinated rutabaga with Italian salad (3\,7\,10\,12) For bread - Gree
-	n vegan:Marinated rutabaga with Italian salad (10) For bread - All:Green p
-	esto (3\,7) For bread - All vegan:Green pesto Bread:Sourdough bread (1) an
-	d rye bread (1)\n\nKilde: https://cdn.prod.website-files.com/6020356278b44
-	38fe8a59224/69e86000645a0120f5c1bef3_tir%20uge%2018.pdf
-URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69e86000645
-	a0120f5c1bef3_tir%20uge%2018.pdf
+	inaigrette (10\,12) Grønt stykke:Broccoli med hvidløgscreme\, rosiner\, ka
+	pers og chiafrø (7\,12) Grønt stykke vegansk:Broccoli med hvidløgscreme\, 
+	rosiner\, kapers og chiafrø (6\,12) Til brød - Full:Mørkogt skinke med ita
+	liensk salat (3\,7\,10\,12) Til brød - Green:Marineret glaskål med italien
+	sk salat (3\,7\,10\,12) Til brød - Green vegansk:Marineret glaskål med ita
+	liensk salat (10) Til brød - Alle:Grøn pesto (3\,7) Til brød - Alle vegans
+	k:Grøn pesto Brød:Surdejsbrød (1) og rugbrød (1) Menu / tirsdag Today's in
+	spiration:Mediterranean Hot dishes - Full noon:Moussaka with organic beef\
+	, aubergines\, potatoes and Mornay sauce (1\,7\,9\,12\,T) Hot dishes - Gre
+	en noon:Moussaka with soy meat\, eggplant\, potatoes and Mornay sauce (1\,
+	6\,7\,9\,12\,T) Hot dishes - Vegan Green noon:Moussaka with soy meat\, egg
+	plant\, potatoes and Mornay sauce (6\,9\,12\,B\,T) Heavy salad:Cannellini 
+	beans with kale\, sundried tomatoes\, and red onions tossed in a herb and 
+	lemon vinaigrette (10\,12\,B\,K\,T) Heavy salad vegan:Cannellini beans wit
+	h kale\, sundried tomatoes\, and red onions tossed in a herb and lemon vin
+	aigrette (10\,12\,B\,K\,T) Light salad:Baby gem and radicchio with apples 
+	and chives\, topped with white wine vinaigrette (10\,12) Light salad vegan
+	:Baby gem and radicchio with apples and chives\, topped with white wine vi
+	naigrette (10\,12) Green piece:Broccoli with garlic cream\, raisins\, cape
+	rs and chia seeds (7\,12) Green piece vegan:Broccoli with garlic cream\, r
+	aisins\, capers and chia seeds (6\,12) For bread - Full:Boiled ham with It
+	alian salad (3\,7\,10\,12) For bread - Green:Marinated rutabaga with Itali
+	an salad (3\,7\,10\,12) For bread - Green vegan:Marinated rutabaga with It
+	alian salad (10) For bread - All:Green pesto (3\,7) For bread - All vegan:
+	Green pesto Bread:Sourdough bread (1) and rye bread (1)\n\nKilde: https://
+	cdn.prod.website-files.com/6020356278b4438fe8a59224/69eee39f650a729356095d
+	4e_tir%20uge%2018%20R%2027-4.pdf
+URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69eee39f650
+	a729356095d4e_tir%20uge%2018%20R%2027-4.pdf
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:B5Ojq2kOM11xOy4PsKTNf
+UID:32Gekg5jf7utacgrHRI51
 SUMMARY:Frokost: Gullash af øko-okse (12\,T)\, hertil kartoffelmos (7)
-DTSTAMP:20260426T074634Z
+DTSTAMP:20260427T083443Z
 DTSTART:20260430T113000Z
 DESCRIPTION:UGE 18\n\nMenu / torsdag Dagens inspiration:Ungarsk Full noon:G
 	ullash af øko-okse (12\,T)\, hertil kartoffelmos (7) Green noon:Grøn gulla
