@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:n3Jzfk_3n_3WAB6V3i2qg
+UID:mt57zkgcyDpk6WWLOG-VR
 SUMMARY:Frokost: Stegte øko-kyllingeoverlår med macadamianøddecreme og rist
 	ede græ
-DTSTAMP:20260427T083442Z
+DTSTAMP:20260428T083133Z
 DTSTART:20260501T113000Z
 DESCRIPTION:UGE 18\n\nMenu / fredag Dagens inspiration:Gæstekok Jo Barret F
 	ull noon:Stegte øko-kyllingeoverlår med macadamianøddecreme og ristede græ
@@ -62,10 +62,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69eb55af759
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:HEJcdPcl3Qd-r5wjIU2A9
+UID:LO_bcyr443YR5MM8xrMUF
 SUMMARY:Frokost: Tandoorimarineret øko-kalkun med kikærter\, løg og knoldse
 	lleri (7
-DTSTAMP:20260427T083442Z
+DTSTAMP:20260428T083133Z
 DTSTART:20260422T113000Z
 DESCRIPTION:UGE 17\n\nMenu / onsdag Dagens inspiration:Indisk Full noon:Tan
 	doorimarineret øko-kalkun med kikærter\, løg og knoldselleri (7\,9\,12)\, 
@@ -118,10 +118,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69de366ccde
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:F8yYFwJCzTg7MmHWFuD62
+UID:d3xPXxznlBukNMM9b47nK
 SUMMARY:Frokost: Øko-kylling med limabønner\, saltede citroner og grapefrug
 	tsauce (
-DTSTAMP:20260427T083442Z
+DTSTAMP:20260428T083133Z
 DTSTART:20260424T113000Z
 DESCRIPTION:UGE 17\n\nMenu / fredag Dagens inspiration:Gæstekok Odd Veggies
 	 Full noon:Øko-kylling med limabønner\, saltede citroner og grapefrugtsauc
@@ -173,10 +173,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69ea1de02c7
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:Img-AF1bwxd3NMZTJj5ot
+UID:rEibuFI2jkUNsNgCRpNnQ
 SUMMARY:Frokost: Frikadeller af øko-kylling\, serveret med brun sovs (1\,7\
 	,9) samt l
-DTSTAMP:20260427T083442Z
+DTSTAMP:20260428T083133Z
 DTSTART:20260427T113000Z
 DESCRIPTION:UGE 18\n\nMenu / mandag Dagens inspiration:Dansk Full noon:Frik
 	adeller af øko-kylling\, serveret med brun sovs (1\,7\,9) samt lun kartoff
@@ -224,10 +224,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69e86001272
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:cOPdTFK2Jf9LO0Y3K9T_k
+UID:9YtYHL9oiX6vqmFlNSzgI
 SUMMARY:Frokost: Porc à la crème et moutarde - Øko-gris á la creme med senn
 	ep (1\,7
-DTSTAMP:20260427T083442Z
+DTSTAMP:20260428T083133Z
 DTSTART:20260423T113000Z
 DESCRIPTION:UGE 17\n\nMenu / torsdag Dagens inspiration:Europæiske klassike
 	re Full noon:Porc à la crème et moutarde - Øko-gris á la creme med sennep 
@@ -274,10 +274,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69e9dd3c496
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:_cotbeNFAKJzVwRH_kRQc
+UID:ZiyptcbufbSZd0Gg0thwn
 SUMMARY:Frokost: Braiseret øko-gris i rødvins-tomatsauce (9\,12\,T)\, herti
 	l tagliate
-DTSTAMP:20260427T083443Z
+DTSTAMP:20260428T083133Z
 DTSTART:20260420T113000Z
 DESCRIPTION:UGE 17\n\nMenu / mandag Dagens inspiration:Italiensk Full noon:
 	Braiseret øko-gris i rødvins-tomatsauce (9\,12\,T)\, hertil tagliatelle ve
@@ -324,10 +324,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69e228fe8ca
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:aSo-8YLyCrs7qxfQQwjVO
+UID:cDCKPauwWtBPpG-gPoKCq
 SUMMARY:Frokost: Bimbimbap med øko-kylling og azukibønner toppet med stegte
 	 shitak
-DTSTAMP:20260427T083443Z
+DTSTAMP:20260428T083133Z
 DTSTART:20260421T113000Z
 DESCRIPTION:UGE 17\n\nMenu / tirsdag Dagens inspiration:Koreansk Full noon:
 	Bimbimbap med øko-kylling og azukibønner toppet med stegte shitake\, chili
@@ -374,10 +374,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69de366c4f4
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:iVxSyPxqQbsh9UtAC3BVi
+UID:AV591laVm630bfXqcTWiW
 SUMMARY:Frokost: Miso-glasserede kødboller af øko-gris med kinakål\, gulerø
 	dder og 
-DTSTAMP:20260427T083443Z
+DTSTAMP:20260428T083133Z
 DTSTART:20260429T113000Z
 DESCRIPTION:UGE 18\n\nMenu / onsdag Dagens inspiration:Japansk Full noon:Mi
 	so-glasserede kødboller af øko-gris med kinakål\, gulerødder og forårsløg 
@@ -386,47 +386,47 @@ DESCRIPTION:UGE 18\n\nMenu / onsdag Dagens inspiration:Japansk Full noon:Mi
 	øg (6\,11\,B)\, hertil dampet ris med sorte sesamfrø (11) Green noon vegan
 	sk:Miso-glaseret tofu med mungbønner\, squash\, kinakål\, gulerødder og fo
 	rårsløg (6\,11\,B)\, hertil dampet ris med sorte sesamfrø (11) Fyldig sala
-	t:Hvedenudler med babyspinat\, edamame\, kinaradiser\, gulerødder og sesam
-	-wasabidressing (1\,6\,10\,11) Fyldig salat vegansk:Hvedenudler med babysp
-	inat\, edamame\, kinaradiser\, gulerødder og sesam-wasabidressing (1\,6\,1
-	0\,11) Let salat:Mizuna og frillice med agurker\, krydderurter og yuzu Let
-	 salat vegansk:Mizuna og frillice med agurker\, krydderurter og yuzu Grønt
-	 stykke:Bok choy med miso- og limedressing (6\,12) Grønt stykke vegansk:Bo
-	k choy med miso- og limedressing (6\,12) Til brød - Full:Tunsalat med toma
-	ter og purløg (3\,4\,7\,10\,12\,T) Til brød - Green:Cremet østershattesala
-	t med tomater og purløg (3\,7\,10\,12\,T) Til brød - Green vegansk:Cremet 
-	østershattesalat med tomater og purløg (6\,12\,T) Til brød - Alle:Raita (7
-	) Til brød - Alle vegansk:Raita (6) Brød:Surdejsbrød (1) og rugbrød (1) Me
-	nu / onsdag Today's inspiration:Japanese Hot dishes - Full noon:Miso-glaze
-	d organic pork meatballs\, served with Chinese cabbage\, carrots\, and spr
-	ing onions (1\,6\,9\,11) and steamed rice with black sesame seeds (11) Hot
-	 dishes - Green noon:Miso-glazed tofu with mung beans\, zucchini\, Chinese
-	 cabbage\, carrots\, and spring onions (6\,11\,B) and steamed rice with bl
-	ack sesame seeds (11) Hot dishes - Vegan Green noon:Miso-glazed tofu with 
-	mung beans\, zucchini\, Chinese cabbage\, carrots\, and spring onions (6\,
-	11\,B) and steamed rice with black sesame seeds (11) Heavy salad:Wheat noo
-	dles with baby spinach\, edamame\, radishes\, carrots\, and sesame–wasabi 
-	dressing (1\,6\,10\,11) Heavy salad vegan:Wheat noodles with baby spinach\
-	, edamame\, radishes\, carrots\, and sesame–wasabi dressing (1\,6\,10\,11)
-	 Light salad:Mizuna and frillice with cucumbers\, herbs and yuzu Light sal
-	ad vegan:Mizuna and frillice with cucumbers\, herbs and yuzu Green piece:B
-	ok choy with miso and lime dressing (6\,12) Green piece vegan:Bok choy wit
-	h miso and lime dressing (6\,12) For bread - Full:Tuna salad with tomoatoe
-	s and chives (3\,4\,7\,10\,12\,T) For bread - Green:Creamy oyster mushroom
-	 salad with tomatoes and chives (3\,7\,10\,12\,T) For bread - Green vegan:
-	Creamy oyster mushroom salad with tomatoes and chives (6\,12\,T) For bread
-	 - All:Raita (7) For bread - All vegan:Raita (6) Bread:Sourdough bread (1)
-	 and rye bread (1)\n\nKilde: https://cdn.prod.website-files.com/6020356278
-	b4438fe8a59224/69e86001c464b0d5c0a217c8_ons%20uge%2018.pdf
-URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69e86001c46
-	4b0d5c0a217c8_ons%20uge%2018.pdf
+	t:Glasnudler med babyspinat\, edamame\, kinaradiser\, gulerødder og sesam-
+	wasabidressing (6\,10\,11) Fyldig salat vegansk:Glasnudler med babyspinat\
+	, edamame\, kinaradiser\, gulerødder og sesam-wasabidressing (6\,10\,11) L
+	et salat:Mizuna og frillice med agurker\, krydderurter og yuzu Let salat v
+	egansk:Mizuna og frillice med agurker\, krydderurter og yuzu Grønt stykke:
+	Bok choy med miso- og limedressing (6\,12) Grønt stykke vegansk:Bok choy m
+	ed miso- og limedressing (6\,12) Til brød - Full:Tunsalat med tomater og p
+	urløg (3\,4\,10\,12\,T) Til brød - Green:Cremet østershattesalat med tomat
+	er og purløg (3\,7\,10\,12\,T) Til brød - Green vegansk:Cremet østershatte
+	salat med tomater og purløg (6\,12\,T) Til brød - Alle:Raita (7) Til brød 
+	- Alle vegansk:Raita (6) Brød:Surdejsbrød (1) og rugbrød (1) Menu / onsdag
+	 Today's inspiration:Japanese Hot dishes - Full noon:Miso-glazed organic p
+	ork meatballs\, served with Chinese cabbage\, carrots\, and spring onions 
+	(1\,6\,9\,11) and steamed rice with black sesame seeds (11) Hot dishes - G
+	reen noon:Miso-glazed tofu with mung beans\, zucchini\, Chinese cabbage\, 
+	carrots\, and spring onions (6\,11\,B) and steamed rice with black sesame 
+	seeds (11) Hot dishes - Vegan Green noon:Miso-glazed tofu with mung beans\
+	, zucchini\, Chinese cabbage\, carrots\, and spring onions (6\,11\,B) and 
+	steamed rice with black sesame seeds (11) Heavy salad:Glass noodles with b
+	aby spinach\, edamame\, radishes\, carrots\, and sesame–wasabi dressing (6
+	\,10\,11) Heavy salad vegan:Glass noodles with baby spinach\, edamame\, ra
+	dishes\, carrots\, and sesame–wasabi dressing (6\,10\,11) Light salad:Mizu
+	na and frillice with cucumbers\, herbs and yuzu Light salad vegan:Mizuna a
+	nd frillice with cucumbers\, herbs and yuzu Green piece:Bok choy with miso
+	 and lime dressing (6\,12) Green piece vegan:Bok choy with miso and lime d
+	ressing (6\,12) For bread - Full:Tuna salad with tomatoes and chives (3\,4
+	\,10\,12\,T) For bread - Green:Creamy oyster mushroom salad with tomatoes 
+	and chives (3\,7\,10\,12\,T) For bread - Green vegan:Creamy oyster mushroo
+	m salad with tomatoes and chives (6\,12\,T) For bread - All:Raita (7) For 
+	bread - All vegan:Raita (6) Bread:Sourdough bread (1) and rye bread (1)\n\
+	nKilde: https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69f066
+	3a88aa1ed42114fc4b_ons%20uge%2018%20R%2028-4.pdf
+URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69f0663a88a
+	a1ed42114fc4b_ons%20uge%2018%20R%2028-4.pdf
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:KRcYZOaNmUXH-Ug7ogap4
+UID:oP4JJ3io3mRaN8PkHkC6m
 SUMMARY:Frokost: Moussaka på øko-okse\, auberginer og kartofler med mornais
 	esauce (
-DTSTAMP:20260427T083443Z
+DTSTAMP:20260428T083133Z
 DTSTART:20260428T113000Z
 DESCRIPTION:UGE 18\n\nMenu / tirsdag Dagens inspiration:Middelhavsk Full no
 	on:Moussaka på øko-okse\, auberginer og kartofler med mornaisesauce (1\,7\
@@ -471,9 +471,9 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69eee39f650
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:32Gekg5jf7utacgrHRI51
+UID:L7xc0lJouE5saKa-asGuB
 SUMMARY:Frokost: Gullash af øko-okse (12\,T)\, hertil kartoffelmos (7)
-DTSTAMP:20260427T083443Z
+DTSTAMP:20260428T083133Z
 DTSTART:20260430T113000Z
 DESCRIPTION:UGE 18\n\nMenu / torsdag Dagens inspiration:Ungarsk Full noon:G
 	ullash af øko-okse (12\,T)\, hertil kartoffelmos (7) Green noon:Grøn gulla
