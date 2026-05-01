@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:xKPGfB9ZpNYfvcBrnlc56
+UID:UkqTYZwQCFhVvW5kv_qZs
 SUMMARY:Frokost: Stegte øko-kyllingeoverlår med macadamianøddecreme og rist
 	ede græ
-DTSTAMP:20260430T082824Z
+DTSTAMP:20260501T081716Z
 DTSTART:20260501T113000Z
 DESCRIPTION:UGE 18\n\nMenu / fredag Dagens inspiration:Gæstekok Jo Barret F
 	ull noon:Stegte øko-kyllingeoverlår med macadamianøddecreme og ristede græ
@@ -62,10 +62,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69f2e61542e
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:x89aUmKX23hzu90FpNhDz
+UID:6dTFUOsaIwrPJ14duNNOX
 SUMMARY:Frokost: Øko-okse og kikærter i rød karry (6\,10\,11\,12\,B\,T)\, h
 	ertil perleby
-DTSTAMP:20260430T082824Z
+DTSTAMP:20260501T081716Z
 DTSTART:20260508T113000Z
 DESCRIPTION:UGE 19\n\nMenu / fredag Dagens inspiration:Gæstekok Per Thøstes
 	en Full noon:Øko-okse og kikærter i rød karry (6\,10\,11\,12\,B\,T)\, hert
@@ -119,10 +119,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69f1ebdf2ff
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:6RvljHxDf_z9M_5n-j07Q
+UID:TAkS8i2SgnhuKT_y1sQcF
 SUMMARY:Frokost: Grøn karry med øko-kalkun\, auberginer\, bambus\, peberfru
 	gter og fr
-DTSTAMP:20260430T082824Z
+DTSTAMP:20260501T081716Z
 DTSTART:20260506T113000Z
 DESCRIPTION:UGE 19\n\nMenu / onsdag Dagens inspiration:Thai Full noon:Grøn 
 	karry med øko-kalkun\, auberginer\, bambus\, peberfrugter og friske røde c
@@ -172,10 +172,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69f1ebdfd84
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:YT9LUpYDho0nZMbGPh82d
+UID:ctWIQK37y3badexVI1xn-
 SUMMARY:Frokost: Frikadeller af øko-kylling\, serveret med brun sovs (1\,7\
 	,9) samt l
-DTSTAMP:20260430T082824Z
+DTSTAMP:20260501T081716Z
 DTSTART:20260427T113000Z
 DESCRIPTION:UGE 18\n\nMenu / mandag Dagens inspiration:Dansk Full noon:Frik
 	adeller af øko-kylling\, serveret med brun sovs (1\,7\,9) samt lun kartoff
@@ -223,10 +223,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69e86001272
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:KX5q4pEpQQhIdm_sugazz
+UID:BXhmQVC9cIVazPocXLdlV
 SUMMARY:Frokost: Miso-glasserede kødboller af øko-gris med knoldselleri\, g
 	ulerødde
-DTSTAMP:20260430T082824Z
+DTSTAMP:20260501T081716Z
 DTSTART:20260429T113000Z
 DESCRIPTION:UGE 18\n\nMenu / onsdag Dagens inspiration:Japansk Full noon:Mi
 	so-glasserede kødboller af øko-gris med knoldselleri\, gulerødder\, græska
@@ -273,10 +273,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69f0a578cf9
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:aAjBvW-FTRNdRo2_Mr5Rx
+UID:DtgKxy0-rdAHE4x6h68Eb
 SUMMARY:Frokost: Stegt øko-kylling i cremet hvidvinsvelouté med cherrytomat
 	er og g
-DTSTAMP:20260430T082824Z
+DTSTAMP:20260501T081716Z
 DTSTART:20260507T113000Z
 DESCRIPTION:UGE 19\n\nMenu / torsdag Dagens inspiration:Provençalske Full n
 	oon:Stegt øko-kylling i cremet hvidvinsvelouté med cherrytomater og gulerø
@@ -321,10 +321,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69f1ebe06cf
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:1EwOpwLxki09U-B3BkA3k
+UID:_7wyzd3V-ZMyy4PSJww9r
 SUMMARY:Frokost: Moussaka på øko-okse\, auberginer og kartofler med mornais
 	esauce (
-DTSTAMP:20260430T082824Z
+DTSTAMP:20260501T081716Z
 DTSTART:20260428T113000Z
 DESCRIPTION:UGE 18\n\nMenu / tirsdag Dagens inspiration:Middelhavsk Full no
 	on:Moussaka på øko-okse\, auberginer og kartofler med mornaisesauce (1\,7\
@@ -369,9 +369,9 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69eee39f650
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:Os0Qomx_KnB0PjKIfaEPq
+UID:_zYK8R0M6XKpvSSBhoAau
 SUMMARY:Frokost: Gullash af øko-okse (12\,T)\, hertil kartoffelmos (7)
-DTSTAMP:20260430T082824Z
+DTSTAMP:20260501T081716Z
 DTSTART:20260430T113000Z
 DESCRIPTION:UGE 18\n\nMenu / torsdag Dagens inspiration:Ungarsk Full noon:G
 	ullash af øko-okse (12\,T)\, hertil kartoffelmos (7) Green noon:Grøn gulla
@@ -415,10 +415,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69e86001d7e
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:7YIgkfmrBi8-MA5CCT91M
+UID:lNEoMPU3nmUjKI1P4Ln1f
 SUMMARY:Frokost: Koteletter af øko-gris i fad med flødepaprikasauce (7\,T)\
 	, hertil 
-DTSTAMP:20260430T082824Z
+DTSTAMP:20260501T081716Z
 DTSTART:20260504T113000Z
 DESCRIPTION:UGE 19\n\nMenu / mandag Dagens inspiration:Dansk Full noon:Kote
 	letter af øko-gris i fad med flødepaprikasauce (7\,T)\, hertil dampet lang
@@ -431,41 +431,41 @@ DESCRIPTION:UGE 19\n\nMenu / mandag Dagens inspiration:Dansk Full noon:Kote
 	 og syltede rødløg (T) Let salat vegansk:Icebergsalat med agurker\, tomate
 	r og syltede rødløg (T) Grønt stykke:Broccoli med Green Goddess-dressing (
 	3\,7\,10\,11\,12) Grønt stykke vegansk:Broccoli med Green Goddess-dressing
-	 (3\,7\,10\,11\,12) Til brød - Full:Røget skinke med italiensk salat (3\,7
-	\,10\,12) Til brød - Green:Grønne frikadeller fra Aarstiderne serveret med
-	 italiensk salat (3\,7\,10\,12) Til brød - Green vegansk:Grønne frikadelle
-	r fra Aarstiderne serveret med italiensk salat (10) Til brød - Alle:Hvid b
-	ønnecreme med yoghurt og tahin (7\,11\,12\,B) Til brød - Alle vegansk:Hvid
-	 bønnecreme med yoghurt og tahin (6\,11\,12\,B) Brød:Surdejsbrød (1) og ru
-	gbrød (1) Menu / mandag Today's inspiration:Danish Hot dishes - Full noon:
-	Organic pork chops in creamy paprika sauce (7\,B\,T)\, served with steamed
-	 long grain rice Hot dishes - Green noon:White beans\, mushrooms\, and squ
-	ash in paprika sauce (7\,B\,T)\, served with steamed long grain rice Hot d
-	ishes - Vegan Green noon:White beans\, mushrooms\, and squash in paprika s
-	auce (B\,T)\, served with steamed long grain rice Heavy salad:Brussels spr
-	outs with apples\, raisins\, beluga lentils\, and salad cheese (7\,12\,B\,
-	K) Heavy salad vegan:Brussels sprouts with apples\, raisins\, beluga lenti
-	ls\, and vegan cheese (12\,B\,K) Light salad:Iceberg lettuce with cucumber
-	s\, tomatoes\, and pickled red onions (T) Light salad vegan:Iceberg lettuc
-	e with cucumbers\, tomatoes\, and pickled red onions (T) Green piece:Brocc
-	oli with Green Goddess dressing (11\,12) Green piece vegan:Broccoli with G
-	reen Goddess dressing (11\,12) For bread - Full:Smoked ham with Italian sa
-	lad (3\,7\,10\,12) For bread - Green:Green vegetable patties from Aarstide
-	rne served with Italian salad For bread - Green vegan:Green vegetable patt
-	ies from Aarstiderne served with Italian salad (10) For bread - All:White 
-	bean spread with yoghurt and tahini (7\,11\,12\,B) For bread - All vegan:W
-	hite bean spread with yoghurt and tahini (6\,11\,12\,B) Bread:Sourdough br
-	ead (1) and ryebread (1)\n\nKilde: https://cdn.prod.website-files.com/6020
-	356278b4438fe8a59224/69f1ebe09f23b12d1242ca07_man%20uge%2019.pdf
-URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69f1ebe09f2
-	3b12d1242ca07_man%20uge%2019.pdf
+	 (3\,7\,10\,11\,12) Til brød - Full:Røget skinke med italiensk salat (3\,1
+	0\,12) Til brød - Green:Grønne frikadeller fra Aarstiderne serveret med it
+	aliensk salat (3\,7\,10\,12) Til brød - Green vegansk:Grønne frikadeller f
+	ra Aarstiderne serveret med italiensk salat (10) Til brød - Alle:Hvid bønn
+	ecreme med yoghurt og tahin (7\,11\,12\,B) Til brød - Alle vegansk:Hvid bø
+	nnecreme med yoghurt og tahin (6\,11\,12\,B) Brød:Surdejsbrød (1) og rugbr
+	ød (1) Menu / mandag Today's inspiration:Danish Hot dishes - Full noon:Org
+	anic pork chops in creamy paprika sauce (7\,B\,T)\, served with steamed lo
+	ng grain rice Hot dishes - Green noon:White beans\, mushrooms\, and squash
+	 in paprika sauce (7\,B\,T)\, served with steamed long grain rice Hot dish
+	es - Vegan Green noon:White beans\, mushrooms\, and squash in paprika sauc
+	e (B\,T)\, served with steamed long grain rice Heavy salad:Brussels sprout
+	s with apples\, raisins\, beluga lentils\, and salad cheese (7\,12\,B\,K) 
+	Heavy salad vegan:Brussels sprouts with apples\, raisins\, beluga lentils\
+	, and vegan cheese (12\,B\,K) Light salad:Iceberg lettuce with cucumbers\,
+	 tomatoes\, and pickled red onions (T) Light salad vegan:Iceberg lettuce w
+	ith cucumbers\, tomatoes\, and pickled red onions (T) Green piece:Broccoli
+	 with Green Goddess dressing (11\,12) Green piece vegan:Broccoli with Gree
+	n Goddess dressing (11\,12) For bread - Full:Smoked ham with Italian salad
+	 (3\,10\,12) For bread - Green:Green vegetable patties from Aarstiderne se
+	rved with Italian salad For bread - Green vegan:Green vegetable patties fr
+	om Aarstiderne served with Italian salad (10) For bread - All:White bean s
+	pread with yoghurt and tahini (7\,11\,12\,B) For bread - All vegan:White b
+	ean spread with yoghurt and tahini (6\,11\,12\,B) Bread:Sourdough bread (1
+	) and ryebread (1)\n\nKilde: https://cdn.prod.website-files.com/6020356278
+	b4438fe8a59224/69f4353bd5be4591c2c89091_man%20uge%2019%20R%201-5.pdf
+URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69f4353bd5b
+	e4591c2c89091_man%20uge%2019%20R%201-5.pdf
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:MGodj-LbtG-9pA7DqpfId
+UID:MdR6Hx-KgSPLhrtdpTk9M
 SUMMARY:Frokost: Klassisk lasagne af øko-okse gratineret med mozzarella og 
 	parmesa
-DTSTAMP:20260430T082824Z
+DTSTAMP:20260501T081716Z
 DTSTART:20260505T113000Z
 DESCRIPTION:UGE 19\n\nMenu / tirsdag Dagens inspiration:Italiensk Full noon
 	:Klassisk lasagne af øko-okse gratineret med mozzarella og parmesan (1\,3\
