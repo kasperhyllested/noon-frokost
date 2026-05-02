@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:UkqTYZwQCFhVvW5kv_qZs
+UID:AjLEEq64Mdt48PpRi6x2v
 SUMMARY:Frokost: Stegte øko-kyllingeoverlår med macadamianøddecreme og rist
 	ede græ
-DTSTAMP:20260501T081716Z
+DTSTAMP:20260502T075519Z
 DTSTART:20260501T113000Z
 DESCRIPTION:UGE 18\n\nMenu / fredag Dagens inspiration:Gæstekok Jo Barret F
 	ull noon:Stegte øko-kyllingeoverlår med macadamianøddecreme og ristede græ
@@ -62,10 +62,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69f2e61542e
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:6dTFUOsaIwrPJ14duNNOX
+UID:U7NeYe9E67fmQO7y7mJiJ
 SUMMARY:Frokost: Øko-okse og kikærter i rød karry (6\,10\,11\,12\,B\,T)\, h
 	ertil perleby
-DTSTAMP:20260501T081716Z
+DTSTAMP:20260502T075519Z
 DTSTART:20260508T113000Z
 DESCRIPTION:UGE 19\n\nMenu / fredag Dagens inspiration:Gæstekok Per Thøstes
 	en Full noon:Øko-okse og kikærter i rød karry (6\,10\,11\,12\,B\,T)\, hert
@@ -119,10 +119,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69f1ebdf2ff
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:TAkS8i2SgnhuKT_y1sQcF
+UID:it5n02VFQpI0TrCKLR50n
 SUMMARY:Frokost: Grøn karry med øko-kalkun\, auberginer\, bambus\, peberfru
 	gter og fr
-DTSTAMP:20260501T081716Z
+DTSTAMP:20260502T075519Z
 DTSTART:20260506T113000Z
 DESCRIPTION:UGE 19\n\nMenu / onsdag Dagens inspiration:Thai Full noon:Grøn 
 	karry med øko-kalkun\, auberginer\, bambus\, peberfrugter og friske røde c
@@ -172,10 +172,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69f1ebdfd84
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:ctWIQK37y3badexVI1xn-
+UID:xx4wXo25bzh2vUEe0sV9w
 SUMMARY:Frokost: Frikadeller af øko-kylling\, serveret med brun sovs (1\,7\
 	,9) samt l
-DTSTAMP:20260501T081716Z
+DTSTAMP:20260502T075519Z
 DTSTART:20260427T113000Z
 DESCRIPTION:UGE 18\n\nMenu / mandag Dagens inspiration:Dansk Full noon:Frik
 	adeller af øko-kylling\, serveret med brun sovs (1\,7\,9) samt lun kartoff
@@ -223,10 +223,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69e86001272
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:BXhmQVC9cIVazPocXLdlV
+UID:Bq1wPXpAmgweDa-T9MHpJ
 SUMMARY:Frokost: Miso-glasserede kødboller af øko-gris med knoldselleri\, g
 	ulerødde
-DTSTAMP:20260501T081716Z
+DTSTAMP:20260502T075519Z
 DTSTART:20260429T113000Z
 DESCRIPTION:UGE 18\n\nMenu / onsdag Dagens inspiration:Japansk Full noon:Mi
 	so-glasserede kødboller af øko-gris med knoldselleri\, gulerødder\, græska
@@ -273,10 +273,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69f0a578cf9
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:DtgKxy0-rdAHE4x6h68Eb
+UID:0_0e-2zlK76SwjfcGu-Ql
 SUMMARY:Frokost: Stegt øko-kylling i cremet hvidvinsvelouté med cherrytomat
 	er og g
-DTSTAMP:20260501T081716Z
+DTSTAMP:20260502T075519Z
 DTSTART:20260507T113000Z
 DESCRIPTION:UGE 19\n\nMenu / torsdag Dagens inspiration:Provençalske Full n
 	oon:Stegt øko-kylling i cremet hvidvinsvelouté med cherrytomater og gulerø
@@ -321,10 +321,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69f1ebe06cf
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:_7wyzd3V-ZMyy4PSJww9r
+UID:WaAp55-eaLqbdDIc-uaiB
 SUMMARY:Frokost: Moussaka på øko-okse\, auberginer og kartofler med mornais
 	esauce (
-DTSTAMP:20260501T081716Z
+DTSTAMP:20260502T075519Z
 DTSTART:20260428T113000Z
 DESCRIPTION:UGE 18\n\nMenu / tirsdag Dagens inspiration:Middelhavsk Full no
 	on:Moussaka på øko-okse\, auberginer og kartofler med mornaisesauce (1\,7\
@@ -369,9 +369,9 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69eee39f650
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:_zYK8R0M6XKpvSSBhoAau
+UID:dVlbfava0kWHvosi88Sqk
 SUMMARY:Frokost: Gullash af øko-okse (12\,T)\, hertil kartoffelmos (7)
-DTSTAMP:20260501T081716Z
+DTSTAMP:20260502T075519Z
 DTSTART:20260430T113000Z
 DESCRIPTION:UGE 18\n\nMenu / torsdag Dagens inspiration:Ungarsk Full noon:G
 	ullash af øko-okse (12\,T)\, hertil kartoffelmos (7) Green noon:Grøn gulla
@@ -415,10 +415,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69e86001d7e
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:lNEoMPU3nmUjKI1P4Ln1f
+UID:nUn4RjF4CNSZ6gfgBJoWd
 SUMMARY:Frokost: Koteletter af øko-gris i fad med flødepaprikasauce (7\,T)\
 	, hertil 
-DTSTAMP:20260501T081716Z
+DTSTAMP:20260502T075519Z
 DTSTART:20260504T113000Z
 DESCRIPTION:UGE 19\n\nMenu / mandag Dagens inspiration:Dansk Full noon:Kote
 	letter af øko-gris i fad med flødepaprikasauce (7\,T)\, hertil dampet lang
@@ -462,10 +462,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69f4353bd5b
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:MdR6Hx-KgSPLhrtdpTk9M
+UID:rC6XHQy_-xfqB6uM5UA5Y
 SUMMARY:Frokost: Klassisk lasagne af øko-okse gratineret med mozzarella og 
 	parmesa
-DTSTAMP:20260501T081716Z
+DTSTAMP:20260502T075519Z
 DTSTART:20260505T113000Z
 DESCRIPTION:UGE 19\n\nMenu / tirsdag Dagens inspiration:Italiensk Full noon
 	:Klassisk lasagne af øko-okse gratineret med mozzarella og parmesan (1\,3\
