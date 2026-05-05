@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:oIjIN1tY5jRvi8syVRh2B
+UID:oRI_HVQ0aKYkD9tgZqQ4U
 SUMMARY:Frokost: Øko-okse og kikærter i rød karry (6\,10\,11\,12\,B\,T)\, h
 	ertil perleby
-DTSTAMP:20260504T083621Z
+DTSTAMP:20260505T081610Z
 DTSTART:20260508T113000Z
 DESCRIPTION:UGE 19\n\nMenu / fredag Dagens inspiration:Gæstekok Per Thøstes
 	en Full noon:Øko-okse og kikærter i rød karry (6\,10\,11\,12\,B\,T)\, hert
@@ -62,10 +62,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69f1ebdf2ff
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:VEvlxs8loBeYo80Z-_1Le
+UID:tfOudG6Ne5LTOIyx6tE90
 SUMMARY:Frokost: Byg selv-burritos med stegt hakkede øko-kylliing\, kidneyb
 	ønner og
-DTSTAMP:20260504T083621Z
+DTSTAMP:20260505T081610Z
 DTSTART:20260515T113000Z
 DESCRIPTION:UGE 20\n\nMenu / fredag Dagens inspiration:Street food Full noo
 	n:Byg selv-burritos med stegt hakkede øko-kylliing\, kidneybønner og tomat
@@ -116,10 +116,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69f85563b85
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:m4BFplEiRgjXUvsH8yhij
+UID:T3UU0vs6YjynGTXyXntwB
 SUMMARY:Frokost: Grøn karry med øko-kalkun\, auberginer\, bambus\, peberfru
 	gter og fr
-DTSTAMP:20260504T083621Z
+DTSTAMP:20260505T081610Z
 DTSTART:20260506T113000Z
 DESCRIPTION:UGE 19\n\nMenu / onsdag Dagens inspiration:Thai Full noon:Grøn 
 	karry med øko-kalkun\, auberginer\, bambus\, peberfrugter og friske røde c
@@ -131,48 +131,48 @@ DESCRIPTION:UGE 19\n\nMenu / onsdag Dagens inspiration:Thai Full noon:Grøn
 	er vendt med peanutdressing (1\,5\,6\,8\,12\,B\,K) Fyldig salat vegansk:Nu
 	delsalat med spidskål\, agurker og bønnespirer vendt med peanutdressing (1
 	\,5\,6\,8\,12\,B\,K) Let salat:Kinaradiser\, edamamebønner og gulerødder m
-	ed sesam og spirer (1\,6\,11) Let salat vegansk:Kinaradiser\, edamamebønne
-	r og gulerødder med sesam og spirer (1\,6\,11) Grønt stykke:Bok choy med s
-	ur-sød thai-dressing (6\,11) Grønt stykke vegansk:Bok choy med sur-sød tha
-	i-dressing (6\,11) Til brød - Full:Spegepølse med remoulade og ristet løg 
-	(1\,3\,10\,12\,K) Til brød - Green:Æggesalat med bagte porrer\, friske kry
-	dderurter og sennep (3\,10\,12) Til brød - Green vegansk:Silketofusalat me
-	d bagte porrer\, friske krydderurter og sennep (6\,10) Til brød - Alle:Pis
-	ket salatostcreme med persille og citronskal (7) Til brød - Alle vegansk:P
-	isket vegansk ostespread med persille og citronskal (6) Brød:Surdejsbrød (
-	1) og rugbrød (1) Menu / onsdag Today's inspiration:Thai Hot dishes - Full
-	 noon:Green curry with organic turkey\, eggplant\, bamboo shoots\, bell pe
-	ppers\, and fresh red chili (12\,B)\, served with steamed jasmine rice Hot
-	 dishes - Green noon:Green curry with roasted tofu\, eggplant\, bamboo sho
-	ots\, bell peppers\, and fresh red chili (6\,12\,B)\, served with steamed 
-	jasmine rice Hot dishes - Vegan Green noon:Green curry with roasted tofu\,
-	 eggplant\, bamboo shoots\, bell peppers\, and fresh red chili (6\,12\,B)\
-	, served with steamed jasmine rice Heavy salad:Noodle salad with pointed c
-	abbage\, cucumbers\, and bean sprouts tossed in peanut dressing (1\,5\,6\,
-	8\,12\,B\,K) Heavy salad vegan:Noodle salad with pointed cabbage\, cucumbe
-	rs\, and bean sprouts tossed in peanut dressing (1\,5\,6\,8\,12\,B\,K) Lig
-	ht salad:Daikon radishes\, edamame beans and carrots with sesame and sprou
-	ts (1\,6\,11) Light salad vegan:Daikon radishes\, edamame beans and carrot
-	s with sesame and sprouts (1\,6\,11) Green piece:Bok choy with sweet and s
-	our Thai dressing (6\,11) Green piece vegan:Bok choy with sweet and sour T
-	hai dressing (6\,11) For bread - Full:Salami with remoulade and crispy fri
-	ed onions (1\,3\,10\,12\,K) For bread - Green:Egg salad with roasted leeks
-	\, fresh herbs\, and mustard (3\,10\,12) For bread - Green vegan:Silk tofu
-	 salad with roasted leeks\, fresh herbs\, and mustard (6\,10) For bread - 
-	All:Whipped salad cheese spread with parsley and lemon zest (7) For bread 
-	- All vegan:Whipped vegan cheese spread with parsley and lemon zest (6) Br
-	ead:Sourdough bread (1) and ryebread (1)\n\nKilde: https://cdn.prod.websit
-	e-files.com/6020356278b4438fe8a59224/69f1ebdfd844a36509b3f653_ons%20uge%20
-	19.pdf
-URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69f1ebdfd84
-	4a36509b3f653_ons%20uge%2019.pdf
+	ed sesam og spirer (6\,11) Let salat vegansk:Kinaradiser\, edamamebønner o
+	g gulerødder med sesam og spirer (6\,11) Grønt stykke:Bok choy med sur-sød
+	 thai-dressing (6\,11) Grønt stykke vegansk:Bok choy med sur-sød thai-dres
+	sing (6\,11) Til brød - Full:Spegepølse med remoulade og ristet løg (1\,3\
+	,10\,12\,K) Til brød - Green:Æggesalat med bagte porrer\, friske krydderur
+	ter og sennep (3\,10\,12) Til brød - Green vegansk:Silketofusalat med bagt
+	e porrer\, friske krydderurter og sennep (6\,10) Til brød - Alle:Pisket sa
+	latostcreme med persille og citronskal (7) Til brød - Alle vegansk:Pisket 
+	vegansk ostespread med persille og citronskal (6) Brød:Surdejsbrød (1) og 
+	rugbrød (1) Menu / onsdag Today's inspiration:Thai Hot dishes - Full noon:
+	Green curry with organic turkey\, eggplant\, bamboo shoots\, bell peppers\
+	, and fresh red chili (12\,B)\, served with steamed jasmine rice Hot dishe
+	s - Green noon:Green curry with roasted tofu\, eggplant\, bamboo shoots\, 
+	bell peppers\, and fresh red chili (6\,12\,B)\, served with steamed jasmin
+	e rice Hot dishes - Vegan Green noon:Green curry with roasted tofu\, eggpl
+	ant\, bamboo shoots\, bell peppers\, and fresh red chili (6\,12\,B)\, serv
+	ed with steamed jasmine rice Heavy salad:Noodle salad with pointed cabbage
+	\, cucumbers\, and bean sprouts tossed in peanut dressing (1\,5\,6\,8\,12\
+	,B\,K) Heavy salad vegan:Noodle salad with pointed cabbage\, cucumbers\, a
+	nd bean sprouts tossed in peanut dressing (1\,5\,6\,8\,12\,B\,K) Light sal
+	ad:Daikon radishes\, edamame beans and carrots with sesame and sprouts (6\
+	,11) Light salad vegan:Daikon radishes\, edamame beans and carrots with se
+	same and sprouts (6\,11) Green piece:Bok choy with sweet and sour Thai dre
+	ssing (6\,11) Green piece vegan:Bok choy with sweet and sour Thai dressing
+	 (6\,11) For bread - Full:Salami with remoulade and crispy fried onions (1
+	\,3\,10\,12\,K) For bread - Green:Egg salad with roasted leeks\, fresh her
+	bs\, and mustard (3\,10\,12) For bread - Green vegan:Silk tofu salad with 
+	roasted leeks\, fresh herbs\, and mustard (6\,10) For bread - All:Whipped 
+	salad cheese spread with parsley and lemon zest (7) For bread - All vegan:
+	Whipped vegan cheese spread with parsley and lemon zest (6) Bread:Sourdoug
+	h bread (1) and ryebread (1)\n\nKilde: https://cdn.prod.website-files.com/
+	6020356278b4438fe8a59224/69f9797270f8e75af1f4967a_ons%20uge%2019%20R%205-5
+	.pdf
+URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69f9797270f
+	8e75af1f4967a_ons%20uge%2019%20R%205-5.pdf
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:b_j66fTOYN_CJpb70s1It
+UID:JpclvAWXFw9rvwPR1ZbLO
 SUMMARY:Frokost: Panang-karry med stegt øko-kalkun\, pebberfrugter og pinto
 	bønner (
-DTSTAMP:20260504T083621Z
+DTSTAMP:20260505T081610Z
 DTSTART:20260513T113000Z
 DESCRIPTION:UGE 20\n\nMenu / onsdag Dagens inspiration:Thai Full noon:Panan
 	g-karry med stegt øko-kalkun\, pebberfrugter og pintobønner (6\,12\,B)\, h
@@ -220,10 +220,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69f85564ccc
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:gfqoPvnv6LGNqro_K5QL9
+UID:zwvkGeJxcFzB4flmz_hnv
 SUMMARY:Frokost: Øko-nakkekam af gris a la saltimbocca med ristede parmaski
 	nke og 
-DTSTAMP:20260504T083621Z
+DTSTAMP:20260505T081610Z
 DTSTART:20260512T113000Z
 DESCRIPTION:UGE 20\n\nMenu / tirsdag Dagens inspiration:Italiensk Full noon
 	:Øko-nakkekam af gris a la saltimbocca med ristede parmaskinke og salvie (
@@ -270,10 +270,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69f85564024
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:bgAzRvF0HMWUiSufbnOfv
+UID:2LN1BZ38hmw6HbA4GnOIe
 SUMMARY:Frokost: Stegt øko-kylling i cremet hvidvinsvelouté med cherrytomat
 	er og g
-DTSTAMP:20260504T083621Z
+DTSTAMP:20260505T081610Z
 DTSTART:20260507T113000Z
 DESCRIPTION:UGE 19\n\nMenu / torsdag Dagens inspiration:Provençalske Full n
 	oon:Stegt øko-kylling i cremet hvidvinsvelouté med cherrytomater og gulerø
@@ -318,10 +318,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69f1ebe06cf
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:cgg1k7B7KmV4_Er4UNdT0
+UID:0bYey1RVP1DHROY2uHo2T
 SUMMARY:Frokost: Koteletter af øko-gris i fad med flødepaprikasauce (7\,T)\
 	, hertil 
-DTSTAMP:20260504T083621Z
+DTSTAMP:20260505T081610Z
 DTSTART:20260504T113000Z
 DESCRIPTION:UGE 19\n\nMenu / mandag Dagens inspiration:Dansk Full noon:Kote
 	letter af øko-gris i fad med flødepaprikasauce (7\,T)\, hertil dampet lang
@@ -365,10 +365,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69f4353bd5b
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:BUuH-g2hiR7A7a7nAdGB1
+UID:qS79TcCNZ58B-mIjJqJtS
 SUMMARY:Frokost: Millionbøf af øko-okse med røde mungbønner og forårsgrønts
 	ager ( 
-DTSTAMP:20260504T083621Z
+DTSTAMP:20260505T081610Z
 DTSTART:20260511T113000Z
 DESCRIPTION:UGE 20\n\nMenu / mandag Dagens inspiration:Dansk Full noon:Mill
 	ionbøf af øko-okse med røde mungbønner og forårsgrøntsager ( 7\,10\,B\,S\,
@@ -412,10 +412,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69f855639e2
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:Tpv_5HnhMi44Nf4aJ_Hvh
+UID:LbJN--rBpEhwRTE2hSLC8
 SUMMARY:Frokost: Klassisk lasagne af øko-okse gratineret med mozzarella og 
 	parmesa
-DTSTAMP:20260504T083621Z
+DTSTAMP:20260505T081610Z
 DTSTART:20260505T113000Z
 DESCRIPTION:UGE 19\n\nMenu / tirsdag Dagens inspiration:Italiensk Full noon
 	:Klassisk lasagne af øko-okse gratineret med mozzarella og parmesan (1\,3\
@@ -458,9 +458,9 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69f1ebdf1d9
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:E9gTV7cyTEwN5vdBNKAOB
+UID:x52W0Gc6o-P2_NL5R4UXi
 SUMMARY:Frokost: TOR
-DTSTAMP:20260504T083621Z
+DTSTAMP:20260505T081610Z
 DTSTART:20260514T113000Z
 DESCRIPTION:UGE 20\n\nMenu / torsdag Dagens inspiration:Lukket - Kristi Him
 	melfartsdag Menu / torsdag Today's inspiration:Closed - Ascension Day\n\nK
