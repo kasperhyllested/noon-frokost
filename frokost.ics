@@ -5,67 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:FQ0QAJDSL57iBHyfNLZRP
-SUMMARY:Frokost: Øko-okse og kikærter i rød karry (6\,10\,11\,12\,B\,T)\, h
-	ertil perleby
-DTSTAMP:20260508T075415Z
-DTSTART:20260508T113000Z
-DESCRIPTION:UGE 19\n\nMenu / fredag Dagens inspiration:Gæstekok Per Thøstes
-	en Full noon:Øko-okse og kikærter i rød karry (6\,10\,11\,12\,B\,T)\, hert
-	il perlebyg med sesamolie og thaibasilikum (1\,11) Green noon:Blomkål\, ed
-	amamebønner\, kikærter og hasselnødder i rød karry (6\,8\,10\,T)\, hertil 
-	perlebyg med sesamolie og thaibasilikum (1\,11) Green noon vegansk:Blomkål
-	\, edamamebønner\, kikærter og hasselnødder i rød karry (6\,8\,10\,T)\, he
-	rtil perlebyg med sesamolie og thaibasilikum (1\,11) Fyldig salat:Puy‑lins
-	er med kinakål\, radicchio\, soltørrede tomater og spirer vendt med soja‑ 
-	og appelsinvinaigrette\, toppet med croutoner (1\,6\,11\,12\,B\,K\,T) Fyld
-	ig salat vegansk:Puy‑linser med kinakål\, radicchio\, soltørrede tomater o
-	g spirer vendt med soja‑ og appelsinvinaigrette\, toppet med croutoner (1\
-	,6\,11\,12\,B\,K\,T) Let salat:Spidskål\, rød grape\, pære\, tranebær og i
-	ngefær \, toppet med græskarkerner (12\,K) Let salat vegansk:Spidskål\, rø
-	d grape\, pære\, tranebær og ingefær \, toppet medgræskarkerner (12\,K) Gr
-	ønt stykke:Blomkål med spicy sriracha-yoghurtcreme (6\,7\,11\,12\,K) Grønt
-	 stykke vegansk:Blomkål med spicy sriracha-yoghurtcreme (6\,11\,12\,K) Til
-	 brød - Full:Hønsesalat med svampe og hvide asparges (3\,7\,10\,12) Til br
-	ød - Green:Persillerodssalat med svampe og hvide asparges (3\,7\,10\,12) T
-	il brød - Green vegansk:Persillerodssalat med svampe og hvide asparges (10
-	) Til brød - Alle:Gulerods‑spread med gedeost og estragon (7\,B) Til brød 
-	- Alle vegansk:Gulerods‑spread med gedeost og estragon (6\,B) Brød:Surdejs
-	brød (1) og rugbrød (1) Menu / fredag Today's inspiration:Guest chef Per T
-	høstesen Hot dishes - Full noon:Organic beef and chick peas in red curry (
-	6\,10\,11\,12\,B\,T)\, served with pearl barley with sesame oil and Thai b
-	asil Hot dishes - Green noon:Cauliflower\, edamame beans\, chick peas and 
-	hazelnuts in red curry (6\,8\,10\,T)\, served with pearl barley with sesam
-	e oil and Thai basil (1\,11) Hot dishes - Vegan Green noon:Cauliflower\, e
-	damame beans\, chick peas and hazelnuts in red curry (6\,8\,10\,T)\, serve
-	d with pearl barley with sesame oil and Thai basil (1\,11) Heavy salad:Puy
-	 lentils with Chinese cabbage\, radicchio\, sun-dried tomatoes and sprouts
-	 tossed in a soy and orange vinaigrette\, topped with croutons (1\,6\,11\,
-	12\,B\,K\,T) Heavy salad vegan:Puy lentils with Chinese cabbage\, radicchi
-	o\, sun-dried tomatoes and sprouts tossed in a soy and orange vinaigrette\
-	, topped with croutons (1\,6\,11\,12\,B\,K\,T) Light salad:Pointed cabbage
-	\, red grapefruit\, pear\, cranberries and ginger\, topped with pumpkin se
-	eds (12\,K) Light salad vegan:Pointed cabbage\, red grapefruit\, pear\, cr
-	anberries and ginger\, topped with pumpkin seeds (12\,K) Green piece:Cauli
-	flower with spicy sriracha yogurt cream (6\,7\,11\,12\,K) Green piece vega
-	n:Cauliflower with spicy sriracha yogurt cream (6\,11\,12\,K) For bread - 
-	Full:Creamy chicken salad with mushrooms and white asparagus (3\,7\,10\,12
-	) For bread - Green:Creamy parsley root salad with mushrooms and white asp
-	aragus (3\,7\,10\,12) For bread - Green vegan:Creamy parsley root salad wi
-	th mushrooms and white asparagus (10) For bread - All:Carrot spread with g
-	oat cheese and tarragon (7\,B) For bread - All vegan:Carrot spread with go
-	at cheese and tarragon (6\,B) Bread:Sourdough bread (1) and ryebread (1)\n
-	\nKilde: https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69fc5
-	67113b0754e86edaf03_fre%20uge%2019%20RI%207-5.pdf
-URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69fc567113b
-	0754e86edaf03_fre%20uge%2019%20RI%207-5.pdf
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:uE-eCPMA9VZ4qryOgtbJv
+UID:i6M2RB7uJFcC-p9YFYYZ3
 SUMMARY:Frokost: Byg selv-burritos med stegt hakkede øko-kylliing\, kidneyb
 	ønner og
-DTSTAMP:20260508T075415Z
+DTSTAMP:20260510T081341Z
 DTSTART:20260515T113000Z
 DESCRIPTION:UGE 20\n\nMenu / fredag Dagens inspiration:Street food Full noo
 	n:Byg selv-burritos med stegt hakkede øko-kylliing\, kidneybønner og tomat
@@ -116,63 +59,64 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69f85563b85
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:nPR0V1fQVJX7OA5oOn9Ps
-SUMMARY:Frokost: Grøn karry med øko-kalkun\, auberginer\, bambus\, peberfru
-	gter og fr
-DTSTAMP:20260508T075415Z
-DTSTART:20260506T113000Z
-DESCRIPTION:UGE 19\n\nMenu / onsdag Dagens inspiration:Thai Full noon:Grøn 
-	karry med øko-kalkun\, auberginer\, bambus\, peberfrugter og friske røde c
-	hili (12\,B)\, hertil dampet jasminris Green noon:Grøn karry med stegt tof
-	u\, auberginer\, bambus\, peberfrugter og friske røde chili (6\,12\,B)\, h
-	ertil dampet jasminris Green noon vegansk:Grøn karry med stegt tofu\, aube
-	rginer\, bambus\, peberfrugter og friske røde chili (6\,12\,B)\, hertil da
-	mpet jasminris Fyldig salat:Nudelsalat med spidskål\, agurker og bønnespir
-	er vendt med peanutdressing (1\,5\,6\,8\,12\,B\,K) Fyldig salat vegansk:Nu
-	delsalat med spidskål\, agurker og bønnespirer vendt med peanutdressing (1
-	\,5\,6\,8\,12\,B\,K) Let salat:Kinaradiser\, edamamebønner og gulerødder m
-	ed sesam og spirer (6\,11) Let salat vegansk:Kinaradiser\, edamamebønner o
-	g gulerødder med sesam og spirer (6\,11) Grønt stykke:Bok choy med sur-sød
-	 thai-dressing (6\,11) Grønt stykke vegansk:Bok choy med sur-sød thai-dres
-	sing (6\,11) Til brød - Full:Spegepølse med remoulade og ristet løg (1\,3\
-	,10\,12\,K) Til brød - Green:Æggesalat med bagte porrer\, friske krydderur
-	ter og sennep (3\,10\,12) Til brød - Green vegansk:Silketofusalat med bagt
-	e porrer\, friske krydderurter og sennep (6\,10) Til brød - Alle:Pisket sa
-	latostcreme med persille og citronskal (7) Til brød - Alle vegansk:Pisket 
-	vegansk ostespread med persille og citronskal (6) Brød:Surdejsbrød (1) og 
-	rugbrød (1) Menu / onsdag Today's inspiration:Thai Hot dishes - Full noon:
-	Green curry with organic turkey\, eggplant\, bamboo shoots\, bell peppers\
-	, and fresh red chili (12\,B)\, served with steamed jasmine rice Hot dishe
-	s - Green noon:Green curry with roasted tofu\, eggplant\, bamboo shoots\, 
-	bell peppers\, and fresh red chili (6\,12\,B)\, served with steamed jasmin
-	e rice Hot dishes - Vegan Green noon:Green curry with roasted tofu\, eggpl
-	ant\, bamboo shoots\, bell peppers\, and fresh red chili (6\,12\,B)\, serv
-	ed with steamed jasmine rice Heavy salad:Noodle salad with pointed cabbage
-	\, cucumbers\, and bean sprouts tossed in peanut dressing (1\,5\,6\,8\,12\
-	,B\,K) Heavy salad vegan:Noodle salad with pointed cabbage\, cucumbers\, a
-	nd bean sprouts tossed in peanut dressing (1\,5\,6\,8\,12\,B\,K) Light sal
-	ad:Daikon radishes\, edamame beans and carrots with sesame and sprouts (6\
-	,11) Light salad vegan:Daikon radishes\, edamame beans and carrots with se
-	same and sprouts (6\,11) Green piece:Bok choy with sweet and sour Thai dre
-	ssing (6\,11) Green piece vegan:Bok choy with sweet and sour Thai dressing
-	 (6\,11) For bread - Full:Salami with remoulade and crispy fried onions (1
-	\,3\,10\,12\,K) For bread - Green:Egg salad with roasted leeks\, fresh her
-	bs\, and mustard (3\,10\,12) For bread - Green vegan:Silk tofu salad with 
-	roasted leeks\, fresh herbs\, and mustard (6\,10) For bread - All:Whipped 
-	salad cheese spread with parsley and lemon zest (7) For bread - All vegan:
-	Whipped vegan cheese spread with parsley and lemon zest (6) Bread:Sourdoug
-	h bread (1) and ryebread (1)\n\nKilde: https://cdn.prod.website-files.com/
-	6020356278b4438fe8a59224/69f9797270f8e75af1f4967a_ons%20uge%2019%20R%205-5
-	.pdf
-URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69f9797270f
-	8e75af1f4967a_ons%20uge%2019%20R%205-5.pdf
+UID:ZV5hJSWNCPUImIYOoYrl8
+SUMMARY:Frokost: Stroganoff af øko-okse\, øko-bacon\, stegte svampe og gule
+	rødder (7
+DTSTAMP:20260510T081341Z
+DTSTART:20260521T113000Z
+DESCRIPTION:UGE 21\n\nMenu / torsdag Dagens inspiration:Stroganoff Full noo
+	n:Stroganoff af øko-okse\, øko-bacon\, stegte svampe og gulerødder (7\,9\,
+	12\,S\,T)\, hertil pappardelle vendt med olivenolie (1\,3) Green noon:Stro
+	ganoff med kidneybønner\, porrer\, ristet tempeh\, roasted mushrooms\, and
+	 carrots (7\,12\,B\,S\,T)\, hertil pappardelle vendt med olivenolie (1\,3)
+	 Green noon vegansk:Stroganoff med kidneybønner\, porrer\, ristet tempeh\,
+	 roasted mushrooms\, and carrots (12\,B\,S\,T)\, hertil pappardelle vendt 
+	med olivenolie (1) Fyldig salat:Puy linser med hjertesalat\, hvidkål\, suk
+	kerærter\, appelsin og ristede græskarkerner (12\,B\,K) Fyldig salat vegan
+	sk:Puy linser med hjertesalat\, hvidkål\, sukkerærter\, appelsin og risted
+	e græskarkerner (12\,B\,K) Let salat:Spidskål med ristede solsikkekerner o
+	g Karl Johan-vinaigrette (10\,12\,K) Let salat vegansk:Spidskål med risted
+	e solsikkekerner og Karl Johan-vinaigrette (10\,12\,K) Grønt stykke:Grille
+	de artiskokker med kapersvinaigrette (10\,12) Grønt stykke vegansk:Grilled
+	e artiskokker med kapersvinaigrette (10\,12) Til brød - Full:Æggesalat med
+	 bacon\, æbler\, karry og karse (3\,10\,12) Til brød - Green:Æggesalat med
+	 ristede kikærter og karse (3\,10\,12\,B) Til brød - Green vegansk:Rørt sa
+	lat af ristede kikærter toppet med karse (6\,10\,B) Til brød - Alle:Ærtepu
+	re (12) Til brød - Alle vegansk:Ærtepure (12) Brød:Surdejsbrød med sesam (
+	1\,11) og rugbrød (1) Menu / torsdag Today's inspiration:Stroganoff Hot di
+	shes - Full noon:Beef Stroganoff made with organic beef\, organic bacon\, 
+	roasted mushrooms\, and carrots (7\,9\,12\,S\,T)\, served with pappardelle
+	 tossed with olive oil (1\,3) Hot dishes - Green noon:Stroganoff of kidney
+	 beans\, leeks\, crispy tempeh\, stegte svampe og gulerødder (7\,12\,B\,S\
+	,T)\, served with pappardelle tossed with olive oil (1\,3) Hot dishes - Ve
+	gan Green noon:Stroganoff of kidney beans\, leeks\, crispy tempeh\, stegte
+	 svampe og gulerødder (12\,B\,S\,T)\, served with pappardelle tossed with 
+	olive oil (1) Heavy salad:Puy lentils with gem lettuce\, cabbage sugar sna
+	ps\, oranges and roasted pumpkin seeds (12\,B\,K) Heavy salad vegan:Puy le
+	ntils with gem lettuce\, cabbage sugar snaps\, oranges and roasted pumpkin
+	 seeds (12\,B\,K) Light salad:Pointed cabbage with roasted sunflower seeds
+	 and porcini mushroom vinaigrette (10\,12\,K) Light salad vegan:Pointed ca
+	bbage with roasted sunflower seeds and porcini mushroom vinaigrette (10\,1
+	2\,K) Green piece:Grilled artichokes with caper vinaigrette (10\,12) Green
+	 piece vegan:Grilled artichokes with caper vinaigrette (10\,12) For bread 
+	- Full:Curried egg salad with bacon\, apples and cress (3\,10\,12) For bre
+	ad - Green:Egg salad with roasted chickpeas and cress (3\,10\,12\,B) For b
+	read - Green vegan:Roasted chickpea salad with cress (6\,10\,B) For bread 
+	- All:Pea spread (12) For bread - All vegan:Pea spread (12) Bread:Sourdoug
+	h bread with sesame seeds (1\,11) and ryebread (1) Menu / torsdag Kage:Gul
+	erodskage med valnødder og flødeostglassur (1\,3\,7\,8) Cake:Carrot cake w
+	ith walnuts and cream cheese icing (1\,3\,7\,8)\n\nKilde: https://cdn.prod
+	.website-files.com/6020356278b4438fe8a59224/69fdf5ac2084e961fcec88dc_tor%2
+	0uge%2021.pdf
+URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69fdf5ac208
+	4e961fcec88dc_tor%20uge%2021.pdf
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:bWfK4oUNx-_I8dj1rKcFU
+UID:r9htg1pJu9XqKv7HlxPrY
 SUMMARY:Frokost: Panang-karry med stegt øko-kalkun\, pebberfrugter og pinto
 	bønner (
-DTSTAMP:20260508T075415Z
+DTSTAMP:20260510T081341Z
 DTSTART:20260513T113000Z
 DESCRIPTION:UGE 20\n\nMenu / onsdag Dagens inspiration:Thai Full noon:Panan
 	g-karry med stegt øko-kalkun\, pebberfrugter og pintobønner (6\,12\,B)\, h
@@ -220,10 +164,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69f85564ccc
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:h97XEMidWP-mV4Sdsk22L
+UID:8H5L50zXpRmk1URlWqodu
 SUMMARY:Frokost: Øko-nakkekam af gris a la saltimbocca med ristede parmaski
 	nke og 
-DTSTAMP:20260508T075415Z
+DTSTAMP:20260510T081341Z
 DTSTART:20260512T113000Z
 DESCRIPTION:UGE 20\n\nMenu / tirsdag Dagens inspiration:Italiensk Full noon
 	:Øko-nakkekam af gris a la saltimbocca med ristede parmaskinke og salvie (
@@ -270,105 +214,59 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69f85564024
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:8UavT0C-Vm3Y-NxcnmM0v
-SUMMARY:Frokost: Stegt øko-kylling i cremet hvidvinsvelouté med cherrytomat
-	er og g
-DTSTAMP:20260508T075415Z
-DTSTART:20260507T113000Z
-DESCRIPTION:UGE 19\n\nMenu / torsdag Dagens inspiration:Provençalske Full n
-	oon:Stegt øko-kylling i cremet hvidvinsvelouté med cherrytomater og gulerø
-	dder (7\,10\,12\,T)\, hertil kartoffelgratin (3\,7) Green noon:Provençalsk
-	e svampe med puy linser (12\,B\,T)\, hertil kartoffelgratin (3\,7) Green n
-	oon vegansk:Provençalske svampe med puy linser (12\,B\,T)\, hertil kartoff
-	elgratin (B) Fyldig salat:Niçoise-salat med søde kartofler\, bagte squash 
-	og radiser (3\,10\,12\,T) Fyldig salat vegansk:Niçoise-salat med kikærter\
-	, søde kartofler bagte squash og radiser (10\,12\,B\,T) Let salat:Friséesa
-	lat with Provence-krydret ovnristet grønkål og ristede græskarkerner (K) L
-	et salat vegansk:Friséesalat with Provence-krydret ovnristet grønkål og ri
-	stede græskarkerner (K) Grønt stykke:Stegte hokkaidogræskar med gul peberf
-	rugtcreme (B) Grønt stykke vegansk:Stegte hokkaidogræskar med gul peberfru
-	gtcreme (B) Til brød - Full:Fiskefrikadeller med remoulade (3\,4\,7\,10\,1
-	2) Til brød - Green:Valnøddepaté med cornichoner (8\,10) Til brød - Green 
-	vegansk:Valnøddepaté med cornichoner (8\,10) Til brød - Alle:Ærtespread me
-	d miso (6) Til brød - Alle vegansk:Ærtespread med miso (6) Brød:Surdejsbrø
-	d med spelt- og rugflager (1\,11) og rugbrød (1) Menu / torsdag Today's in
-	spiration:Provençal Hot dishes - Full noon:Roasted organic chicken in crea
-	my white wine velouté with cherry tomatoes and carrots (7\,10\,12\,T)\, se
-	rved with potato gratin (3\,7) Hot dishes - Green noon:Provençal mushrooms
-	 with puy lentils (12\,B\,T)\, served with potato gratin (3\,7) Hot dishes
-	 - Vegan Green noon:Provençal mushrooms with puy lentils (12\,B\,T)\, serv
-	ed with potato gratin (B) Heavy salad:Niçoise salad with sweet potatoes\, 
-	roasted zucchini and radishes (3\,10\,12\,T) Heavy salad vegan:Niçoise sal
-	ad with chickpeas\, sweet potatoes\, roasted zucchini\, and radishes (10\,
-	12\,B\,T) Light salad:Frisee with herbs de provence roasted kale and toast
-	ed pumpkin seeds (K) Light salad vegan:Frisee with herbs de provence roast
-	ed kale and toasted pumpkin seeds (K) Green piece:Roasted hokkaido with ye
-	llow bell pepper cream (B) Green piece vegan:Roasted hokkaido with yellow 
-	bell pepper cream (B) For bread - Full:Fish cakes with remoulade (3\,4\,7\
-	,10\,12) For bread - Green:Walnut pâté with cornichons (8\,10) For bread -
-	 Green vegan:Walnut pâté with cornichons (8\,10) For bread - All:Pea sprea
-	d with miso (6) For bread - All vegan:Pea spread with miso (6) Bread:Sourd
-	ough bread with spelt and rye flakes (1\,11) and ryebread (1) Menu / torsd
-	ag Kage:Mazarinkage med kokos og appelsin (1\,3\,7\,8) Cake:Mazarin cake w
-	ith coconut and orange (1\,3\,7\,8)\n\nKilde: https://cdn.prod.website-fil
-	es.com/6020356278b4438fe8a59224/69fc2a5c0f6b3966954eb069_tor%20uge%2019%20
-	R%207-5.pdf
-URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69fc2a5c0f6
-	b3966954eb069_tor%20uge%2019%20R%207-5.pdf
+UID:SxF0MXXM1ABh77LNKPiBj
+SUMMARY:Frokost: Kylling Danoise - Stegte øko-kyllingeoverlår med agurkesal
+	at og s
+DTSTAMP:20260510T081341Z
+DTSTART:20260518T113000Z
+DESCRIPTION:UGE 21\n\nMenu / mandag Dagens inspiration:Dansk Full noon:Kyll
+	ing Danoise - Stegte øko-kyllingeoverlår med agurkesalat og skysauce - 1 s
+	tk. pr. person (1\,7\,9\,12)\, hertil rabarberkompot og stegte kartofler G
+	reen noon:Bagte porrer\, ingrid ærter og kejserhatte med brunet smør og hø
+	ost-mornaysauce (1\,7\,B)\, hertil stegte kartofler Green noon vegansk:Bag
+	te porrer\, ingrid ærter og kejserhatte med cremet sauce (B)\, hertil steg
+	te kartofler Fyldig salat:Perlebyg med østershatte\, ærter og radiser vend
+	t med friske krydderurter og æblecider-vinaigrette (1\,10) Fyldig salat ve
+	gansk:Perlebyg med østershatte\, ærter og radiser vendt med friske krydder
+	urter og æblecider-vinaigrette (1\,10) Let salat:Grønt salat med agurker\,
+	 rabarber og dild Let salat vegansk:Grønt salat med agurker\, rabarber og 
+	dild Grønt stykke:Blomkål med creme fraiche og purløg (7\,10) Grønt stykke
+	 vegansk:Blomkål med yoghurt og purløg (6\,10) Til brød - Full:Frikadeller
+	 med stærk sennep - 1 stk. pr. person (1\,10) Til brød - Green:Grønsagsfri
+	kadeller med remoulade - 1 stk. pr. person (3\,7\,10\,12) Til brød - Green
+	 vegansk:Grøntsagsfrikadeller med remoulade - 1 stk. pr. person (10) Til b
+	rød - Alle:Baba Ganoush (11\,12) Til brød - Alle vegansk:Baba Ganoush (11\
+	,12) Brød:Surdejsbrød (1) og rugbrød (1) Menu / mandag Today's inspiration
+	:Danish Hot dishes - Full noon:Roasted organic chicken thighs with pickled
+	 cucumbers and gravy - 1 piece per person (1\,7\,9\,12)\, served with rhub
+	arb compote and roasted potatoes Hot dishes - Green noon:Baked leeks\, ing
+	rid peas and king oyster mushrooms with brown butter and Høost-based morna
+	y sauce (1\,7\,B)\, served with roasted potatoes Hot dishes - Vegan Green 
+	noon:Baked leeks\, ingrid peas and king oyster mushrooms with creamy sauce
+	 (B)\, served with roasted potatoes Heavy salad:Pearl barley with oyster m
+	ushrooms peas and radishes tossed with fresh herbs and apple cider vinaigr
+	ette (1\,10) Heavy salad vegan:Pearl barley with oyster mushrooms peas and
+	 radishes tossed with fresh herbs and apple cider vinaigrette (1\,10) Ligh
+	t salad:Green salad with cucumbers\, rhubarb and dill Light salad vegan:Gr
+	een salad with cucumbers\, rhubarb and dill Green piece:Cauliflower with s
+	our cream and chives (7\,10) Green piece vegan:Cauliflower with yoghurt an
+	d chives (6\,10) For bread - Full:Pork patties served with spicy mustard -
+	 1 piece per person (1\,10) For bread - Green:Roasted vegetable patties wi
+	th remoulade - 1 piece per person (3\,7\,10\,12) For bread - Green vegan:R
+	oasted vegetable patties with remoulade - 1 piece per person (10) For brea
+	d - All:Baba Ganoush (11\,12) For bread - All vegan:Baba Ganoush (11\,12) 
+	Bread:Sourdough bread (1) and ryebread (1)\n\nKilde: https://cdn.prod.webs
+	ite-files.com/6020356278b4438fe8a59224/69fdf5add8cfa1cdc1349ef8_man%20uge%
+	2021.pdf
+URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69fdf5add8c
+	fa1cdc1349ef8_man%20uge%2021.pdf
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:G-t3q9kgEvFc_79Y_mSgN
-SUMMARY:Frokost: Koteletter af øko-gris i fad med flødepaprikasauce (7\,T)\
-	, hertil 
-DTSTAMP:20260508T075415Z
-DTSTART:20260504T113000Z
-DESCRIPTION:UGE 19\n\nMenu / mandag Dagens inspiration:Dansk Full noon:Kote
-	letter af øko-gris i fad med flødepaprikasauce (7\,T)\, hertil dampet lang
-	kornet ris Green noon:Hvide bønner\, champignoner og squash i paprikasauce
-	 (7\,B\,T)\, hertil dampet langkornet ris Green noon vegansk:Hvide bønner\
-	, champignoner og squash i paprikasauce (B\,T)\, hertil dampet langkornet 
-	ris Fyldig salat:Rosenkål med æbler\, rosiner\, belugalinser og salatost (
-	7\,12\,B\,K) Fyldig salat vegansk:Rosenkål med æbler\, rosiner\, belugalin
-	ser og vegansk ost (12\,B\,K) Let salat:Icebergsalat med agurker\, tomater
-	 og syltede rødløg (T) Let salat vegansk:Icebergsalat med agurker\, tomate
-	r og syltede rødløg (T) Grønt stykke:Broccoli med Green Goddess-dressing (
-	3\,7\,10\,11\,12) Grønt stykke vegansk:Broccoli med Green Goddess-dressing
-	 (3\,7\,10\,11\,12) Til brød - Full:Røget skinke med italiensk salat (3\,1
-	0\,12) Til brød - Green:Grønne frikadeller fra Aarstiderne serveret med it
-	aliensk salat (3\,7\,10\,12) Til brød - Green vegansk:Grønne frikadeller f
-	ra Aarstiderne serveret med italiensk salat (10) Til brød - Alle:Hvid bønn
-	ecreme med yoghurt og tahin (7\,11\,12\,B) Til brød - Alle vegansk:Hvid bø
-	nnecreme med yoghurt og tahin (6\,11\,12\,B) Brød:Surdejsbrød (1) og rugbr
-	ød (1) Menu / mandag Today's inspiration:Danish Hot dishes - Full noon:Org
-	anic pork chops in creamy paprika sauce (7\,B\,T)\, served with steamed lo
-	ng grain rice Hot dishes - Green noon:White beans\, mushrooms\, and squash
-	 in paprika sauce (7\,B\,T)\, served with steamed long grain rice Hot dish
-	es - Vegan Green noon:White beans\, mushrooms\, and squash in paprika sauc
-	e (B\,T)\, served with steamed long grain rice Heavy salad:Brussels sprout
-	s with apples\, raisins\, beluga lentils\, and salad cheese (7\,12\,B\,K) 
-	Heavy salad vegan:Brussels sprouts with apples\, raisins\, beluga lentils\
-	, and vegan cheese (12\,B\,K) Light salad:Iceberg lettuce with cucumbers\,
-	 tomatoes\, and pickled red onions (T) Light salad vegan:Iceberg lettuce w
-	ith cucumbers\, tomatoes\, and pickled red onions (T) Green piece:Broccoli
-	 with Green Goddess dressing (11\,12) Green piece vegan:Broccoli with Gree
-	n Goddess dressing (11\,12) For bread - Full:Smoked ham with Italian salad
-	 (3\,10\,12) For bread - Green:Green vegetable patties from Aarstiderne se
-	rved with Italian salad For bread - Green vegan:Green vegetable patties fr
-	om Aarstiderne served with Italian salad (10) For bread - All:White bean s
-	pread with yoghurt and tahini (7\,11\,12\,B) For bread - All vegan:White b
-	ean spread with yoghurt and tahini (6\,11\,12\,B) Bread:Sourdough bread (1
-	) and ryebread (1)\n\nKilde: https://cdn.prod.website-files.com/6020356278
-	b4438fe8a59224/69f4353bd5be4591c2c89091_man%20uge%2019%20R%201-5.pdf
-URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69f4353bd5b
-	e4591c2c89091_man%20uge%2019%20R%201-5.pdf
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:wsiSPR2k05aL2k0WLS7BF
+UID:sVcAUg5v8_Qlb0WuVHhzY
 SUMMARY:Frokost: Millionbøf af øko-okse med røde mungbønner og forårsgrønts
 	ager ( 
-DTSTAMP:20260508T075415Z
+DTSTAMP:20260510T081341Z
 DTSTART:20260511T113000Z
 DESCRIPTION:UGE 20\n\nMenu / mandag Dagens inspiration:Dansk Full noon:Mill
 	ionbøf af øko-okse med røde mungbønner og forårsgrøntsager ( 7\,10\,B\,S\,
@@ -412,55 +310,145 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69faf3e228f
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:4kWGJ_KXzNmgvTBP2_pzQ
-SUMMARY:Frokost: Klassisk lasagne af øko-okse gratineret med mozzarella og 
-	parmesa
-DTSTAMP:20260508T075415Z
-DTSTART:20260505T113000Z
-DESCRIPTION:UGE 19\n\nMenu / tirsdag Dagens inspiration:Italiensk Full noon
-	:Klassisk lasagne af øko-okse gratineret med mozzarella og parmesan (1\,3\
-	,7\,9\,12\,T) Green noon:Linselasagne med stegte svampe gratineret med moz
-	zarella og parmesan (1\,3\,7\,9\,12\,T) Green noon vegansk:Linselasagne me
-	d stegte svampe\, gratineret med vegansk ost (9\,12\,B\,T) Fyldig salat:Ki
-	dney- og cannellinibønner med auberginer\, peberfrugter\, oliven\, rucola 
-	og vinaigrette (10\,12\,B) Fyldig salat vegansk:Kidney- og cannellinibønne
-	r med auberginer\, peberfrugter\, oliven\, rucola og vinaigrette (10\,12\,
-	B) Let salat:Tomatsalat med ekstra jomfruolivenolie og karse (T) Let salat
-	 vegansk:Tomatsalat med ekstra jomfruolivenolie og karse (T) Grønt stykke:
-	Grillede artiskokker med kapersvinaigrette (12) Grønt stykke vegansk:Grill
-	ede artiskokker med kapersvinaigrette (12) Til brød - Full:Stegt porchetta
-	 af gris med rucola-mayonnaise (3\,10\,12) Til brød - Green:Paté med riste
-	de mandler\, soltørrede tomater\, estragon og kapers (8\,T) Til brød - Gre
-	en vegansk:Paté med ristede mandler\, soltørrede tomater\, estragon og kap
-	ers (8\,T) Til brød - Alle:Rød pesto (12\,T) Til brød - Alle vegansk:Rød p
-	esto (12\,T) Brød:Surdejsbrød (1) og rugbrød (1) Menu / tirsdag Today's in
-	spiration:Italian Hot dishes - Full noon:Classic lasagne made with organic
-	 beef gratinated with mozzarella and parmesan (1\,3\,7\,9\,12\,T) Hot dish
-	es - Green noon:Linselasagne with roasted mushrooms gratinated with mozzar
-	ella and parmesan (1\,3\,7\,9\,12\,T) Hot dishes - Vegan Green noon:Linsel
-	asagne with roasted mushrooms gratinated with vegan cheese (9\,12\,B\,T) H
-	eavy salad:Kidney and cannellini beans with eggplants\, bell peppers\, oli
-	ves\, arugula\, and vinaigrette (10\,12\,B) Heavy salad vegan:Kidney and c
-	annellini beans with eggplants\, bell peppers\, olives\, arugula\, and vin
-	aigrette (10\,12\,B) Light salad:Tomato salad with extra virgin olive oil 
-	and cress (T) Light salad vegan:Tomato salad with extra virgin olive oil a
-	nd cress (T) Green piece:Grilled artichokes with caper vinaigrette (12) Gr
-	een piece vegan:Grilled artichokes with caper vinaigrette (12) For bread -
-	 Full:Roasted pork porchetta with rocket mayonnaise (3\,10\,12) For bread 
-	- Green:Roasted almond and sun-dried tomato paté with tarragon and capers 
-	(8\,T) For bread - Green vegan:Roasted almond and sun-dried tomato paté wi
-	th tarragon and capers (8\,T) For bread - All:Red pesto (12\,T) For bread 
-	- All vegan:Red pesto (12\,T) Bread:Sourdough bread (1) and ryebread (1)\n
-	\nKilde: https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69f1e
-	bdf1d9d6d50fd410173_tir%20uge%2019.pdf
-URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69f1ebdf1d9
-	d6d50fd410173_tir%20uge%2019.pdf
+UID:Hu_7RxKykytrrm9lmxEPG
+SUMMARY:Frokost: Øko-gris pisillo med nye løg\, karribiensk gul karry og ko
+	kosmælk 
+DTSTAMP:20260510T081341Z
+DTSTART:20260522T113000Z
+DESCRIPTION:UGE 21\n\nMenu / fredag Dagens inspiration:Gæstekok Frederico T
+	ischler Full noon:Øko-gris pisillo med nye løg\, karribiensk gul karry og 
+	kokosmælk (T)\, hertil couscous med svampe og ricotta (1\,7\,9\,S) Green n
+	oon:Bagte nye løg og seitan med karribiensk gul karry og kokosmælk (1\,T)\
+	, hertil couscous med svampe og ricotta (1\,7\,9\,S) Green noon vegansk:Ba
+	gte nye løg og seitan med karribiensk gul karry og kokosmælk (1\,T)\, hert
+	il couscous med svampe og tofu (1\,6\,9\,S) Fyldig salat:Rødbeder med sort
+	e quinoa\, blodappelsiner og trøffelolie Fyldig salat vegansk:Rødbeder med
+	 sorte quinoa\, blodappelsiner og trøffelolie Let salat:Savoykål med avoca
+	do og blåbirkes (K) Let salat vegansk:Savoykål med avocado og blåbirkes (K
+	) Grønt stykke:Stegte padroner med sofrito-mayonnaise (3\,10\,12) Grønt st
+	ykke vegansk:Stegte padroner med sofrito-mayonnaise Til brød - Full:Rejesa
+	lat med cornichoner\, dild og citron (2\,3\,10\,12) Til brød - Green:Tempe
+	hsalat med cornichoner\, dild og citron (3\,10\,12) Til brød - Green vegan
+	sk:Tempehsalat med cornichoner\, dild og citron (3\,10\,12) Til brød - All
+	e:Kimchi-salsa (12\,T) Til brød - Alle vegansk:Kimchi-salsa (12\,T) Brød:S
+	urdejsbrød (1) og rugbrød (1) Menu / fredag Today's inspiration:Guest chef
+	 Frederico Tischler Hot dishes - Full noon:Organic pork pisillo with new o
+	nions\, Caribbean yellow curry and coconut milk (T)\, served with couscous
+	 with mushrooms and ricotta (1\,7\,9\,S) Hot dishes - Green noon:Baked new
+	 onions and seitan with Caribbean yellow curry and coconut milk (1\,T)\, s
+	erved with couscous with mushrooms and ricotta (1\,7\,9\,S) Hot dishes - V
+	egan Green noon:Baked new onions and seitan with Caribbean yellow curry an
+	d coconut milk (1\,T)\, served with couscous with mushrooms and tofu (1\,6
+	\,9\,S) Heavy salad:Beets with black quinoa\, blood oranges and truffle oi
+	l Heavy salad vegan:Beets with black quinoa\, blood oranges and truffle oi
+	l Light salad:Savoy cabbage with avocado and poppy seeds (K) Light salad v
+	egan:Savoy cabbage with avocado and poppy seeds (K) Green piece:Roasted pa
+	dron peppers with sofrito mayonnaise (3\,10\,12) Green piece vegan:Roasted
+	 padron peppers with sofrito mayonnaise For bread - Full:Shrimp salad with
+	 cornichons\, dill\, and lemon (2\,3\,10\,12) For bread - Green:Tempeh sal
+	ad with cornichons\, dill og citron (3\,10\,12) For bread - Green vegan:Te
+	mpeh salad with cornichons\, dill og citron (3\,10\,12) For bread - All:Ki
+	mchi salsa (12\,T) For bread - All vegan:Kimchi salsa (12\,T) Bread:Sourdo
+	ugh bread (1) and ryebread (1)\n\nKilde: https://cdn.prod.website-files.co
+	m/6020356278b4438fe8a59224/69fdf5ac7a0ffbd0de026d26_fre%20uge%2021.pdf
+URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69fdf5ac7a0
+	ffbd0de026d26_fre%20uge%2021.pdf
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:QPKaxMFKAvK10c2HbbKUm
+UID:gIKkGdCaouqPjollKKyH9
+SUMMARY:Frokost: Butter chicken af øko-kylling med ingrid ærter og blomkål 
+	(7\,B\,T)
+DTSTAMP:20260510T081341Z
+DTSTART:20260520T113000Z
+DESCRIPTION:UGE 21\n\nMenu / onsdag Dagens inspiration:Indisk Full noon:But
+	ter chicken af øko-kylling med ingrid ærter og blomkål (7\,B\,T)\, hertil 
+	dampet basmatiris med nigellafrø Green noon:Stegte auberginer med ingrid æ
+	rter og blomkål i indisk smørsauce (7\,B\,T)\, hertil dampet basmatiris me
+	d nigellafrø Green noon vegansk:Stegte auberginer med ingrid ærter og blom
+	kål i indisk smørsauce (B\,T)\, hertil dampet basmatiris med nigellafrø Fy
+	ldig salat:Rosenkål med belugalinser\, citronvinaigrette og koriander Fyld
+	ig salat vegansk:Rosenkål med belugalinser\, citronvinaigrette og koriande
+	r Let salat:Bitre salater og friske krydderurter Let salat vegansk:Bitre s
+	alater og friske krydderurter Grønt stykke:Broccoli med yoghurt og karrydu
+	kkah af cashewnødder og peanuts (5\,7\,8) Grønt stykke vegansk:Broccoli me
+	d mayo og karrydukkah af cashewnødder og peanuts (5\,8) Til brød - Full:Ru
+	llepølse med sky og rødløg Til brød - Green:Smøreostecreme med syltede per
+	sillerødder og krydderurter (7) Til brød - Green vegansk:Smøreostecreme me
+	d syltede persillerødder og krydderurter Til brød - Alle:Rødbedehummus (11
+	\,12\,B) Til brød - Alle vegansk:Rødbedehummus (11\,12\,B) Brød:Surdejsbrø
+	d (1) og rugbrød (1) Menu / onsdag Today's inspiration:Indian Hot dishes -
+	 Full noon:Butter chicken with Ingrid peas and cauliflower (7\,B\,T)\, ser
+	ved with steamed basmati rice with nigella seeds Hot dishes - Green noon:R
+	oasted eggplants with Ingrid peas and cauliflower in Indian butter sauce (
+	7\,B\,T)\, served with steamed basmati rice with nigella seeds Hot dishes 
+	- Vegan Green noon:Roasted eggplants with Ingrid peas and cauliflower in I
+	ndian butter sauce (B\,T)\, served with steamed basmati rice with nigella 
+	seeds Heavy salad:Brussels sprouts with beluga lentils\, lemon vinaigrette
+	 og cilantro Heavy salad vegan:Brussels sprouts with beluga lentils\, lemo
+	n vinaigrette og cilantro Light salad:Bitter salad and fresh herbs Light s
+	alad vegan:Bitter salad and fresh herbs Green piece:Broccoli with yogurt a
+	nd curry dukkah made from cashew nuts and peanuts (5\,7\,8) Green piece ve
+	gan:Broccoli with mayo and curry dukkah made from cashew nuts and peanuts 
+	(5\,8) For bread - Full:Rolled pork sausage with aspic and red onions For 
+	bread - Green:Cream cheese with pickled parsnips and herbs (7) For bread -
+	 Green vegan:Vegan cream cheese with pickled parsnips and herbs For bread 
+	- All:Beetroot hummus (11\,12\,B) For bread - All vegan:Beetroot hummus (1
+	1\,12\,B) Bread:Sourdough bread (1) and ryebread (1)\n\nKilde: https://cdn
+	.prod.website-files.com/6020356278b4438fe8a59224/69fdf5ac23bbe6261b11aa06_
+	ons%20uge%2021.pdf
+URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69fdf5ac23b
+	be6261b11aa06_ons%20uge%2021.pdf
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:09_a4WG8GGE14smRjJ9Uq
+SUMMARY:Frokost: Øko-okse bolognese (9\,12\,T)\, hertil linguini toppet med
+	 oliven (1
+DTSTAMP:20260510T081341Z
+DTSTART:20260519T113000Z
+DESCRIPTION:UGE 21\n\nMenu / tirsdag Dagens inspiration:Italiensk Full noon
+	:Øko-okse bolognese (9\,12\,T)\, hertil linguini toppet med oliven (1) Gre
+	en noon:Linse- og svampebolognese (3\,7\,9\,12\,T)\, hertil linguini toppe
+	t med oliven (1) Green noon vegansk:Linse- og svampebolognese (9\,12\,T)\,
+	 hertil linguini toppet med oliven (1) Fyldig salat:Bulgur med bagte peber
+	frugter\, persille og abrikoser (1\,12) Fyldig salat vegansk:Bulgur med ba
+	gte peberfrugter\, persille og abrikoser (1\,12) Let salat:Grøn salat med 
+	æbler og purløg vendt med hvidvinseddike- vinaigrette (12) Let salat vegan
+	sk:Grøn salat med æbler og purløg vendt med hvidvinseddike- vinaigrette (1
+	2) Grønt stykke:Hokkaido med radicchiodressing (12) Grønt stykke vegansk:H
+	okkaido med radicchiodressing (12) Til brød - Full:Hønsesalat med svampe o
+	g asparges (3\,10\,12) Til brød - Green:Persillerodssalat med svampe og as
+	parges (3\,10\,12) Til brød - Green vegansk:Persillerodssalat med svampe o
+	g asparges (10) Til brød - Alle:Hvide bønnespread med rosmarin (11\,12\,B)
+	 Til brød - Alle vegansk:Hvide bønnespread med rosmarin (11\,12\,B) Brød:S
+	urdejsbrød (1) og rugbrød (1) Menu / tirsdag Today's inspiration:Italian H
+	ot dishes - Full noon:Organic beef Bolognese (9\,12\,T)\, served with ling
+	uini topped with olives (1) Hot dishes - Green noon:Lentil and mushroom Bo
+	lognese (3\,7\,9\,12\,T)\, served with linguini topped with olives (1) Hot
+	 dishes - Vegan Green noon:Lentil and mushroom Bolognese (9\,12\,T)\, serv
+	ed with linguini topped with olives (1) Heavy salad:Bulgur with roasted pe
+	ppers\, parsley\, and apricots (1\,12) Heavy salad vegan:Bulgur with roast
+	ed peppers\, parsley\, and apricots (1\,12) Light salad:Green salad with a
+	pples and chives tossed in a white wine vinegar vinaigrette (12) Light sal
+	ad vegan:Green salad with apples and chives tossed in a white wine vinegar
+	 vinaigrette (12) Green piece:Hokkaido with radicchio dressing (12) Green 
+	piece vegan:Hokkaido with radicchio dressing (12) For bread - Full:Creamy 
+	chicken salad with mushrooms and asparagus (3\,10\,12) For bread - Green:C
+	reamy parsley root salad with mushrooms and asparagus (3\,10\,12) For brea
+	d - Green vegan:Creamy parsley root salad with mushrooms and asparagus (10
+	) For bread - All:White bean spread with rosemary (11\,12\,B) For bread - 
+	All vegan:White bean spread with rosemary (11\,12\,B) Bread:Sourdough brea
+	d (1) and ryebread (1)\n\nKilde: https://cdn.prod.website-files.com/602035
+	6278b4438fe8a59224/69fdf5acd4eb40be827f61b8_tir%20uge%2021.pdf
+URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69fdf5acd4e
+	b40be827f61b8_tir%20uge%2021.pdf
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:uGAEZ5e-Cm0WG4d3nKBBo
 SUMMARY:Frokost: TOR
-DTSTAMP:20260508T075415Z
+DTSTAMP:20260510T081341Z
 DTSTART:20260514T113000Z
 DESCRIPTION:UGE 20\n\nMenu / torsdag Dagens inspiration:Lukket - Kristi Him
 	melfartsdag Menu / torsdag Today's inspiration:Closed - Ascension Day\n\nK
