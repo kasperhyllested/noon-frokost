@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:LoXxxAETLFX_gPIdveeNv
+UID:CVgQvFFj43-kt7LqaizdN
 SUMMARY:Frokost: Byg selv-burritos med stegt hakkede øko-kylliing\, kidneyb
 	ønner og
-DTSTAMP:20260512T084639Z
+DTSTAMP:20260513T085019Z
 DTSTART:20260515T113000Z
 DESCRIPTION:UGE 20\n\nMenu / fredag Dagens inspiration:Street food Full noo
 	n:Byg selv-burritos med stegt hakkede øko-kylliing\, kidneybønner og tomat
@@ -59,10 +59,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69f85563b85
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:XtWgHwVDUGYkWWem1C4uf
+UID:LMOrO21aoMllTnh-22XoD
 SUMMARY:Frokost: Stroganoff af øko-okse\, øko-bacon\, stegte svampe og gule
 	rødder (7
-DTSTAMP:20260512T084639Z
+DTSTAMP:20260513T085019Z
 DTSTART:20260521T113000Z
 DESCRIPTION:UGE 21\n\nMenu / torsdag Dagens inspiration:Stroganoff Full noo
 	n:Stroganoff af øko-okse\, øko-bacon\, stegte svampe og gulerødder (7\,9\,
@@ -113,10 +113,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69fdf5ac208
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:L5IRcnFLt5jORj5B-fr1p
+UID:C4rN_NVHfO20p69Y1Qbyc
 SUMMARY:Frokost: Panang-karry med stegt øko-kalkun\, pebberfrugter og pinto
 	bønner (
-DTSTAMP:20260512T084639Z
+DTSTAMP:20260513T085019Z
 DTSTART:20260513T113000Z
 DESCRIPTION:UGE 20\n\nMenu / onsdag Dagens inspiration:Thai Full noon:Panan
 	g-karry med stegt øko-kalkun\, pebberfrugter og pintobønner (6\,12\,B)\, h
@@ -164,10 +164,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69f85564ccc
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:7s4t28EBmCdlTq4D8BmBk
+UID:zVY_hCg9Uaf82Xj247XRd
 SUMMARY:Frokost: Øko-nakkekam af gris a la saltimbocca med ristede parmaski
 	nke og 
-DTSTAMP:20260512T084639Z
+DTSTAMP:20260513T085019Z
 DTSTART:20260512T113000Z
 DESCRIPTION:UGE 20\n\nMenu / tirsdag Dagens inspiration:Italiensk Full noon
 	:Øko-nakkekam af gris a la saltimbocca med ristede parmaskinke og salvie (
@@ -214,10 +214,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69f85564024
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:A5a5wNFzzNbRMCYZHHLPt
+UID:9maB_xgR6vhVoRE9ea2pl
 SUMMARY:Frokost: Kylling Danoise - Stegte øko-kyllingeoverlår med agurkesal
 	at og s
-DTSTAMP:20260512T084639Z
+DTSTAMP:20260513T085019Z
 DTSTART:20260518T113000Z
 DESCRIPTION:UGE 21\n\nMenu / mandag Dagens inspiration:Dansk Full noon:Kyll
 	ing Danoise - Stegte øko-kyllingeoverlår med agurkesalat og skysauce - 1 s
@@ -263,10 +263,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69fdf5add8c
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:wHMAheENo5GKE1HZf-NjO
+UID:mpaTsdisgQ9Ak0XeB3mbQ
 SUMMARY:Frokost: Millionbøf af øko-okse med røde mungbønner og forårsgrønts
 	ager ( 
-DTSTAMP:20260512T084639Z
+DTSTAMP:20260513T085019Z
 DTSTART:20260511T113000Z
 DESCRIPTION:UGE 20\n\nMenu / mandag Dagens inspiration:Dansk Full noon:Mill
 	ionbøf af øko-okse med røde mungbønner og forårsgrøntsager ( 7\,10\,B\,S\,
@@ -310,10 +310,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69faf3e228f
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:nzDMIN6uf-s8JGrA7j70I
+UID:uSMCS_lgPi22JVgF3TzdW
 SUMMARY:Frokost: Øko-gris pisillo med nye løg\, karribiensk gul karry og ko
 	kosmælk 
-DTSTAMP:20260512T084639Z
+DTSTAMP:20260513T085019Z
 DTSTART:20260522T113000Z
 DESCRIPTION:UGE 21\n\nMenu / fredag Dagens inspiration:Gæstekok Frederico T
 	ischler Full noon:Øko-gris pisillo med nye løg\, karribiensk gul karry og 
@@ -356,10 +356,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69fdf5ac7a0
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:gh0wgV5z-Pi_MTQgyVpK1
+UID:PtxBHfCBNASLIqjJVjBhm
 SUMMARY:Frokost: Butter chicken af øko-kylling med ingrid ærter og blomkål 
 	(7\,B\,T)
-DTSTAMP:20260512T084639Z
+DTSTAMP:20260513T085019Z
 DTSTART:20260520T113000Z
 DESCRIPTION:UGE 21\n\nMenu / onsdag Dagens inspiration:Indisk Full noon:But
 	ter chicken af øko-kylling med ingrid ærter og blomkål (7\,B\,T)\, hertil 
@@ -373,9 +373,9 @@ DESCRIPTION:UGE 21\n\nMenu / onsdag Dagens inspiration:Indisk Full noon:But
 	alater og friske krydderurter Grønt stykke:Broccoli med yoghurt og karrydu
 	kkah af cashewnødder og peanuts (5\,7\,8) Grønt stykke vegansk:Broccoli me
 	d mayo og karrydukkah af cashewnødder og peanuts (5\,8) Til brød - Full:Ru
-	llepølse med sky og rødløg Til brød - Green:Smøreostecreme med syltede per
-	sillerødder og krydderurter (7) Til brød - Green vegansk:Smøreostecreme me
-	d syltede persillerødder og krydderurter Til brød - Alle:Rødbedehummus (11
+	llepølse med sky og rødløg Til brød - Green:Smøreostecreme med syltede gul
+	e beder og krydderurter (7) Til brød - Green vegansk:Vegansk smøreostecrem
+	e med syltede gule beder og krydderurter Til brød - Alle:Rødbedehummus (11
 	\,12\,B) Til brød - Alle vegansk:Rødbedehummus (11\,12\,B) Brød:Surdejsbrø
 	d (1) og rugbrød (1) Menu / onsdag Today's inspiration:Indian Hot dishes -
 	 Full noon:Butter chicken with Ingrid peas and cauliflower (7\,B\,T)\, ser
@@ -391,21 +391,21 @@ DESCRIPTION:UGE 21\n\nMenu / onsdag Dagens inspiration:Indisk Full noon:But
 	nd curry dukkah made from cashew nuts and peanuts (5\,7\,8) Green piece ve
 	gan:Broccoli with mayo and curry dukkah made from cashew nuts and peanuts 
 	(5\,8) For bread - Full:Rolled pork sausage with aspic and red onions For 
-	bread - Green:Cream cheese with pickled parsnips and herbs (7) For bread -
-	 Green vegan:Vegan cream cheese with pickled parsnips and herbs For bread 
-	- All:Beetroot hummus (11\,12\,B) For bread - All vegan:Beetroot hummus (1
-	1\,12\,B) Bread:Sourdough bread (1) and ryebread (1)\n\nKilde: https://cdn
-	.prod.website-files.com/6020356278b4438fe8a59224/69fdf5ac23bbe6261b11aa06_
-	ons%20uge%2021.pdf
-URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69fdf5ac23b
-	be6261b11aa06_ons%20uge%2021.pdf
+	bread - Green:Cream cheese with pickled yellow beets and herbs (7) For bre
+	ad - Green vegan:Vegan cream cheese with pickled yellow beets and herbs Fo
+	r bread - All:Beetroot hummus (11\,12\,B) For bread - All vegan:Beetroot h
+	ummus (11\,12\,B) Bread:Sourdough bread (1) and ryebread (1)\n\nKilde: htt
+	ps://cdn.prod.website-files.com/6020356278b4438fe8a59224/6a02f7f57fd68bb23
+	9ad887c_ons%20uge%2021%20RI%2012-5.pdf
+URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/6a02f7f57fd
+	68bb239ad887c_ons%20uge%2021%20RI%2012-5.pdf
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:nhIRmlArXkTOIO6XGXi1u
+UID:JlGasNWt1R9ExdAZQAePd
 SUMMARY:Frokost: Øko-okse bolognese (9\,12\,T)\, hertil linguini toppet med
 	 oliven (1
-DTSTAMP:20260512T084639Z
+DTSTAMP:20260513T085019Z
 DTSTART:20260519T113000Z
 DESCRIPTION:UGE 21\n\nMenu / tirsdag Dagens inspiration:Italiensk Full noon
 	:Øko-okse bolognese (9\,12\,T)\, hertil linguini toppet med oliven (1) Gre
@@ -446,9 +446,9 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69fdf5acd4e
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:E3igXgCY8TKc9PY2I39Gr
+UID:z_heZuY4NbZQrMAXjtGfN
 SUMMARY:Frokost: TOR
-DTSTAMP:20260512T084639Z
+DTSTAMP:20260513T085019Z
 DTSTART:20260514T113000Z
 DESCRIPTION:UGE 20\n\nMenu / torsdag Dagens inspiration:Lukket - Kristi Him
 	melfartsdag Menu / torsdag Today's inspiration:Closed - Ascension Day\n\nK
