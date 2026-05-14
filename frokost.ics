@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:CVgQvFFj43-kt7LqaizdN
+UID:p0A5c_hJhD1ublQhIiddq
 SUMMARY:Frokost: Byg selv-burritos med stegt hakkede øko-kylliing\, kidneyb
 	ønner og
-DTSTAMP:20260513T085019Z
+DTSTAMP:20260514T084400Z
 DTSTART:20260515T113000Z
 DESCRIPTION:UGE 20\n\nMenu / fredag Dagens inspiration:Street food Full noo
 	n:Byg selv-burritos med stegt hakkede øko-kylliing\, kidneybønner og tomat
@@ -59,10 +59,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69f85563b85
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:LMOrO21aoMllTnh-22XoD
+UID:IDeqAVk7wjPRZiEcTzUCL
 SUMMARY:Frokost: Stroganoff af øko-okse\, øko-bacon\, stegte svampe og gule
 	rødder (7
-DTSTAMP:20260513T085019Z
+DTSTAMP:20260514T084400Z
 DTSTART:20260521T113000Z
 DESCRIPTION:UGE 21\n\nMenu / torsdag Dagens inspiration:Stroganoff Full noo
 	n:Stroganoff af øko-okse\, øko-bacon\, stegte svampe og gulerødder (7\,9\,
@@ -113,10 +113,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69fdf5ac208
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:C4rN_NVHfO20p69Y1Qbyc
+UID:o9yCkz5s294LZBvlgH1xC
 SUMMARY:Frokost: Panang-karry med stegt øko-kalkun\, pebberfrugter og pinto
 	bønner (
-DTSTAMP:20260513T085019Z
+DTSTAMP:20260514T084400Z
 DTSTART:20260513T113000Z
 DESCRIPTION:UGE 20\n\nMenu / onsdag Dagens inspiration:Thai Full noon:Panan
 	g-karry med stegt øko-kalkun\, pebberfrugter og pintobønner (6\,12\,B)\, h
@@ -164,10 +164,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69f85564ccc
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:zVY_hCg9Uaf82Xj247XRd
+UID:bn2O2AY0zINPalgLZjPra
 SUMMARY:Frokost: Øko-nakkekam af gris a la saltimbocca med ristede parmaski
 	nke og 
-DTSTAMP:20260513T085019Z
+DTSTAMP:20260514T084400Z
 DTSTART:20260512T113000Z
 DESCRIPTION:UGE 20\n\nMenu / tirsdag Dagens inspiration:Italiensk Full noon
 	:Øko-nakkekam af gris a la saltimbocca med ristede parmaskinke og salvie (
@@ -214,59 +214,59 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69f85564024
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:9maB_xgR6vhVoRE9ea2pl
-SUMMARY:Frokost: Kylling Danoise - Stegte øko-kyllingeoverlår med agurkesal
-	at og s
-DTSTAMP:20260513T085019Z
+UID:kIrTrZ4bHDAhgqXZavHc1
+SUMMARY:Frokost: Kylling Danoise - Stegte øko-kyllingeoverlår med syltede æ
+	bler og
+DTSTAMP:20260514T084400Z
 DTSTART:20260518T113000Z
 DESCRIPTION:UGE 21\n\nMenu / mandag Dagens inspiration:Dansk Full noon:Kyll
-	ing Danoise - Stegte øko-kyllingeoverlår med agurkesalat og skysauce - 1 s
-	tk. pr. person (1\,7\,9\,12)\, hertil rabarberkompot og stegte kartofler G
-	reen noon:Bagte porrer\, ingrid ærter og kejserhatte med brunet smør og hø
-	ost-mornaysauce (1\,7\,B)\, hertil stegte kartofler Green noon vegansk:Bag
-	te porrer\, ingrid ærter og kejserhatte med cremet sauce (B)\, hertil steg
-	te kartofler Fyldig salat:Perlebyg med østershatte\, ærter og radiser vend
-	t med friske krydderurter og æblecider-vinaigrette (1\,10) Fyldig salat ve
-	gansk:Perlebyg med østershatte\, ærter og radiser vendt med friske krydder
-	urter og æblecider-vinaigrette (1\,10) Let salat:Grønt salat med agurker\,
-	 rabarber og dild Let salat vegansk:Grønt salat med agurker\, rabarber og 
-	dild Grønt stykke:Blomkål med creme fraiche og purløg (7\,10) Grønt stykke
-	 vegansk:Blomkål med yoghurt og purløg (6\,10) Til brød - Full:Frikadeller
-	 med stærk sennep - 1 stk. pr. person (1\,10) Til brød - Green:Grønsagsfri
-	kadeller med remoulade - 1 stk. pr. person (3\,7\,10\,12) Til brød - Green
-	 vegansk:Grøntsagsfrikadeller med remoulade - 1 stk. pr. person (10) Til b
-	rød - Alle:Baba Ganoush (11\,12) Til brød - Alle vegansk:Baba Ganoush (11\
-	,12) Brød:Surdejsbrød (1) og rugbrød (1) Menu / mandag Today's inspiration
-	:Danish Hot dishes - Full noon:Roasted organic chicken thighs with pickled
-	 cucumbers and gravy - 1 piece per person (1\,7\,9\,12)\, served with rhub
-	arb compote and roasted potatoes Hot dishes - Green noon:Baked leeks\, ing
-	rid peas and king oyster mushrooms with brown butter and Høost-based morna
-	y sauce (1\,7\,B)\, served with roasted potatoes Hot dishes - Vegan Green 
-	noon:Baked leeks\, ingrid peas and king oyster mushrooms with creamy sauce
-	 (B)\, served with roasted potatoes Heavy salad:Pearl barley with oyster m
-	ushrooms peas and radishes tossed with fresh herbs and apple cider vinaigr
-	ette (1\,10) Heavy salad vegan:Pearl barley with oyster mushrooms peas and
-	 radishes tossed with fresh herbs and apple cider vinaigrette (1\,10) Ligh
-	t salad:Green salad with cucumbers\, rhubarb and dill Light salad vegan:Gr
-	een salad with cucumbers\, rhubarb and dill Green piece:Cauliflower with s
-	our cream and chives (7\,10) Green piece vegan:Cauliflower with yoghurt an
-	d chives (6\,10) For bread - Full:Pork patties served with spicy mustard -
-	 1 piece per person (1\,10) For bread - Green:Roasted vegetable patties wi
-	th remoulade - 1 piece per person (3\,7\,10\,12) For bread - Green vegan:R
-	oasted vegetable patties with remoulade - 1 piece per person (10) For brea
-	d - All:Baba Ganoush (11\,12) For bread - All vegan:Baba Ganoush (11\,12) 
-	Bread:Sourdough bread (1) and ryebread (1)\n\nKilde: https://cdn.prod.webs
-	ite-files.com/6020356278b4438fe8a59224/69fdf5add8cfa1cdc1349ef8_man%20uge%
-	2021.pdf
-URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69fdf5add8c
-	fa1cdc1349ef8_man%20uge%2021.pdf
+	ing Danoise - Stegte øko-kyllingeoverlår med syltede æbler og skysauce - 1
+	 stk. pr. person (1\,7\,9\,12)\, hertil rabarberkompot og stegte kartofler
+	 Green noon:Bagte porrer\, ingrid ærter og kejserhatte med brunet smør og 
+	høost-mornaysauce (1\,7\,B)\, hertil stegte kartofler Green noon vegansk:B
+	agte porrer\, ingrid ærter og kejserhatte med cremet sauce (B)\, hertil st
+	egte kartofler Fyldig salat:Perlebyg med østershatte\, ærter og radiser ve
+	ndt med friske krydderurter og æblecider-vinaigrette (1\,10) Fyldig salat 
+	vegansk:Perlebyg med østershatte\, ærter og radiser vendt med friske krydd
+	erurter og æblecider-vinaigrette (1\,10) Let salat:Grønt salat med agurker
+	\, rabarber og dild Let salat vegansk:Grønt salat med agurker\, rabarber o
+	g dild Grønt stykke:Blomkål med creme fraiche og purløg (7\,10) Grønt styk
+	ke vegansk:Blomkål med yoghurt og purløg (6\,10) Til brød - Full:Frikadell
+	er med stærk sennep - 1 stk. pr. person (1\,10) Til brød - Green:Grønsagsf
+	rikadeller med remoulade - 1 stk. pr. person (3\,7\,10\,12) Til brød - Gre
+	en vegansk:Grøntsagsfrikadeller med remoulade - 1 stk. pr. person (10) Til
+	 brød - Alle:Baba Ganoush (11\,12) Til brød - Alle vegansk:Baba Ganoush (1
+	1\,12) Brød:Surdejsbrød (1) og rugbrød (1) Menu / mandag Today's inspirati
+	on:Danish Hot dishes - Full noon:Roasted organic chicken thighs with pickl
+	ed apples and gravy - 1 piece per person (1\,7\,9\,12)\, served with rhuba
+	rb compote and roasted potatoes Hot dishes - Green noon:Baked leeks\, ingr
+	id peas and king oyster mushrooms with brown butter and Høost-based mornay
+	 sauce (1\,7\,B)\, served with roasted potatoes Hot dishes - Vegan Green n
+	oon:Baked leeks\, ingrid peas and king oyster mushrooms with creamy sauce 
+	(B)\, served with roasted potatoes Heavy salad:Pearl barley with oyster mu
+	shrooms peas and radishes tossed with fresh herbs and apple cider vinaigre
+	tte (1\,10) Heavy salad vegan:Pearl barley with oyster mushrooms peas and 
+	radishes tossed with fresh herbs and apple cider vinaigrette (1\,10) Light
+	 salad:Green salad with cucumbers\, rhubarb and dill Light salad vegan:Gre
+	en salad with cucumbers\, rhubarb and dill Green piece:Cauliflower with so
+	ur cream and chives (7\,10) Green piece vegan:Cauliflower with yoghurt and
+	 chives (6\,10) For bread - Full:Pork patties served with spicy mustard - 
+	1 piece per person (1\,10) For bread - Green:Roasted vegetable patties wit
+	h remoulade - 1 piece per person (3\,7\,10\,12) For bread - Green vegan:Ro
+	asted vegetable patties with remoulade - 1 piece per person (10) For bread
+	 - All:Baba Ganoush (11\,12) For bread - All vegan:Baba Ganoush (11\,12) B
+	read:Sourdough bread (1) and ryebread (1)\n\nKilde: https://cdn.prod.websi
+	te-files.com/6020356278b4438fe8a59224/6a045753621aeb10783ce481_man%20uge%2
+	021%20R%2013-5.pdf
+URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/6a045753621
+	aeb10783ce481_man%20uge%2021%20R%2013-5.pdf
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:mpaTsdisgQ9Ak0XeB3mbQ
+UID:hzmVnYkfZmiLBhPGY138d
 SUMMARY:Frokost: Millionbøf af øko-okse med røde mungbønner og forårsgrønts
 	ager ( 
-DTSTAMP:20260513T085019Z
+DTSTAMP:20260514T084400Z
 DTSTART:20260511T113000Z
 DESCRIPTION:UGE 20\n\nMenu / mandag Dagens inspiration:Dansk Full noon:Mill
 	ionbøf af øko-okse med røde mungbønner og forårsgrøntsager ( 7\,10\,B\,S\,
@@ -310,10 +310,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69faf3e228f
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:uSMCS_lgPi22JVgF3TzdW
+UID:uwXS2Z8edKFcOfZO5GXbB
 SUMMARY:Frokost: Øko-gris pisillo med nye løg\, karribiensk gul karry og ko
 	kosmælk 
-DTSTAMP:20260513T085019Z
+DTSTAMP:20260514T084400Z
 DTSTART:20260522T113000Z
 DESCRIPTION:UGE 21\n\nMenu / fredag Dagens inspiration:Gæstekok Frederico T
 	ischler Full noon:Øko-gris pisillo med nye løg\, karribiensk gul karry og 
@@ -356,10 +356,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69fdf5ac7a0
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:PtxBHfCBNASLIqjJVjBhm
+UID:j2W77ty1hoeUOikp-2T5V
 SUMMARY:Frokost: Butter chicken af øko-kylling med ingrid ærter og blomkål 
 	(7\,B\,T)
-DTSTAMP:20260513T085019Z
+DTSTAMP:20260514T084400Z
 DTSTART:20260520T113000Z
 DESCRIPTION:UGE 21\n\nMenu / onsdag Dagens inspiration:Indisk Full noon:But
 	ter chicken af øko-kylling med ingrid ærter og blomkål (7\,B\,T)\, hertil 
@@ -402,10 +402,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/6a02f7f57fd
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:JlGasNWt1R9ExdAZQAePd
+UID:F3aI6p7w81Fj4bOtTM9IJ
 SUMMARY:Frokost: Øko-okse bolognese (9\,12\,T)\, hertil linguini toppet med
 	 oliven (1
-DTSTAMP:20260513T085019Z
+DTSTAMP:20260514T084401Z
 DTSTART:20260519T113000Z
 DESCRIPTION:UGE 21\n\nMenu / tirsdag Dagens inspiration:Italiensk Full noon
 	:Øko-okse bolognese (9\,12\,T)\, hertil linguini toppet med oliven (1) Gre
@@ -446,9 +446,9 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69fdf5acd4e
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:z_heZuY4NbZQrMAXjtGfN
+UID:0kJIAJQjv7ZjfRoHEWUZc
 SUMMARY:Frokost: TOR
-DTSTAMP:20260513T085019Z
+DTSTAMP:20260514T084401Z
 DTSTART:20260514T113000Z
 DESCRIPTION:UGE 20\n\nMenu / torsdag Dagens inspiration:Lukket - Kristi Him
 	melfartsdag Menu / torsdag Today's inspiration:Closed - Ascension Day\n\nK
