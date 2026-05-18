@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:UGvy85KI8LoC5_KAvxuT8
+UID:Ar_MvL8qbp-eNPru6XPpM
 SUMMARY:Frokost: Ricotta- og spinatfyldt tortelloni med stegt øko-bacon og 
 	tomatsa
-DTSTAMP:20260517T082655Z
+DTSTAMP:20260518T101031Z
 DTSTART:20260526T113000Z
 DESCRIPTION:UGE 22\n\nMenu / tirsdag Dagens inspiration:Italiensk Full noon
 	:Ricotta- og spinatfyldt tortelloni med stegt øko-bacon og tomatsauce (1\,
@@ -62,10 +62,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/6a0710d72ac
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:VSTAfvOeoEoaE5dj8_gBg
+UID:v8VzslOfXQZhT8OWsq7_T
 SUMMARY:Frokost: Stroganoff af øko-okse\, øko-bacon\, stegte svampe og gule
 	rødder (7
-DTSTAMP:20260517T082655Z
+DTSTAMP:20260518T101031Z
 DTSTART:20260521T113000Z
 DESCRIPTION:UGE 21\n\nMenu / torsdag Dagens inspiration:Stroganoff Full noo
 	n:Stroganoff af øko-okse\, øko-bacon\, stegte svampe og gulerødder (7\,9\,
@@ -116,10 +116,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69fdf5ac208
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:8GlxxHBKbH8Kje847igu8
+UID:Lcv402Ia-M4G8kgE0VOHa
 SUMMARY:Frokost: Masaman-karry med øko-gris\, kartofler\, gulerødder og peb
 	erfrugter
-DTSTAMP:20260517T082655Z
+DTSTAMP:20260518T101031Z
 DTSTART:20260527T113000Z
 DESCRIPTION:UGE 22\n\nMenu / onsdag Dagens inspiration:Thai Full noon:Masam
 	an-karry med øko-gris\, kartofler\, gulerødder og peberfrugter\, toppet me
@@ -170,10 +170,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/6a0710d6527
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:S8SDp6TDw6AEEQZA2TO4A
+UID:I4t84zS88KfAlaQKu738k
 SUMMARY:Frokost: Chili con carne med øko-okse\, kidneybønner og mørk chokol
 	ade (6\,1
-DTSTAMP:20260517T082655Z
+DTSTAMP:20260518T101031Z
 DTSTART:20260528T113000Z
 DESCRIPTION:UGE 22\n\nMenu / torsdag Dagens inspiration:Chili Full noon:Chi
 	li con carne med øko-okse\, kidneybønner og mørk chokolade (6\,12\,B\,T)\,
@@ -220,10 +220,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/6a0710d7269
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:RSGBx6htQ1C2zJBASXi_N
+UID:rk110f9lzfOheJ2e30G6f
 SUMMARY:Frokost: Kylling Danoise - Stegte øko-kyllingeoverlår med syltede æ
 	bler og
-DTSTAMP:20260517T082655Z
+DTSTAMP:20260518T101031Z
 DTSTART:20260518T113000Z
 DESCRIPTION:UGE 21\n\nMenu / mandag Dagens inspiration:Dansk Full noon:Kyll
 	ing Danoise - Stegte øko-kyllingeoverlår med syltede æbler og skysauce - 1
@@ -269,10 +269,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/6a045753621
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:nTkGp8WVLoN3R7A5SjMkg
+UID:vB6m_qOL1GeyOIX1jnsXz
 SUMMARY:Frokost: Økologisk nakkekam af gris i salmorejo-sauce med kikærter\
 	, tomate
-DTSTAMP:20260517T082655Z
+DTSTAMP:20260518T101031Z
 DTSTART:20260529T113000Z
 DESCRIPTION:UGE 22\n\nMenu / fredag Dagens inspiration:Gæstekok Nacho Herna
 	ndez Full noon:Økologisk nakkekam af gris i salmorejo-sauce med kikærter\,
@@ -317,10 +317,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/6a0710d7252
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:WMudIe2R31rynjJnFA5w4
+UID:hISojB8Qb_CVBC463qqeV
 SUMMARY:Frokost: Øko-gris pisillo med nye løg\, karribiensk gul karry og ko
 	kosmælk 
-DTSTAMP:20260517T082655Z
+DTSTAMP:20260518T101031Z
 DTSTART:20260522T113000Z
 DESCRIPTION:UGE 21\n\nMenu / fredag Dagens inspiration:Gæstekok Frederico T
 	ischler Full noon:Øko-gris pisillo med nye løg\, karribiensk gul karry og 
@@ -363,10 +363,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69fdf5ac7a0
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:pJchljq9Fh7P1d6xRLKb7
+UID:tAZfbbn1OouhrY9u8e9af
 SUMMARY:Frokost: Butter chicken af øko-kylling med ingrid ærter og blomkål 
 	(7\,B\,T)
-DTSTAMP:20260517T082655Z
+DTSTAMP:20260518T101031Z
 DTSTART:20260520T113000Z
 DESCRIPTION:UGE 21\n\nMenu / onsdag Dagens inspiration:Indisk Full noon:But
 	ter chicken af øko-kylling med ingrid ærter og blomkål (7\,B\,T)\, hertil 
@@ -409,10 +409,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/6a0710b0dad
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:Lt0oUVg3fE8W14s-TJbEI
+UID:t92FO_PmSASnLsC3bsCd5
 SUMMARY:Frokost: Øko-okse bolognese (9\,12\,T)\, hertil linguini toppet med
 	 oliven (1
-DTSTAMP:20260517T082655Z
+DTSTAMP:20260518T101031Z
 DTSTART:20260519T113000Z
 DESCRIPTION:UGE 21\n\nMenu / tirsdag Dagens inspiration:Italiensk Full noon
 	:Øko-okse bolognese (9\,12\,T)\, hertil linguini toppet med oliven (1) Gre
@@ -453,9 +453,9 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/69fdf5acd4e
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:OHYo3IoxeessaZsW7Cxtd
+UID:xNKIaLN48FbcaD6wsvh_g
 SUMMARY:Frokost: MAN
-DTSTAMP:20260517T082655Z
+DTSTAMP:20260518T101031Z
 DTSTART:20260525T113000Z
 DESCRIPTION:UGE 22\n\nMenu / mandag Dagens inspiration:Lukket - 2. Pinsedag
 	 Menu / mandag Today's inspiration:Closed: 2nd Day of Pentecost\n\nKilde: 
