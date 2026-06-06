@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:o7MNzjgdbF5IJojaWvqzE
+UID:zam5h7kh5PZ7dLxV54DvV
 SUMMARY:Frokost: Amatriciana af krydret tomatsauce\, øko-bacon og parmesano
 	st (3\,7\,
-DTSTAMP:20260605T095654Z
+DTSTAMP:20260606T084430Z
 DTSTART:20260610T113000Z
 DESCRIPTION:UGE 24\n\nMenu / onsdag Dagens inspiration:Italiensk Full noon:
 	Amatriciana af krydret tomatsauce\, øko-bacon og parmesanost (3\,7\,12\,T)
@@ -63,10 +63,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/6a1ec42d604
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:Ic9yIba4MeGgTgamw-V_k
+UID:Nn5Uomth-JErSIBW1hjwV
 SUMMARY:Frokost: Kødboller af øko-gris med sovs og tyttebærsyltetøj - 3 stk
 	. pr. p
-DTSTAMP:20260605T095654Z
+DTSTAMP:20260606T084430Z
 DTSTART:20260611T113000Z
 DESCRIPTION:UGE 24\n\nMenu / torsdag Dagens inspiration:Svensk Full noon:Kø
 	dboller af øko-gris med sovs og tyttebærsyltetøj - 3 stk. pr. person (1\,7
@@ -117,10 +117,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/6a1ec42d25d
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:YOjQEN9v7I0G3tWSJVZHz
+UID:fAxtgjcVScotCr4_s6HLr
 SUMMARY:Frokost: Nordisk asado af øko-okse fra Farmers Circle med ramsløgs 
 	guasaca
-DTSTAMP:20260605T095654Z
+DTSTAMP:20260606T084430Z
 DTSTART:20260602T113000Z
 DESCRIPTION:UGE 23\n\nMenu / tirsdag Dagens inspiration:DM i Frokostordning
 	 - Danmarks lækreste frokost Full noon:Nordisk asado af øko-okse fra Farme
@@ -170,10 +170,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/6a16c158378
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:oKwZYWGsw4TosU0Epi8ni
+UID:d1SjNhuMJqBKPLHW5jhZz
 SUMMARY:Frokost: Byg selv-burritos med øko-økse\, kidneybønner og tomater (
 	6\,12\,B\,T
-DTSTAMP:20260605T095655Z
+DTSTAMP:20260606T084430Z
 DTSTART:20260612T113000Z
 DESCRIPTION:UGE 24\n\nMenu / fredag Dagens inspiration:Tex-Mex Full noon:By
 	g selv-burritos med øko-økse\, kidneybønner og tomater (6\,12\,B\,T)\, her
@@ -223,10 +223,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/6a1ec42ddd0
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:DRc0M3AlNJEHr1p1bG8qp
+UID:n21qQJ9EKePWCwRArnSE1
 SUMMARY:Frokost: Øko-gris med cremede kikærter\, gulerødder\, citron og tah
 	in (3\,7\,1
-DTSTAMP:20260605T095655Z
+DTSTAMP:20260606T084430Z
 DTSTART:20260605T113000Z
 DESCRIPTION:UGE 23\n\nMenu / fredag Dagens inspiration:Gæstekok Avivit Prie
 	l Avichai Full noon:Øko-gris med cremede kikærter\, gulerødder\, citron og
@@ -273,10 +273,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/6a16c159cf4
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:xfiId4H8_Z9rAXrhAhm6o
+UID:dqyKWZH13nedHP-q9Yf5S
 SUMMARY:Frokost: Øko-kylling vindaloo med kartofler og kikærter (B\,T)\, he
 	rtil damp
-DTSTAMP:20260605T095655Z
+DTSTAMP:20260606T084430Z
 DTSTART:20260601T113000Z
 DESCRIPTION:UGE 23\n\nMenu / mandag Dagens inspiration:Indisk Full noon:Øko
 	-kylling vindaloo med kartofler og kikærter (B\,T)\, hertil dampet basmati
@@ -322,10 +322,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/6a16e56bbd2
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:dHlSDtdd-r4iUici7yhYy
+UID:z-vRsruoW7EMDdxkNSdin
 SUMMARY:Frokost: Glaseret nakkefillet af øko-gris med knoldseleri og løg (1
 	\,9\,10)\,
-DTSTAMP:20260605T095655Z
+DTSTAMP:20260606T084430Z
 DTSTART:20260608T113000Z
 DESCRIPTION:UGE 24\n\nMenu / mandag Dagens inspiration:Danmark dengang i 80
 	'erne Full noon:Glaseret nakkefillet af øko-gris med knoldseleri og løg (1
@@ -369,10 +369,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/6a1ec42c99b
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:SNTaIuDh5FZwMRwoHe_TT
+UID:xNbW_Hx3wDQ9NWMjOK8iC
 SUMMARY:Frokost: Cottage pie af øko-okse\, beluga linser og gratineret kart
 	offelmos
-DTSTAMP:20260605T095655Z
+DTSTAMP:20260606T084430Z
 DTSTART:20260604T113000Z
 DESCRIPTION:UGE 23\n\nMenu / torsdag Dagens inspiration:Cottage pie Full no
 	on:Cottage pie af øko-okse\, beluga linser og gratineret kartoffelmos (3\,
@@ -416,10 +416,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/6a2122dc263
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:_s6hKMaiZZqIKWZneaJZz
+UID:pc0ZvXfTtgVXBwJW-xrT0
 SUMMARY:Frokost: Øko-kylling i karry med hvide bønner\, eggplant og æbler (
 	1\,7\,B)\, 
-DTSTAMP:20260605T095655Z
+DTSTAMP:20260606T084430Z
 DTSTART:20260609T113000Z
 DESCRIPTION:UGE 24\n\nMenu / tirsdag Dagens inspiration:Dansk Full noon:Øko
 	-kylling i karry med hvide bønner\, eggplant og æbler (1\,7\,B)\, hertil p
@@ -461,9 +461,9 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/6a1ec42dd0c
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:quUjhEduPSgd6-nscx8eT
+UID:FamArFJ3R5_t6XcuOhlO2
 SUMMARY:Frokost: Rigatoni al Forno alla Carbonara med øko-bacon (1\,3\,7)
-DTSTAMP:20260605T095655Z
+DTSTAMP:20260606T084430Z
 DTSTART:20260603T113000Z
 DESCRIPTION:UGE 23\n\nMenu / onsdag Dagens inspiration:Italiensk Full noon:
 	Rigatoni al Forno alla Carbonara med øko-bacon (1\,3\,7) Green noon vegans
