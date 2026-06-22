@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:RcZyU4vCE5N7qhge1TwZN
+UID:-VXMAVbKW3RZSybUTrpTq
 SUMMARY:Frokost: Tandoorimarineret øko-kylling med kikærter\, løg og knolds
 	elleri (
-DTSTAMP:20260620T090258Z
+DTSTAMP:20260622T120106Z
 DTSTART:20260625T113000Z
 DESCRIPTION:UGE 26\n\nMenu / torsdag Dagens inspiration:Indisk Brød:Surdejs
 	brød (1) og rugbrød (1) Til brød - Alle:Hummus (11\,12) Til brød - Alle ve
@@ -62,10 +62,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/6a363d8b0bf
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:Tazql4XD-Z4PLXhc2cA7j
+UID:bCiyuOIYNfGtg0LBb_aoX
 SUMMARY:Frokost: Miso-glazed organic pork meatballs\, with celeriac\, carro
 	ts\, pumpk
-DTSTAMP:20260620T090258Z
+DTSTAMP:20260622T120106Z
 DTSTART:20260703T113000Z
 DESCRIPTION:UGE 27\n\nMenu / fredag Dagens inspiration:Japansk Brød:Surdejs
 	brød (1) and rugbrød (1) Til brød - Alle:Shiso-\, shoyu- og sort sesam-til
@@ -118,10 +118,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/6a363df7040
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:1uZ71hGgKEVsItSlVXFXz
+UID:MnRqZrnugCyxuRethcYW-
 SUMMARY:Frokost: Braiseret øko-gris i rødvins-tomatsauce (9\,12\,T)\, herti
 	l tagliate
-DTSTAMP:20260620T090258Z
+DTSTAMP:20260622T120106Z
 DTSTART:20260630T113000Z
 DESCRIPTION:UGE 27\n\nMenu / tirsdag Dagens inspiration:Italiensk Brød:Surd
 	ejsbrød (1) and rugbrød (1) Til brød - Alle:Sort oliventapenade (12) Til b
@@ -169,10 +169,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/6a363df60d1
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:dlQOmWRdwt-30zbM5RXC8
+UID:5_6LZKSMT5uMj89buRZR3
 SUMMARY:Frokost: Quiche med-øko æg\, øko-bacon asparges\, forårsløg\, soltø
 	rrede toma
-DTSTAMP:20260620T090258Z
+DTSTAMP:20260622T120106Z
 DTSTART:20260701T113000Z
 DESCRIPTION:UGE 27\n\nMenu / onsdag Dagens inspiration:Europæiske klassiker
 	e Brød:Surdejsbrød (1) and rugbrød (1) Til brød - Alle:Gulerodshumms (11\,
@@ -219,10 +219,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/6a363df73f6
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:d0R4mcbzKrf_7hG1yUs09
+UID:juLA7-9hTnMpY-r7UtjFT
 SUMMARY:Frokost: Frikadeller af øko-gris - 3 stk pr. person (1\,9)\, hertil
 	 summer k
-DTSTAMP:20260620T090258Z
+DTSTAMP:20260622T120106Z
 DTSTART:20260624T113000Z
 DESCRIPTION:UGE 26\n\nMenu / onsdag Dagens inspiration:Dansk Brød:Surdejsbr
 	ød (1) og rugbrød (1) Til brød - Alle:Rørt ricotta med citron og friske kr
@@ -270,10 +270,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/6a363d8b1e1
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:zHtDBB35oPWekRprnFwwd
+UID:WyyOLT6dH-1lZgzDX2uQt
 SUMMARY:Frokost: Grøn karry med kylling\, auberginer\, bambus\, peberfrugte
 	r og frisk
-DTSTAMP:20260620T090258Z
+DTSTAMP:20260622T120106Z
 DTSTART:20260629T113000Z
 DESCRIPTION:UGE 27\n\nMenu / mandag Dagens inspiration:Thai Brød:Surdejsbrø
 	d (1) and rugbrød (1) Til brød - Alle:Pisket salatostcreme med persille og
@@ -320,10 +320,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/6a363df66f1
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:PhjvnGOwEvGGy88pbl2yF
+UID:iYGofvLYriCvynVR4knxO
 SUMMARY:Frokost: Gullasch af øko-okse med nye gulerødder og nye løg (12\,T)
 	\, hertil
-DTSTAMP:20260620T090258Z
+DTSTAMP:20260622T120106Z
 DTSTART:20260702T113000Z
 DESCRIPTION:UGE 27\n\nMenu / torsdag Dagens inspiration:Sommergryde Brød:Su
 	rdejsbrød (1) and rugbrød (1) Til brød - Alle:Ærtespread (11\,12) Til brød
@@ -370,10 +370,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/6a363df79d1
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:w54OLrRrfy4fiyOztn9t3
+UID:32eNRRkd4BndOs4XduJQW
 SUMMARY:Frokost: Panang-karry med stegt øko-kalkun\, pebberfrugter og pinto
 	bønner (
-DTSTAMP:20260620T090258Z
+DTSTAMP:20260622T120106Z
 DTSTART:20260622T113000Z
 DESCRIPTION:UGE 26\n\nMenu / mandag Dagens inspiration:Thai Brød:Surdejsbrø
 	d (1) og rugbrød (1) Til brød - Alle:Grøn oliventapenade (12) Til brød - A
@@ -420,10 +420,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/6a363d8b040
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:nGkr1Dmrh2R7OVs3xuHbT
+UID:QyneVW4yTkB3UAJuExjwM
 SUMMARY:Frokost: Pulled pork med løg og svampe i central-texansk kaffe-BBQ-
 	 sauce 
-DTSTAMP:20260620T090258Z
+DTSTAMP:20260622T120106Z
 DTSTART:20260626T113000Z
 DESCRIPTION:UGE 26\n\nMenu / fredag Dagens inspiration:Street Food Brød:Bri
 	oche burgerboller - 1 stk. pr. person (1) og rugbrød (1) Til brød - Alle:S
@@ -467,10 +467,10 @@ URL:https://cdn.prod.website-files.com/6020356278b4438fe8a59224/6a363d8b461
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:XysnftCVa729I4lwM73DI
+UID:-6cll0olBu7dJVOCoIy6c
 SUMMARY:Frokost: Klassisk lasagne af øko-okse (1\,3\,7\,9\,12\,T) Menu / ti
 	rsdag Today'
-DTSTAMP:20260620T090258Z
+DTSTAMP:20260622T120106Z
 DTSTART:20260623T113000Z
 DESCRIPTION:UGE 26\n\nMenu / tirsdag Dagens inspiration:Italiensk Brød:Surd
 	ejsbrød (1) og rugbrød (1) Til brød - Alle:Rød pesto (12\,T) Til brød - Al
